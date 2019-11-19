@@ -2,7 +2,7 @@
 This repository contains a bot created by Neko. I currently have the data to setup a pgsql
 database to run it.
 
-##requirements
+## requirements
 Have pipenv and python3 installed
 Have postgresQL installed on your computer.
 
