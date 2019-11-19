@@ -1,0 +1,703 @@
+{
+    "BRL": {
+        "start": {
+            "same_culture_advisor_cost": -0.33,
+            "global_unrest": -1
+        },
+        "bonus": {
+            "global_colonial_growth": 15
+        },
+        "brl_1": {
+            "liberty_desire_from_subject_development": -0.15,
+            "stability_cost_modifier": -0.125
+        },
+        "brl_2": {
+            "tolerance_heathen": 4
+        },
+        "brl_3": {
+            "land_morale": 0.2
+        },
+        "brl_4": {
+            "global_colonial_growth": 20,
+            "range": 1.0
+        },
+        "brl_5": {
+            "administrative_efficiency": 0.025,
+            "core_creation": -0.1
+        },
+        "brl_6": {
+            "infantry_power": 0.05,
+            "cavalry_power": 0.05,
+            "artillery_power": 0.05
+        },
+        "brl_7": {
+            "trade_efficiency": 0.1,
+            "global_trade_power": 0.1
+        }
+    },
+    "NAM": {
+        "start": {
+            "navy_tradition_decay": -0.1,
+            "ship_durability": 0.05
+        },
+        "bonus": {
+            "naval_maintenance_modifier": -0.2
+        },
+                "NAM_indochinese_trade": {
+            "merchants": 1
+        },
+        "NAM_constant_chinese_invasion": {
+            "defensiveness": 0.25
+        },
+        "NAM_hindu_morals": {
+            "tolerance_heathen": 3
+        },
+        "NAM_influential_rulers": {
+            "diplomatic_reputation": 2
+        },
+        "NAM_the_nguyen_dynasty": {
+            "legitimacy": 1
+        },
+        "NAM_tons_of_sailors": {
+            "global_sailors_modifier": 0.1
+        },
+        "NAM_advanced_irrigation": {
+            "development_cost": -0.1
+        }
+    },
+    "TRN": {
+        "start": {
+            "leader_siege": 1,
+            "manpower_recovery_speed": 0.2
+        },
+        "bonus": {
+            "fire_damage_received": -0.1
+        },
+                "TRN_idea_1": {
+            "stability_cost_modifier": -0.2
+        },
+        "TRN_idea_2": {
+            "war_exhaustion": -0.05
+        },
+        "TRN_idea_3": {
+            "development_cost": -0.1
+        },
+        "TRN_idea_4": {
+            "technology_cost": -0.05,
+            "idea_cost": -0.05
+        },
+        "TRN_idea_5": {
+            "siege_ability": 0.1
+        },
+        "TRN_idea_6": {
+            "land_attrition": -0.25
+        },
+        "TRN_idea_7": {
+            "discipline": 0.05
+        }
+    },
+    "SWB": {
+        "start": {
+            "diplomatic_reputation": 2,
+            "global_tax_modifier": 0.1
+        },
+        "bonus": {
+            "technology_cost": -0.1
+        },
+                "swb1": {
+            "cavalry_power": 0.1,
+            "siege_ability": 0.1
+        },
+        "swb2": {
+            "prestige": 1
+        },
+        "swb3": {
+            "land_morale": 0.1,
+            "legitimacy": 1
+        },
+        "swb4": {
+            "global_trade_power": 0.1,
+            "merchants": 1
+        },
+        "swb5": {
+            "ae_impact": -0.1
+        },
+        "swb6": {
+            "defensiveness": 0.1,
+            "yearly_absolutism": 0.1
+        },
+        "swb7": {
+            "imperial_authority_value": 0.1,
+            "global_autonomy": -0.1
+        }
+    },
+    "SGF": {
+        "start": {
+            "stability_cost_modifier": -0.2,
+            "global_unrest": -1
+        },
+        "bonus": {
+            "max_states": 5
+        },
+                "sgf_schwabing_circles": {
+            "prestige": 1,
+            "global_institution_spread": 0.1
+        },
+        "sgf_defensive_confederation": {
+            "defensiveness": 0.1,
+            "land_morale": 0.05
+        },
+        "sgf_german_ambitions": {
+            "ae_impact": -0.15,
+            "num_accepted_cultures": 2
+        },
+        "sgf_south_german_society": {
+            "global_manpower_modifier": 0.15
+        },
+        "sgf_one_german_faith": {
+            "tolerance_own": 2
+        },
+        "sgf_united_diplomacy": {
+            "diplomatic_reputation": 2,
+            "improve_relation_modifier": 0.05
+        },
+        "sgf_centralized_government": {
+            "legitimacy": 1,
+            "republican_tradition": 0.5,
+            "devotion": 1,
+            "global_autonomy": -0.025
+        }
+    },
+    "TTS": {
+        "start": {
+            "infantry_power": 0.1,
+            "global_unrest": -1
+        },
+        "bonus": {
+            "free_leader_pool": 1
+        },
+                "government_taxation_tsc": {
+            "global_tax_modifier": 0.1
+        },
+        "promoting_the_kingdom_tsc": {
+            "diplomats": 1
+        },
+        "drilled_infantry_tsc": {
+            "discipline": 0.05
+        },
+        "mafia_influence_tsc": {
+            "trade_efficiency": 0.1
+        },
+        "establish_a_draft_tsc": {
+            "merc_maintenance_modifier": -0.15
+        },
+        "technology_exchange_tsc": {
+            "technology_cost": -0.05
+        },
+        "private_investment_tsc": {
+            "development_cost": -0.1
+        }
+    },
+    "RHN": {
+        "start": {
+            "merchants": 1,
+            "caravan_power": 0.25
+        },
+        "bonus": {
+            "years_of_nationalism": -5
+        },
+                "RHN_idea_1": {
+            "global_manpower_modifier": 0.15,
+            "fire_damage": 0.05
+        },
+        "RHN_idea_2": {
+            "diplomatic_reputation": 2
+        },
+        "RHN_idea_3": {
+            "army_tradition": 1,
+            "shock_damage": 0.05
+        },
+        "RHN_idea_4": {
+            "yearly_corruption": -0.2
+        },
+        "RHN_idea_5": {
+            "merc_maintenance_modifier": -0.25
+        },
+        "RHN_idea_6": {
+            "production_efficiency": 0.1,
+            "development_cost": -0.1
+        },
+        "RHN_idea_7": {
+            "build_cost": -0.1,
+            "global_regiment_cost": -0.1
+        }
+    },
+    "REI": {
+        "start": {
+            "no_religion_penalty": true,
+            "administrative_efficiency": 0.2
+        },
+        "bonus": {
+            "years_of_nationalism": -10
+        },
+                "REI_idea_1": {
+            "global_manpower_modifier": 0.2,
+            "yearly_absolutism": 1
+        },
+        "REI_idea_2": {
+            "land_forcelimit_modifier": 0.1,
+            "global_tax_income": 12
+        },
+        "REI_idea_3": {
+            "army_tradition": 1,
+            "shock_damage": 0.1
+        },
+        "REI_idea_4": {
+            "yearly_corruption": -0.2
+        },
+        "REI_idea_5": {
+            "num_accepted_cultures": 3
+        },
+        "REI_idea_6": {
+            "production_efficiency": 0.1,
+            "development_cost": -0.1
+        },
+        "REI_idea_7": {
+            "discipline": 0.1,
+            "fire_damage": 0.1
+        }
+    },
+    "REA": {
+        "start": {
+            "colonist_placement_chance": 0.05,
+            "administrative_efficiency": 0.1
+        },
+        "bonus": {
+            "colonist_placement_chance": 0.1
+        },
+                "REA_idea_1": {
+            "global_manpower_modifier": 0.2,
+            "yearly_absolutism": 1
+        },
+        "REA_idea_2": {
+            "land_forcelimit_modifier": 0.1,
+            "global_tax_income": 12
+        },
+        "REA_idea_3": {
+            "army_tradition": 1,
+            "shock_damage": 0.1
+        },
+        "REA_idea_4": {
+            "yearly_corruption": -0.2
+        },
+        "REA_idea_5": {
+            "native_uprising_chance": -0.5,
+            "native_assimilation": 1
+        },
+        "REA_idea_6": {
+            "global_colonial_growth": 20,
+            "development_cost": -0.3
+        },
+        "REA_idea_7": {
+            "production_efficiency": 0.15,
+            "fire_damage": 0.1
+        }
+    },
+    "LOM": {
+        "start": {
+            "infantry_power": 0.15,
+            "global_trade_power": 0.2
+        },
+        "bonus": {
+            "core_creation": -0.25
+        },
+                "lombardian_art": {
+            "idea_cost": -0.05,
+            "technology_cost": -0.05
+        },
+        "regnum_totius_italiea": {
+            "global_autonomy": -0.05
+        },
+        "kingdom_of_converted": {
+            "tolerance_own": 1,
+            "global_missionary_strength": 0.01
+        },
+        "blossoming_country": {
+            "global_tax_modifier": 0.1,
+            "build_cost": -0.1
+        },
+        "willing_to_fight": {
+            "global_manpower_modifier": 0.25
+        },
+        "walls_of_wood": {
+            "galley_power": 0.15,
+            "global_ship_trade_power": 0.15
+        },
+        "the_iron_crown": {
+            "legitimacy": 1,
+            "yearly_absolutism": 0.25
+        }
+    },
+    "FRC": {
+        "start": {
+            "technology_cost": -0.05,
+            "advisor_cost": -0.15
+        },
+        "bonus": {
+            "production_efficiency": 0.1
+        },
+                "FRC_legitimate_successor": {
+            "legitimacy": 1
+        },
+        "FRC_reputation": {
+            "diplomatic_reputation": 1
+        },
+        "FRC_armies": {
+            "discipline": 0.05
+        },
+        "FRC_coring_lands": {
+            "core_creation": -0.1
+        },
+        "FRC_hre_diplomacy": {
+            "diplomatic_upkeep": 1
+        },
+        "FRC_upper_rhine": {
+            "development_cost": -0.1
+        },
+        "FRC_defense_of_nuremberg": {
+            "defensiveness": 0.25
+        }
+    },
+    "CTH": {
+        "start": {
+            "may_perform_slave_raid": true,
+            "merc_maintenance_modifier": -0.5
+        },
+        "bonus": {
+            "hostile_attrition": 1
+        },
+                "carthaginian_commerce": {
+            "trade_efficiency": 0.15,
+            "global_trade_power": 0.1
+        },
+        "carthaginian_navy": {
+            "sailor_maintenance_modifer": -0.33
+        },
+        "colonies_in_iberia": {
+            "core_creation": -0.2,
+            "global_colonial_growth": 10
+        },
+        "phoenician_revival": {
+            "range": 0.5,
+            "sea_repair": true
+        },
+        "sacred_band": {
+            "discipline": 0.05
+        },
+        "carthagian_merchant_ships": {
+            "global_ship_trade_power": 0.2
+        },
+        "hundred_and_Four": {
+            "republican_tradition": 1,
+            "global_unrest": -1
+        }
+    },
+    "FRX": {
+        "start": {
+            "legitimacy": 1.0,
+            "prestige": 1.0
+        },
+        "bonus": {
+            "prestige_decay": -0.01
+        },
+                "FRX_idea_1": {
+            "administrative_efficiency": 0.05,
+            "yearly_corruption": -0.05
+        },
+        "FRX_idea_2": {
+            "reinforce_cost_modifier": -0.25,
+            "land_morale": 0.15
+        },
+        "FRX_idea_3": {
+            "movement_speed": 0.25,
+            "loot_amount": 0.25
+        },
+        "FRX_idea_4": {
+            "cavalry_power": 0.15,
+            "cavalry_cost": -0.1
+        },
+        "FRX_idea_5": {
+            "global_manpower_modifier": 0.1,
+            "production_efficiency": 0.1
+        },
+        "FRX_idea_6": {
+            "stability_cost_modifier": -0.1
+        },
+        "FRX_idea_7": {
+            "all_power_cost": -0.05
+        }
+    },
+    "HNS_COC": {
+        "start": {
+            "merchants": 2,
+            "republican_tradition": 0.5
+        },
+        "bonus": {
+            "colonists": 1
+        },
+        "trigger": {
+            "tag": "HNS",
+            "has_dlc": "CradleofCivilization"
+        },
+        "free": true,
+        "HNS1_COC": {
+            "naval_forcelimit_modifier": 0.33,
+            "trade_efficiency": 0.05
+        },
+        "HNS2_COC": {
+            "global_own_trade_power": 0.1,
+            "trade_efficiency": 0.05
+        },
+        "HNS3_COC": {
+            "diplomatic_reputation": 1,
+            "trade_efficiency": 0.05
+        },
+        "HNS4_COC": {
+            "yearly_army_professionalism": 0.05,
+            "trade_efficiency": 0.05
+        },
+        "HNS5_COC": {
+            "own_coast_naval_combat_bonus": 1,
+            "trade_efficiency": 0.05
+        },
+        "HNS6_COC": {
+            "trade_steering": 0.15,
+            "trade_efficiency": 0.05
+        },
+        "HNS7_COC": {
+            "global_trade_power": 0.1,
+            "trade_efficiency": 0.05
+        }
+    },
+    "HNS": {
+        "start": {
+            "merchants": 2,
+            "republican_tradition": 0.5
+        },
+        "bonus": {
+            "colonists": 1
+        },
+        "trigger": {
+            "tag": "HNS",
+            "NOT": {
+                "has_dlc": "CradleofCivilization"
+            }
+        },
+        "free": true,
+        "HNS1": {
+            "naval_forcelimit_modifier": 0.33,
+            "trade_efficiency": 0.05
+        },
+        "HNS2": {
+            "build_cost": -0.1,
+            "trade_efficiency": 0.05
+        },
+        "HNS3": {
+            "diplomatic_reputation": 1,
+            "trade_efficiency": 0.05
+        },
+        "HNS4": {
+            "discipline": 0.05,
+            "trade_efficiency": 0.05
+        },
+        "HNS5": {
+            "own_coast_naval_combat_bonus": 1,
+            "trade_efficiency": 0.05
+        },
+        "HNS6": {
+            "trade_steering": 0.15,
+            "trade_efficiency": 0.05
+        },
+        "HNS7": {
+            "global_trade_power": 0.1,
+            "trade_efficiency": 0.05
+        }
+    },
+    "kingdom_of_god": {
+        "start": {
+            "missionaries": 1,
+            "trade_efficiency": 0.1
+        },
+        "bonus": {
+            "development_cost": -0.1
+        },
+        "trigger": {
+            "tag": "PAP",
+            "has_country_flag": "Kingdom_Of_Many"
+        },
+        "free": true,
+        "kingdom_of_god_idea_1": {
+            "galley_power": 0.2,
+            "global_ship_trade_power": 0.15
+        },
+        "kingdom_of_god_idea_2": {
+            "infantry_power": 0.1
+        },
+        "kingdom_of_god_idea_3": {
+            "global_unrest": -1
+        },
+        "kingdom_of_god_idea_4": {
+            "core_creation": -0.15
+        },
+        "kingdom_of_god_idea_5": {
+            "technology_cost": -0.05,
+            "idea_cost": -0.05
+        },
+        "kingdom_of_god_idea_6": {
+            "advisor_cost": -0.1
+        },
+        "kingdom_of_god_idea_7": {
+            "discipline": 0.05
+        }
+    },
+    "MCC": {
+        "start": {
+            "state_maintenance_modifier": -0.25,
+            "tolerance_own": 2
+        },
+        "bonus": {
+            "legitimacy": 1,
+            "republican_tradition": 0.5,
+            "devotion": 1
+        },
+                "authority_from_and_under_ottomans": {
+            "free_adm_policy": 1
+        },
+        "qaramita_sect_of_mecca": {
+            "fabricate_claims_cost": -0.25,
+            "army_tradition": 0.5
+        },
+        "protecting_the_hajj": {
+            "diplomatic_reputation": 1
+        },
+        "history_with_the_mamluks": {
+            "global_regiment_cost": -0.1
+        },
+        "hosts_of_mecca_medina": {
+            "missionaries": 1,
+            "global_missionary_strength": 0.01
+        },
+        "defenders_of_the_faithful": {
+            "defensiveness": 0.2
+        },
+        "ottoman_advisors_and_courtiers": {
+            "advisor_cost": -0.1
+        }
+    },
+    "PDB": {
+        "start": {
+            "devotion": 0.25,
+            "legitimacy": 0.25,
+            "republican_tradition": 0.1,
+            "diplomatic_reputation": 1
+        },
+        "bonus": {
+            "production_efficiency": 0.1
+        },
+                "PDB_founded_by_charlemagne": {
+            "prestige": 1
+        },
+        "PDB_trade_route": {
+            "caravan_power": 0.15
+        },
+        "PDB_city_ward": {
+            "garrison_size": 0.1,
+            "manpower_recovery_speed": 0.1
+        },
+        "PDB_converting_efforts": {
+            "missionaries": 1,
+            "global_missionary_strength": 0.02
+        },
+        "PDB_war_endurance": {
+            "war_exhaustion": -0.05,
+            "hostile_attrition": 1
+        },
+        "PDB_rebuilding": {
+            "build_cost": -0.1,
+            "development_cost": -0.1
+        },
+        "PDB_rich_diocese": {
+            "global_tax_modifier": 0.2
+        }
+    },
+    "ZCV": {
+        "start": {
+            "global_manpower_modifier": 0.2,
+            "num_accepted_cultures": 2
+        },
+        "bonus": {
+            "discipline": 0.05
+        },
+                "bohemia_hussite_legacy_freerdom_of_religion": {
+            "no_religion_penalty": true
+        },
+        "bohemia_innovate_on_military_technology": {
+            "mil_tech_cost_modifier": -0.05,
+            "fire_damage": 0.075
+        },
+        "slovak_development_of_the_terrain": {
+            "development_cost": -0.1
+        },
+        "moravia_first_and_foremost_of_the_west_slavs": {
+            "legitimacy": 1,
+            "republican_tradition": 0.5
+        },
+        "polska_jageillonian_university": {
+            "idea_cost": -0.1
+        },
+        "polska_dynastic_ties": {
+            "diplomatic_reputation": 1
+        },
+        "the_greatness_of_zachoslavia": {
+            "max_states": 5,
+            "land_forcelimit_modifier": 0.2
+        }
+    },
+    "Goguryeo": {
+        "start": {
+            "global_own_trade_power": 0.25,
+            "land_forcelimit_modifier": 0.25
+        },
+        "bonus": {
+            "infantry_power": 0.1
+        },
+        "trigger": {
+            "has_country_flag": "KOR_New_idea_group",
+            "tag": "KOR"
+        },
+        "free": true,
+        "hanguel_alphabet": {
+            "technology_cost": -0.05
+        },
+        "hostilities_in_the_north": {
+            "cavalry_power": 0.1,
+            "cavalry_cost": -0.1
+        },
+        "hyanyak_system": {
+            "production_efficiency": 0.1
+        },
+        "geobukseon": {
+            "ship_durability": 0.1
+        },
+        "hopae_system": {
+            "global_manpower_modifier": 0.1,
+            "manpower_recovery_speed": 0.1
+        },
+        "kyujanggak": {
+            "idea_cost": -0.1
+        },
+        "against_the_western_foes": {
+            "shock_damage_received": -0.1
+        }
+    }
+}

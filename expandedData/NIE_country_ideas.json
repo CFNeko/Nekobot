@@ -1,0 +1,7720 @@
+{
+  "CHG": {
+    "Tradition": {
+      "cavalry power": 0.2,
+      "cavalry cost": -0.15
+    },
+    "Ambition": {
+      "land maintenance modifier": -0.1
+    },
+
+    "picking up the pieces": {
+      "land morale": 0.1
+    },
+    "unification of central asia": {
+      "core creation": -0.25
+    },
+    "modernize and adapt": {
+      "horde unity": 1,
+      "legitimacy": 1
+    },
+    "quick and vicious movement": {
+      "movement speed": 0.2
+    },
+    "mediate buddhust islam encounters": {
+      "tolerance heathen": 2,
+      "improve relation modifier": 0.2
+    },
+    "silk road trade": {
+      "merc maintenance modifier": -0.1,
+      "trade efficiency": 0.05
+    },
+    "reform the mongol empire": {
+      "discipline": 0.05
+    }
+  },
+  "NOG": {
+    "Tradition": {
+      "cavalry power": 0.2,
+      "cavalry cost": -0.15
+    },
+    "Ambition": {
+      "state maintenance modifier": -0.25
+    },
+
+    "confederation of turkic and mongols": {
+      "core creation": -0.25
+    },
+    "the manghits": {
+      "land morale": 0.1
+    },
+    "centralize the lesser greater nogay": {
+      "global manpower modifier": 0.2
+    },
+    "weak religious institutions": {
+      "tolerance heretic": 2,
+      "tolerance heathen": 2
+    },
+    "khanate rivalries": {
+      "shock damage": 0.1
+    },
+    "keep nomadic traditions": {
+      "loot amount": 0.25,
+      "movement speed": 0.1
+    },
+    "fluid political organization": {
+      "legitimacy": 1,
+      "horde unity": 1
+    }
+  },
+  "OIR": {
+    "Tradition": {
+      "cavalry power": 0.2,
+      "cavalry cost": -0.15
+    },
+    "Ambition": {
+      "max states": 5
+    },
+
+    "four major tribes": {
+      "land maintenance modifier": -0.05
+    },
+    "memory of temujin": {
+      "core creation": -0.25
+    },
+    "ming rivalry": {
+      "manpower recovery speed": 0.1,
+      "land forcelimit modifier": 0.25
+    },
+    "fall of the yuan": {
+      "legitimacy": 1,
+      "horde unity": 1
+    },
+    "past the great wall": {
+      "siege ability": 0.15
+    },
+    "religious indifference": {
+      "religious unity": 0.2
+    },
+    "unification of the mongols": {
+      "global manpower modifier": 0.1,
+      "army tradition": 0.5
+    }
+  },
+  "SHY": {
+    "Tradition": {
+      "cavalry power": 0.2,
+      "cavalry cost": -0.15
+    },
+    "Ambition": {
+      "land forcelimit modifier": 0.25
+    },
+
+    "reign over many tribes": {
+      "legitimacy": 1,
+      "horde unity": 1
+    },
+    "degrading golden horde influence": {
+      "core creation": -0.25
+    },
+    "contest over southern lands": {
+      "army tradition": 0.5,
+      "land morale": 0.05
+    },
+    "settle issues with tribes": {
+      "free adm policy": 1
+    },
+    "consolidate shaybanid domain": {
+      "build cost": -0.25
+    },
+    "abulkharids": {
+      "global unrest": -1
+    },
+    "ascend from nomadic life": {
+      "technology cost": -0.075
+    }
+  },
+  "LIV": {
+    "Tradition": {
+      "land morale": 0.1,
+      "global missionary strength": 0.02
+    },
+    "Ambition": {
+      "army tradition": 1
+    },
+
+    "legacy of livonian brothers sword": {
+      "devotion": 1,
+      "legitimacy": 1,
+      "republican tradition": 0.5
+    },
+    "reverse the decline": {
+      "yearly corruption": -0.05
+    },
+    "riga and catholic ties": {
+      "diplomatic reputation": 1
+    },
+    "bastion against the orthodox": {
+      "papal influence": 2,
+      "defensiveness": 0.1
+    },
+    "baltic trade ties": {
+      "trade efficiency": 0.1
+    },
+    "playing off major powers": {
+      "diplomatic upkeep": 1
+    },
+    "cultivate the livonian order": {
+      "discipline": 0.05
+    }
+  },
+  "MLC": {
+    "Tradition": {
+      "trade efficiency": 0.1,
+      "naval morale": 0.15
+    },
+    "Ambition": {
+      "colonists": 1
+    },
+
+    "heir to srivijaya": {
+      "prestige": 1,
+      "core creation": -0.1
+    },
+    "protect the straits": {
+      "navy tradition": 1,
+      "naval maintenance modifier": -0.1
+    },
+    "ties with chinese dynasties": {
+      "diplomatic reputation": 1
+    },
+    "rivals in north and south": {
+      "years of nationalism": -5
+    },
+    "development of malacca": {
+      "development cost": -0.1
+    },
+    "the spice must flow": {
+      "production efficiency": 0.15
+    },
+    "contest for south east asia": {
+      "land forcelimit modifier": 0.25
+    }
+  },
+  "NAH": {
+    "Tradition": {
+      "development cost": -0.1,
+      "diplomatic reputation": 1
+    },
+    "Ambition": {
+      "global manpower modifier": 0.25
+    },
+
+    "history with pueblo people": {
+      "same culture advisor cost": -0.2
+    },
+    "rivals all around": {
+      "infantry power": 0.1
+    },
+    "arid of the four corners": {
+      "hostile attrition": 1.5
+    },
+    "structured clan soceity": {
+      "global autonomy": -0.025,
+      "stability cost modifier": -0.1
+    },
+    "cultivate navajo leadership": {
+      "army tradition": 1
+    },
+    "commit to settled life": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "survive and learn": {
+      "mil tech cost modifier": -0.1,
+      "global institution spread": 0.1
+    }
+  },
+  "ADA": {
+    "Tradition": {
+      "shock damage": 0.1,
+      "land maintenance modifier": -0.1
+    },
+    "Ambition": {
+      "fire damage": 0.1
+    },
+
+    "founded in fire": {
+      "land morale": 0.1
+    },
+    "the eternal rivalry": {
+      "global manpower modifier": 0.15
+    },
+    "lead the somali people": {
+      "legitimacy": 0.5,
+      "global unrest": -1
+    },
+    "futuh al habash": {
+      "artillery power": 0.1
+    },
+    "control the afar and oromo": {
+      "global autonomy": -0.05
+    },
+    "turning to trade": {
+      "trade steering": 0.25
+    },
+    "ties to muslim nations": {
+      "diplomats": 1
+    }
+  },
+  "MRK": {
+    "Tradition": {
+      "development cost": -0.1,
+      "defensiveness": 0.2
+    },
+    "Ambition": {
+      "manpower recovery speed": 0.15
+    },
+
+    "marrakesh the red": {
+      "global unrest": -1
+    },
+    "salt and gold trade": {
+      "trade efficiency": 0.1
+    },
+    "reintroduce andalusian architecture": {
+      "prestige": 1,
+      "build cost": -0.1
+    },
+    "reform coin minting": {
+      "inflation reduction": 0.1
+    },
+    "attracting new scholars": {
+      "idea cost": -0.1
+    },
+    "sustain the kasbah of marrakesh": {
+      "garrison size": 0.25
+    },
+    "imperial capital once more": {
+      "global autonomy": -0.05
+    }
+  },
+  "MAJ": {
+    "Tradition": {
+      "navy tradition": 1,
+      "naval forcelimit modifier": 0.25
+    },
+    "Ambition": {
+      "religious unity": 0.25
+    },
+
+    "shattered empire": {
+      "ae impact": -0.15
+    },
+    "reinstate gajah madas plans": {
+      "core creation": -0.15
+    },
+    "majapahit armada": {
+      "naval morale": 0.1,
+      "heavy ship power": 0.1
+    },
+    "reclaim the trade monopoly": {
+      "global trade power": 0.15
+    },
+    "ending the heirs of srivajaya": {
+      "years of nationalism": -5
+    },
+    "formalize gunpowder usage": {
+      "fire damage": 0.1
+    },
+    "restore the majapahit empire": {
+      "colonists": 1
+    }
+  },
+  "OLD": {
+    "Tradition": {
+      "diplomatic reputation": 1,
+      "global prov trade power modifier": 0.15
+    },
+    "Ambition": {
+      "merchants": 1
+    },
+
+    "contested north": {
+      "land morale": 0.05,
+      "infantry power": 0.05
+    },
+    "ties to the hansa": {
+      "trade efficiency": 0.1
+    },
+    "vassals of saxons": {
+      "global institution spread": 0.15
+    },
+    "frisian tension": {
+      "spy offence": 0.2
+    },
+    "religious tension": {
+      "papal influence": 2,
+      "church power modifier": 0.1,
+      "monthly fervor increase": 0.25
+    },
+    "secure trade connections": {
+      "global foreign trade power": 0.15
+    },
+    "secularize the nation": {
+      "stability cost modifier": -0.1
+    }
+  },
+  "TRI": {
+    "Tradition": {
+      "global manpower modifier": 0.1,
+      "missionaries": 1
+    },
+    "Ambition": {
+      "global missionary strength": 0.02
+    },
+
+    "roman history": {
+      "prestige": 1
+    },
+    "intertwined with frankish affairs": {
+      "diplomatic upkeep": 1
+    },
+    "found the university of trier": {
+      "technology cost": -0.05
+    },
+    "maintain the rhenish circle": {
+      "stability cost modifier": -0.1
+    },
+    "rivalry with cologne mainz": {
+      "diplomatic reputation": 1
+    },
+    "retain ecclesiastical principality status": {
+      "advisor cost": -0.1,
+      "advisor pool": 1
+    },
+    "maintain german hre prominence": {
+      "discipline": 0.05
+    }
+  },
+  "SHM": {
+    "Tradition": {
+      "hostile attrition": 1,
+      "leader land shock": 1
+    },
+    "Ambition": {
+      "development cost": -0.1
+    },
+
+    "extensive history in arabia": {
+      "movement speed": 0.15
+    },
+    "rivalry with anizzah": {
+      "manpower recovery speed": 0.1
+    },
+    "participation in muslim conquest": {
+      "monthly piety": 0.001,
+      "global manpower modifier": 0.1
+    },
+    "raiding parties": {
+      "siege ability": 0.1,
+      "loot amount": 0.15
+    },
+    "exodus of shammar branches": {
+      "trade range modifier": 0.33,
+      "trade efficiency": 0.1
+    },
+    "strengthen the confederation": {
+      "legitimacy": 1,
+      "republican tradition": 0.5
+    },
+    "make good on yemeni blood connections": {
+      "diplomatic reputation": 1
+    }
+  },
+  "SUN": {
+    "Tradition": {
+      "production efficiency": 0.1,
+      "navy tradition": 1
+    },
+    "Ambition": {
+      "defensiveness": 0.2
+    },
+
+    "glory of the taruma kingdom": {
+      "land morale": 0.1
+    },
+    "rivalries in java": {
+      "legitimacy": 0.5,
+      "republican tradition": 0.025,
+      "spy offence": 0.1
+    },
+    "catalogue sundanese history": {
+      "prestige decay": -0.01
+    },
+    "promote sundanese trade": {
+      "global prov trade power modifier": 0.1
+    },
+    "to unify java and beyond": {
+      "province warscore cost": -0.1
+    },
+    "trade with muslim merchants": {
+      "trade efficiency": 0.1
+    },
+    "resist foreign influence": {
+      "manpower recovery speed": 0.1
+    }
+  },
+  "SIO": {
+    "Tradition": {
+      "advisor pool": 1,
+      "free leader pool": 1
+    },
+    "Ambition": {
+      "land forcelimit modifier": 0.25
+    },
+
+    "the nakota": {
+      "manpower recovery speed": 0.1
+    },
+    "the lakota": {
+      "army tradition decay": -0.01
+    },
+    "the dakota": {
+      "stability cost modifier": -0.1
+    },
+    "unite the sioux": {
+      "war exhaustion": -0.02
+    },
+    "formalize the siouan language and history": {
+      "same culture advisor cost": -0.2
+    },
+    "found the great sioux nation": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "take on centralization and reforms": {
+      "global autonomy": -0.05
+    }
+  },
+  "COM": {
+    "Tradition": {
+      "movement speed": 0.15,
+      "leader land shock": 1
+    },
+    "Ambition": {
+      "discipline": 0.05
+    },
+
+    "broke away from the shoshone": {
+      "legitimacy": 1,
+      "prestige": 1
+    },
+    "combat across the plains": {
+      "army tradition": 0.5
+    },
+    "social political organizing": {
+      "global unrest": -1,
+      "global autonomy": -0.025
+    },
+    "contest land claims by other tribes": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "become the lords of the plains": {
+      "cavalry power": 0.2,
+      "cav to inf ratio": 0.3
+    },
+    "take the fight to the enemy": {
+      "shock damage": 0.05,
+      "fire damage": 0.05
+    },
+    "take what is ours for comancheria": {
+      "province warscore cost": -0.1
+    }
+  },
+  "KSH": {
+    "Tradition": {
+      "defensiveness": 0.2,
+      "diplomatic upkeep": 1
+    },
+    "Ambition": {
+      "global unrest": -2
+    },
+
+    "confluence between three religions": {
+      "religious unity": 0.25
+    },
+    "kashmir shaivisim history": {
+      "tolerance heathen": 2
+    },
+    "crossroads of nations regions": {
+      "trade efficiency": 0.1,
+      "trade range modifier": 0.33
+    },
+    "sikh influences": {
+      "idea cost": -0.1
+    },
+    "reclaim kashmiri lands": {
+      "core creation": -0.1
+    },
+    "incorporate surrounding cultures": {
+      "num accepted cultures": 1
+    },
+    "defend what is ours": {
+      "global garrison growth": 0.1,
+      "garrison size": 0.25
+    }
+  },
+  "WCR": {
+    "Tradition": {
+      "global manpower modifier": 0.2,
+      "stability cost modifier": -0.15
+    },
+    "Ambition": {
+      "possible policy": 1
+    },
+
+    "bands and clans": {
+      "improve relation modifier": 0.2
+    },
+    "common cree language": {
+      "development cost": -0.1
+    },
+    "spread of the cree people": {
+      "colonists": 1
+    },
+    "trade with confederacies": {
+      "trade efficiency": 0.1,
+      "trade range modifier": 0.5
+    },
+    "take up gunpowder weapons": {
+      "leader land fire": 1
+    },
+    "control internal politics": {
+      "global autonomy": -0.05
+    },
+    "proclaim the cree nation": {
+      "global unrest": -2
+    }
+  },
+  "KOL": {
+    "Tradition": {
+      "ae impact": -0.1,
+      "missionaries": 1
+    },
+    "Ambition": {
+      "diplomats": 1
+    },
+
+    "thanks be to otto i": {
+      "diplomatic reputation": 1
+    },
+    "assist the hanseatic league": {
+      "global prov trade power modifier": 0.1
+    },
+    "arch chancellor of italy": {
+      "improve relation modifier": 0.25
+    },
+    "imperial meddling within cologne": {
+      "legitimacy": 1,
+      "republican tradition": 0.5,
+      "devotion": 1
+    },
+    "the question of the reformation": {
+      "global institution spread": 0.1
+    },
+    "secure the power of cologne": {
+      "infantry power": 0.1,
+      "army tradition": 0.5
+    },
+    "press the claims of cologne": {
+      "core creation": -0.1
+    }
+  },
+  "MAI": {
+    "Tradition": {
+      "years of nationalism": -5,
+      "missionaries": 1
+    },
+    "Ambition": {
+      "missionary maintenance cost": -0.2
+    },
+
+    "primas germinae": {
+      "diplomats": 1
+    },
+    "arch chancellor of germany": {
+      "prestige": 1,
+      "papal influence": 2
+    },
+    "in rememberance of saint boniface": {
+      "global unrest": -1
+    },
+    "mediate between estates and emperor": {
+      "diplomatic upkeep": 1
+    },
+    "continue the power of mainz": {
+      "army tradition": 0.5
+    },
+    "maintain our position as first in hre": {
+      "discipline": 0.05
+    },
+    "press spiritual and political power": {
+      "global autonomy": -0.05
+    }
+  },
+  "AUG": {
+    "Tradition": {
+      "global tax modifier": 0.1,
+      "inflation reduction": 0.1
+    },
+    "Ambition": {
+      "global prov trade power modifier": 0.2
+    },
+
+    "legacy of imperial papal sidings": {
+      "improve relation modifier": 0.25
+    },
+    "free imperial city status": {
+      "build cost": -0.1,
+      "build time": -0.1
+    },
+    "fuggers and welsers": {
+      "interest": -0.5,
+      "caravan power": 0.1
+    },
+    "reformation tensions": {
+      "tolerance heretic": 3
+    },
+    "influential ties": {
+      "diplomatic reputation": 1
+    },
+    "promote augsburg industry": {
+      "production efficiency": 0.1
+    },
+    "development of augsburg": {
+      "development cost": -0.1
+    }
+  },
+  "RVA": {
+    "Tradition": {
+      "defensiveness": 0.25,
+      "fabricate claims cost": -0.25
+    },
+    "Ambition": {
+      "global regiment cost": -0.1
+    },
+
+    "ancestral seat of the welfs": {
+      "prestige decay": -0.01,
+      "stability cost modifier": -0.1
+    },
+    "keep the castle of ravensburg": {
+      "build cost": -0.1,
+      "fort maintenance modifier": -0.1
+    },
+    "the great ravensburg trading society": {
+      "caravan power": 0.2
+    },
+    "commodity of paper": {
+      "production efficiency": 0.1
+    },
+    "make a paritetic government": {
+      "tolerance heretic": 3
+    },
+    "promote administrative matters": {
+      "free adm policy": 1
+    },
+    "safeguard ravensburg people": {
+      "land forcelimit modifier": 0.25
+    }
+  },
+  "LAU": {
+    "Tradition": {
+      "trade efficiency": 0.1,
+      "advisor pool": 1
+    },
+    "Ambition": {
+      "province warscore cost": -0.1
+    },
+
+    "hotly contested land": {
+      "land morale": 0.1
+    },
+    "dynastic affairs": {
+      "legitimacy": 1,
+      "republican tradition": 0.5
+    },
+    "part of the saxon circle": {
+      "diplomats": 1
+    },
+    "contention with the danish": {
+      "defensiveness": 0.1,
+      "global spy defence": 0.2
+    },
+    "keep the house of ascania": {
+      "global manpower modifier": 0.2
+    },
+    "balance the faiths": {
+      "global unrest": -1,
+      "religious unity": 0.15
+    },
+    "ambition for northern germany": {
+      "ae impact": -0.1
+    }
+  },
+  "PSA": {
+    "Tradition": {
+      "navy tradition": 1,
+      "trade efficiency": 0.1
+    },
+    "Ambition": {
+      "yearly absolutism": 0.2
+    },
+
+    "first of the sea sultanates": {
+      "tolerance heathen": 3
+    },
+    "promote islamic thought through trade": {
+      "global prov trade power modifier": 0.1,
+      "navy tradition decay": -0.01
+    },
+    "conflicts with majapahit": {
+      "land morale": 0.1
+    },
+    "take to land development": {
+      "development cost": -0.1
+    },
+    "loyalty of the citizens": {
+      "global unrest": -1
+    },
+    "modernize the navy": {
+      "heavy ship power": 0.05,
+      "light ship power": 0.1
+    },
+    "establish central authority": {
+      "legitimacy": 1
+    }
+  },
+  "NUM": {
+    "Tradition": {
+      "prestige": 1,
+      "production efficiency": 0.15
+    },
+    "Ambition": {
+      "land maintenance modifier": -0.1
+    },
+
+    "keep castellans": {
+      "fort maintenance modifier": -0.2,
+      "global garrison growth": 0.1
+    },
+    "continue to hold imperial diets": {
+      "prestige decay": -0.01,
+      "diplomatic reputation": 1
+    },
+    "center of the german renaissance": {
+      "idea cost": -0.1
+    },
+    "great letter of freedom 1298": {
+      "development cost": -0.1
+    },
+    "spilloff from our fame": {
+      "global prov trade power modifier": 0.1
+    },
+    "armed neutrality": {
+      "yearly army professionalism": 0.01
+    },
+    "preserve our status": {
+      "legitimacy": 1
+    }
+  },
+  "SIE": {
+    "Tradition": {
+      "interest": -0.5,
+      "production efficiency": 0.1
+    },
+    "Ambition": {
+      "global unrest": -1
+    },
+
+    "constitution of 1179": {
+      "republican tradition": 0.5
+    },
+    "remember the battle of montaperti": {
+      "land morale": 0.1
+    },
+    "reform monetary practices": {
+      "global tax modifier": 0.1,
+      "inflation reduction": 0.05
+    },
+    "alliances and rivals of italy": {
+      "diplomatic reputation": 1
+    },
+    "stave off episcopal dominance": {
+      "discipline": 0.05
+    },
+    "secure italy against tuscans": {
+      "yearly corruption": -0.05
+    },
+    "produce grand art": {
+      "prestige": 1
+    }
+  },
+  "FER": {
+    "Tradition": {
+      "development cost": -0.1,
+      "production efficiency": 0.1
+    },
+    "Ambition": {
+      "defensiveness": 0.15
+    },
+
+    "maintain the house of este": {
+      "legitimacy": 1,
+      "republican tradition": 0.5
+    },
+    "italian tensions": {
+      "merc maintenance modifier": -0.1,
+      "mercenary cost": -0.1
+    },
+    "rival of venice": {
+      "land morale": 0.1
+    },
+    "promote high european culture": {
+      "prestige": 1
+    },
+    "cultivate the duchy of ferrara": {
+      "global autonomy": -0.05
+    },
+    "build up the court of ferrara": {
+      "advisor cost": -0.15
+    },
+    "from the hre to italy": {
+      "diplomatic upkeep": 1
+    }
+  },
+  "MAG": {
+    "Tradition": {
+      "defensiveness": 0.2,
+      "num accepted cultures": 1
+    },
+    "Ambition": {
+      "manpower recovery speed": 0.1
+    },
+
+    "hre border state": {
+      "global institution spread": 0.1
+    },
+    "legacy of promoting christianity": {
+      "global missionary strength": 0.02
+    },
+    "settle internal matters": {
+      "possible policy": 1
+    },
+    "consolidate the districts": {
+      "global manpower modifier": 0.2
+    },
+    "legacy of the great saxon revolt": {
+      "advisor cost": -0.1
+    },
+    "defensive stance": {
+      "hostile attrition": 1
+    },
+    "break away state protestant reformed": {
+      "stability cost modifier": -0.1,
+      "church power modifier": 0.1,
+      "monthly fervor increase": 0.25
+    }
+  },
+  "KED": {
+    "Tradition": {
+      "manpower recovery speed": 0.1,
+      "trade efficiency": 0.1
+    },
+    "Ambition": {
+      "trade steering": 0.1
+    },
+
+    "former hindu center": {
+      "religious unity": 0.2
+    },
+    "influences from srivijaya": {
+      "navy tradition": 0.5,
+      "naval morale": 0.1
+    },
+    "chola empire influences": {
+      "global prov trade power modifier": 0.1,
+      "trade range modifier": 0.33
+    },
+    "quality army of kedah": {
+      "discipline": 0.05
+    },
+    "confluence of giants": {
+      "army tradition": 0.5
+    },
+    "promote kedah merchants": {
+      "merchants": 1
+    },
+    "protect the coasts": {
+      "naval forcelimit modifier": 0.25
+    }
+  },
+  "MAN": {
+    "Tradition": {
+      "mercenary cost": -0.2,
+      "diplomatic upkeep": 1
+    },
+    "Ambition": {
+      "mercenary discipline": 0.025
+    },
+
+    "legacy of the investiture controversy": {
+      "prestige": 1,
+      "advisor pool": 1
+    },
+    "walls of mantua": {
+      "fort maintenance modifier": -0.2
+    },
+    "backroom deals": {
+      "spy offence": 0.1,
+      "diplomatic reputation": 1
+    },
+    "episcopal influences": {
+      "papal influence": 2
+    },
+    "the gonzagas": {
+      "global unrest": -1
+    },
+    "mercenary connections": {
+      "merc maintenance modifier": -0.1,
+      "loot amount": 0.2
+    },
+    "protect mantua": {
+      "land forcelimit modifier": 0.25
+    }
+  },
+  "AVR": {
+    "Tradition": {
+      "hostile attrition": 1,
+      "shock damage received": -0.1
+    },
+    "Ambition": {
+      "global manpower modifier": 0.25
+    },
+
+    "remember the sarir dynasty": {
+      "legitimacy": 1
+    },
+    "wars of the caucuses": {
+      "land attrition": -0.15
+    },
+    "alliance shifts": {
+      "diplomats": 1
+    },
+    "revenge against gazikumukh": {
+      "land morale": 0.1
+    },
+    "stave off the external threats": {
+      "fire damage": 0.05,
+      "artillery cost": -0.15
+    },
+    "lessons of the caucuses": {
+      "defensiveness": 0.15
+    },
+    "cultures of the caucuses": {
+      "num accepted cultures": 1
+    }
+  },
+  "LUC": {
+    "Tradition": {
+      "global autonomy": -0.05,
+      "land maintenance modifier": -0.1
+    },
+    "Ambition": {
+      "global manpower modifier": 0.25
+    },
+
+    "age of mercenaries": {
+      "merc maintenance modifier": -0.1,
+      "mercenary discipline": 0.025
+    },
+    "rival of central italy": {
+      "army tradition decay": -0.01
+    },
+    "patronize renaissance thinkers": {
+      "idea cost": -0.1
+    },
+    "republic in sea of monarchies": {
+      "republican tradition": 0.5,
+      "core creation": -0.1
+    },
+    "engage in med trade": {
+      "trade efficiency": 0.15
+    },
+    "receeding hre influences": {
+      "ae impact": -0.1
+    },
+    "take on republican reforms": {
+      "yearly corruption": -0.05
+    }
+  },
+  "FRN": {
+    "Tradition": {
+      "global tax modifier": 0.1,
+      "global unrest": -1
+    },
+    "Ambition": {
+      "manpower recovery speed": 0.15
+    },
+
+    "treaty of verdun": {
+      "core creation": -0.1
+    },
+    "merovingian legacy": {
+      "prestige": 1,
+      "ae impact": -0.1
+    },
+    "policing the streets": {
+      "harsh treatment cost": -0.2
+    },
+    "an army for frankfurt": {
+      "global manpower modifier": 0.2
+    },
+    "encourage scientific intrigue": {
+      "technology cost": -0.05
+    },
+    "compound upon previous military tactics": {
+      "discipline": 0.05
+    },
+    "curtail guild patrician power": {
+      "yearly corruption": -0.05
+    }
+  },
+  "TUL": {
+    "Tradition": {
+      "land morale": 0.1,
+      "global tax modifier": 0.1
+    },
+    "Ambition": {
+      "production efficiency": 0.1
+    },
+
+    "administrative reformations": {
+      "free adm policy": 1,
+      "stability cost modifier": -0.1
+    },
+    "abbasid breakaways": {
+      "global autonomy": -0.05
+    },
+    "protecting egypt": {
+      "discipline": 0.05
+    },
+    "akin to ahmad ibn tulun": {
+      "yearly corruption": -0.05
+    },
+    "bring to life egypt and levant": {
+      "development cost": -0.1
+    },
+    "looking ahead for us": {
+      "legitimacy": 0.5,
+      "republican tradition": 0.025,
+      "global unrest": -1
+    },
+    "extend tulunid might": {
+      "ae impact": -0.1,
+      "core creation": -0.1
+    }
+  },
+  "FAT": {
+    "Tradition": {
+      "religious unity": 0.2,
+      "legitimacy": 1
+    },
+    "Ambition": {
+      "manpower recovery speed": 0.2
+    },
+
+    "maghreb origins": {
+      "land attrition": -0.1,
+      "merc maintenance modifier": -0.1
+    },
+    "shiite caliphate": {
+      "land morale": 0.15
+    },
+    "meritocratic court": {
+      "advisor cost": -0.15
+    },
+    "promote technological progress": {
+      "technology cost": -0.1
+    },
+    "multi ethnic military cohesion": {
+      "land forcelimit modifier": 0.33
+    },
+    "gunpowder caliphate": {
+      "fire damage": 0.1
+    },
+    "balance political affairs": {
+      "global unrest": -1
+    }
+  },
+  "LVA": {
+    "Tradition": {
+      "shock damage received": -0.1,
+      "global manpower modifier": 0.2
+    },
+    "Ambition": {
+      "fire damage received": -0.1
+    },
+
+    "revenge against livonian order": {
+      "land morale": 0.1
+    },
+    "coastal trade measures": {
+      "trade efficiency": 0.1
+    },
+    "the remaining baltic tribes": {
+      "manpower recovery speed": 0.1,
+      "global regiment recruit speed": -0.1
+    },
+    "livonian population resurgence": {
+      "production efficiency": 0.1
+    },
+    "curionian semigallian latgallian fighters": {
+      "infantry power": 0.1
+    },
+    "reaching out": {
+      "diplomatic upkeep": 1
+    },
+    "new terra mariana": {
+      "legitimacy": 1,
+      "republican tradition": 0.5
+    }
+  },
+  "SYR": {
+    "Tradition": {
+      "global institution spread": 0.1,
+      "land maintenance modifier": -0.1
+    },
+    "Ambition": {
+      "war exhaustion": -0.02
+    },
+
+    "ancient history": {
+      "land attrition": -0.1,
+      "prestige": 1
+    },
+    "levantine value": {
+      "diplomatic reputation": 1
+    },
+    "rashidun umayyad abbasid caliphates": {
+      "discipline": 0.05
+    },
+    "crusader memories": {
+      "defensiveness": 0.1
+    },
+    "internal cohesion": {
+      "global unrest": -1
+    },
+    "ethnicities in and around syria": {
+      "num accepted cultures": 2
+    },
+    "syria as a nation": {
+      "land forcelimit modifier": 0.2
+    }
+  },
+  "IRQ": {
+    "Tradition": {
+      "production efficiency": 0.15,
+      "land forcelimit modifier": 0.25
+    },
+    "Ambition": {
+      "num accepted cultures": 1
+    },
+
+    "defense of mesopotamia": {
+      "land morale": 0.1
+    },
+    "cradle of great cities": {
+      "prestige": 1
+    },
+    "fortify iraqi lands": {
+      "defensiveness": 0.1,
+      "garrison size": 0.2
+    },
+    "persian influences": {
+      "advisor cost": -0.1
+    },
+    "trade links of mesopotamia": {
+      "trade efficiency": 0.15
+    },
+    "establish military framework": {
+      "army tradition": 0.5
+    },
+    "behold al iraq": {
+      "legitimacy": 1,
+      "republican tradition": 0.5
+    }
+  },
+  "MEN": {
+    "Tradition": {
+      "core creation": -0.2,
+      "discipline": 0.05
+    },
+    "Ambition": {
+      "naval maintenance modifier": -0.2
+    },
+
+    "naval power of anatolia": {
+      "navy tradition": 0.5,
+      "galley power": 0.1
+    },
+    "mosques of mentese": {
+      "missionary maintenance cost": -0.3
+    },
+    "variable status": {
+      "diplomatic reputation": 1
+    },
+    "mesut of mentese": {
+      "land morale": 0.1
+    },
+    "fight for the islands": {
+      "global naval barrage cost": -0.5
+    },
+    "take on anatolian trade": {
+      "trade steering": 0.15
+    },
+    "beyond being a seljuk march": {
+      "manpower recovery speed": 0.1,
+      "global manpower modifier": 0.1
+    }
+  },
+  "ERE": {
+    "Tradition": {
+      "core creation": -0.2,
+      "discipline": 0.05
+    },
+    "Ambition": {
+      "infantry power": 0.1
+    },
+
+    "eastern beylik": {
+      "mercenary cost": -0.1,
+      "merc maintenance modifier": -0.1
+    },
+    "uyghur mongol foundations": {
+      "cavalry power": 0.15
+    },
+    "eastern and western fighting": {
+      "defensiveness": 0.2
+    },
+    "resolve eretnid disputes": {
+      "legitimacy": 1,
+      "republican tradition": 0.5
+    },
+    "protective ties": {
+      "diplomatic upkeep": 1
+    },
+    "emulate our founder": {
+      "technology cost": -0.05
+    },
+    "beyond being a seljuk march": {
+      "manpower recovery speed": 0.1,
+      "global manpower modifier": 0.1
+    }
+  },
+  "GRM": {
+    "Tradition": {
+      "core creation": -0.2,
+      "discipline": 0.05
+    },
+    "Ambition": {
+      "free leader pool": 1
+    },
+
+    "after the decline of rum": {
+      "land morale": 0.1,
+      "prestige": 1
+    },
+    "rivals of karaman": {
+      "army tradition": 0.5
+    },
+    "ilkhanid influences": {
+      "cavalry power": 0.15
+    },
+    "subjugate the coastal beyliks": {
+      "unjustified demands": -0.25
+    },
+    "rein in unruly commanders": {
+      "free mil policy": 1
+    },
+    "western beylik": {
+      "global institution spread": 0.1
+    },
+    "beyond being a seljuk march": {
+      "manpower recovery speed": 0.1,
+      "global manpower modifier": 0.1
+    }
+  },
+  "DUL": {
+    "Tradition": {
+      "core creation": -0.2,
+      "discipline": 0.05
+    },
+    "Ambition": {
+      "global unrest": -2
+    },
+
+    "beyond anatolia": {
+      "diplomatic upkeep": 1,
+      "diplomatic reputation": 1
+    },
+    "buffer state": {
+      "defensiveness": 0.2
+    },
+    "promote the dynasty": {
+      "stability cost modifier": -0.1
+    },
+    "oghuz connections": {
+      "mercenary cost": -0.2
+    },
+    "mamluk ties": {
+      "global regiment cost": -0.1
+    },
+    "extending our influence": {
+      "years of nationalism": -5
+    },
+    "beyond being a seljuk march": {
+      "manpower recovery speed": 0.1,
+      "global manpower modifier": 0.1
+    }
+  },
+  "RAM": {
+    "Tradition": {
+      "core creation": -0.2,
+      "discipline": 0.05
+    },
+    "Ambition": {
+      "global trade goods size modifier": 0.1
+    },
+
+    "core at adana": {
+      "defensiveness": 0.1,
+      "production efficiency": 0.1
+    },
+    "destroyers of cilicia": {
+      "land morale": 0.1
+    },
+    "tensions with mamluk sultanate": {
+      "province warscore cost": -0.1
+    },
+    "adana buffer": {
+      "land forcelimit modifier": 0.25
+    },
+    "settle the land": {
+      "development cost": -0.1
+    },
+    "turkish settlers": {
+      "culture conversion cost": -0.2
+    },
+    "beyond being a seljuk march": {
+      "manpower recovery speed": 0.1,
+      "global manpower modifier": 0.1
+    }
+  },
+  "AYD": {
+    "Tradition": {
+      "core creation": -0.2,
+      "discipline": 0.05
+    },
+    "Ambition": {
+      "naval maintenance modifier": -0.2
+    },
+
+    "raids at sea": {
+      "may perform slave raid": true,
+      "navy tradition": 1
+    },
+    "naval power from smyrna": {
+      "naval morale": 0.15
+    },
+    "revenge for the smyrniote crusades": {
+      "land morale": 0.1
+    },
+    "securing aegean trade": {
+      "global prov trade power modifier": 0.1
+    },
+    "changes from tamerlane": {
+      "army tradition": 0.5
+    },
+    "establish aydinid architecture": {
+      "build cost": -0.15
+    },
+    "beyond being a seljuk march": {
+      "manpower recovery speed": 0.1,
+      "global manpower modifier": 0.1
+    }
+  },
+  "SRU": {
+    "Tradition": {
+      "core creation": -0.2,
+      "discipline": 0.05
+    },
+    "Ambition": {
+      "possible policy": 1
+    },
+
+    "sarukhan bey": {
+      "legitimacy": 1,
+      "republican tradition": 0.5,
+      "global unrest": -1
+    },
+    "emirate of germiyan": {
+      "same culture advisor cost": -0.2
+    },
+    "great mosque at manisa": {
+      "global missionary strength": 0.02
+    },
+    "promote naval power": {
+      "galley power": 0.15
+    },
+    "rival of the byzantines": {
+      "army tradition": 0.5
+    },
+    "gunpowder innovations": {
+      "fire damage": 0.1
+    },
+    "beyond being a seljuk march": {
+      "manpower recovery speed": 0.1,
+      "global manpower modifier": 0.1
+    }
+  },
+  "YZD": {
+    "Tradition": {
+      "hostile attrition": 1,
+      "global missionary strength": 0.02
+    },
+    "Ambition": {
+      "years of nationalism": -5
+    },
+
+    "zoroastrian legacy": {
+      "global unrest": -2
+    },
+    "difficulties of yazd": {
+      "shock damage": 0.1
+    },
+    "capital of the muzaffarid dynasty": {
+      "defensiveness": 0.15
+    },
+    "haven in persia": {
+      "ae impact": -0.1
+    },
+    "silk weaving industry": {
+      "production efficiency": 0.1
+    },
+    "sassanian roots": {
+      "legitimacy": 1
+    },
+    "uniting persia": {
+      "discipline": 0.05
+    }
+  },
+  "NSA": {
+    "Tradition": {
+      "improve relation modifier": 0.25,
+      "global institution spread": 0.1
+    },
+    "Ambition": {
+      "technology cost": -0.1
+    },
+
+    "nassau castle": {
+      "defensiveness": 0.2
+    },
+    "house of nassau": {
+      "legitimacy": 1,
+      "heir chance": 0.5
+    },
+    "remember count adolf of nassau": {
+      "diplomatic reputation": 1
+    },
+    "dynastic politics": {
+      "ae impact": -0.1
+    },
+    "reformation fervor in nassau": {
+      "mercenary cost": -0.1,
+      "tolerance own": 2
+    },
+    "dynastic branches": {
+      "diplomatic upkeep": 1
+    },
+    "choosing an ambition": {
+      "possible policy": 1
+    }
+  },
+  "KZH": {
+    "Tradition": {
+      "cavalry power": 0.2,
+      "tolerance heathen": 3
+    },
+    "Ambition": {
+      "cavalry cost": -0.15
+    },
+
+    "janibek and kerei khan": {
+      "leader land shock": 1
+    },
+    "fall of the golden horde": {
+      "core creation": -0.25
+    },
+    "struggling for steppe control": {
+      "movement speed": 0.1
+    },
+    "rivals to our east": {
+      "years of nationalism": -5
+    },
+    "cultures of the steppe": {
+      "global manpower modifier": 0.15
+    },
+    "expanding our internal domain": {
+      "max states": 5
+    },
+    "modernize our tactics": {
+      "leader land fire": 1
+    }
+  },
+  "ALG": {
+    "Tradition": {
+      "galley power": 0.15,
+      "may perform slave raid": true
+    },
+    "Ambition": {
+      "years of nationalism": -5
+    },
+
+    "spanish ties": {
+      "trade efficiency": 0.15
+    },
+    "utilize corsairs": {
+      "capture ship chance": 0.2,
+      "privateer efficiency": 0.2
+    },
+    "import gunpowder weaponry": {
+      "infantry power": 0.1
+    },
+    "desert tactics": {
+      "hostile attrition": 1
+    },
+    "champion naval combat": {
+      "naval morale": 0.1,
+      "naval forcelimit modifier": 0.33
+    },
+    "algiers city of refuge": {
+      "global manpower modifier": 0.25
+    },
+    "algerian waters": {
+      "navy tradition": 1
+    }
+  },
+  "TGT": {
+    "Tradition": {
+      "cavalry power": 0.15,
+      "leader land manuever": 1
+    },
+    "Ambition": {
+      "global autonomy": -0.05
+    },
+
+
+    "islam and berber society": {
+      "legitimacy": 1,
+      "republican tradition": 0.5,
+      "devotion": 1
+    },
+    "nomadic roots": {
+      "movement speed": 0.1,
+      "trade range modifier": 0.33
+    },
+    "endless mercenary ties": {
+      "merc maintenance modifier": -0.1
+    },
+    "harness the desert": {
+      "hostile attrition": 1,
+      "land attrition": -0.1
+    },
+    "the many berber dynasties": {
+      "diplomatic reputation": 1
+    },
+    "make amends with our family in faith": {
+      "manpower recovery speed": 0.1
+    },
+    "uniting the maghreb": {
+      "discipline": 0.05
+    }
+  },
+  "GHD": {
+    "Tradition": {
+      "cavalry power": 0.15,
+      "leader land manuever": 1
+    },
+    "Ambition": {
+      "global autonomy": -0.05
+    },
+
+    
+    "islam and berber society": {
+      "legitimacy": 1,
+      "republican tradition": 0.5,
+      "devotion": 1
+    },
+    "nomadic roots": {
+      "movement speed": 0.1,
+      "trade range modifier": 0.33
+    },
+    "endless mercenary ties": {
+      "merc maintenance modifier": -0.1
+    },
+    "harness the desert": {
+      "hostile attrition": 1,
+      "land attrition": -0.1
+    },
+    "the many berber dynasties": {
+      "diplomatic reputation": 1
+    },
+    "make amends with our family in faith": {
+      "manpower recovery speed": 0.1
+    },
+    "uniting the maghreb": {
+      "discipline": 0.05
+    }
+  },
+  "KBA": {
+    "Tradition": {
+      "cavalry power": 0.15,
+      "leader land manuever": 1
+    },
+    "Ambition": {
+      "global autonomy": -0.05
+    },
+
+
+    "islam and berber society": {
+      "legitimacy": 1,
+      "republican tradition": 0.5,
+      "devotion": 1
+    },
+    "nomadic roots": {
+      "movement speed": 0.1,
+      "trade range modifier": 0.33
+    },
+    "endless mercenary ties": {
+      "merc maintenance modifier": -0.1
+    },
+    "harness the desert": {
+      "hostile attrition": 1,
+      "land attrition": -0.1
+    },
+    "the many berber dynasties": {
+      "diplomatic reputation": 1
+    },
+    "make amends with our family in faith": {
+      "manpower recovery speed": 0.1
+    },
+    "uniting the maghreb": {
+      "discipline": 0.05
+    }
+  },
+  "MZB": {
+    "Tradition": {
+      "cavalry power": 0.15,
+      "leader land manuever": 1
+    },
+    "Ambition": {
+      "global autonomy": -0.05
+    },
+
+
+    "islam and berber society": {
+      "legitimacy": 1,
+      "republican tradition": 0.5,
+      "devotion": 1
+    },
+    "nomadic roots": {
+      "movement speed": 0.1,
+      "trade range modifier": 0.33
+    },
+    "endless mercenary ties": {
+      "merc maintenance modifier": -0.1
+    },
+    "harness the desert": {
+      "hostile attrition": 1,
+      "land attrition": -0.1
+    },
+    "the many berber dynasties": {
+      "diplomatic reputation": 1
+    },
+    "make amends with our family in faith": {
+      "manpower recovery speed": 0.1
+    },
+    "uniting the maghreb": {
+      "discipline": 0.05
+    }
+  },
+  "ICE": {
+    "Tradition": {
+      "naval morale": 0.15,
+      "naval forcelimit modifier": 0.33
+    },
+    "Ambition": {
+      "heavy ship power": 0.1
+    },
+
+    "viking roots": {
+      "may perform slave raid": true,
+      "may explore": true
+    },
+    "revitalize the legacy of the althing": {
+      "legitimacy": 1,
+      "republican tradition": 0.5
+    },
+    "geographic isolation and opportunism": {
+      "hostile attrition": 0.5,
+      "colonists": 1
+    },
+    "promote icelandic fishing and trade": {
+      "trade efficiency": 0.1
+    },
+    "effects of the reformation": {
+      "tolerance own": 2,
+      "church power modifier": 0.1,
+      "monthly fervor increase": 0.25
+    },
+    "use our naval legacy": {
+      "navy tradition": 0.5,
+      "capture ship chance": 0.2
+    },
+    "norse resurgence": {
+      "war exhaustion": -0.02
+    }
+  },
+  "BEI": {
+    "Tradition": {
+      "navy tradition": 1,
+      "hostile attrition": 1
+    },
+    "Ambition": {
+      "global prov trade power modifier": 0.1
+    },
+
+    "what may have been vijayapura and po ni": {
+      "same culture advisor cost": -0.2
+    },
+    "lessons from srivijaya and majapahit": {
+      "core creation": -0.1,
+      "global ship cost": -0.1
+    },
+    "chinese influences": {
+      "diplomatic reputation": 1
+    },
+    "trading in nusantara": {
+      "trade steering": 0.15
+    },
+    "promote thalassocratic control": {
+      "naval morale": 0.1,
+      "sunk ship morale hit recieved": -0.2
+    },
+    "cross island empire": {
+      "global autonomy": -0.05
+    },
+    "continue our golden age": {
+      "colonists": 1
+    }
+  },
+  "ISF": {
+    "Tradition": {
+      "global autonomy": -0.05,
+      "defensiveness": 0.25
+    },
+    "Ambition": {
+      "global prov trade power modifier": 0.2
+    },
+
+    "religious tolerance of the past": {
+      "tolerance heathen": 3
+    },
+    "buyid and seljuk prosperity": {
+      "development cost": -0.1
+    },
+    "build the defenses": {
+      "garrison size": 0.1,
+      "fort maintenance modifier": -0.1
+    },
+    "beauty of persoiranian architecture": {
+      "prestige": 1
+    },
+    "cultural understanding": {
+      "num accepted cultures": 1,
+      "promote culture cost": -0.5
+    },
+    "georgian military slaves": {
+      "mercenary cost": -0.1,
+      "mercenary discipline": 0.025
+    },
+    "attraction to international trade": {
+      "trade steering": 0.2
+    }
+  },
+  "KRM": {
+    "Tradition": {
+      "trade steering": 0.2,
+      "hostile attrition": 1
+    },
+    "Ambition": {
+      "num accepted cultures": 1
+    },
+
+    "carpet and rug industry": {
+      "production efficiency": 0.1
+    },
+    "kavir e lut desert and mountains": {
+      "defensiveness": 0.2
+    },
+    "memory of conquest": {
+      "core creation": -0.1
+    },
+    "festivals of kerman": {
+      "prestige": 1
+    },
+    "more than just an outpost": {
+      "land forcelimit modifier": 0.25
+    },
+    "religious cohabitation": {
+      "religious unity": 0.25
+    },
+    "iranian familiarity": {
+      "diplomatic reputation": 1
+    }
+  },
+  "BRR": {
+    "Tradition": {
+      "leader land fire": 1,
+      "diplomatic reputation": 1
+    },
+    "Ambition": {
+      "artillery power": 0.1
+    },
+
+    "cohesion in the deccan": {
+      "num accepted cultures": 2
+    },
+    "setup forges and foundries": {
+      "artillery cost": -0.15
+    },
+    "modernizing weaponry": {
+      "fire damage": 0.1
+    },
+    "fortification artillery": {
+      "backrow artillery damage": 0.1,
+      "siege ability": 0.1
+    },
+    "reforming the succession of berar": {
+      "legitimacy": 1
+    },
+    "meritocratic military organization": {
+      "army tradition": 0.5
+    },
+    "sustain ourselves from aggression": {
+      "defensiveness": 0.15
+    }
+  },
+  "GOC": {
+    "Tradition": {
+      "global prov trade power modifier": 0.1,
+      "global institution spread": 0.1
+    },
+    "Ambition": {
+      "religious unity": 0.25
+    },
+
+    "persian origins": {
+      "idea cost": -0.1
+    },
+    "patronize learning and buildings": {
+      "technology cost": -0.05
+    },
+    "golconda diamonds": {
+      "production efficiency": 0.1
+    },
+    "golconda fort": {
+      "defensiveness": 0.1,
+      "global garrison growth": 0.25
+    },
+    "adopt deccani culture": {
+      "num accepted cultures": 2
+    },
+    "fight against the vijayanagara empire": {
+      "discipline": 0.05
+    },
+    "centralized deccani sultanate": {
+      "global autonomy": -0.05
+    }
+  },
+  "BIJ": {
+    "Tradition": {
+      "global autonomy": -0.05,
+      "development cost": -0.1
+    },
+    "Ambition": {
+      "num accepted cultures": 2
+    },
+
+    "sufis of bijapur": {
+      "religious unity": 0.15,
+      "monthly piety": -0.001
+    },
+    "capital of commerce and culture": {
+      "prestige": 1,
+      "trade efficiency": 0.1
+    },
+    "palmyra of the deccan": {
+      "global institution spread": 0.1
+    },
+    "southward ambitions": {
+      "ae impact": -0.1
+    },
+    "new age of indian warfare": {
+      "fire damage": 0.1
+    },
+    "develop the water systems and hospitals": {
+      "global unrest": -2
+    },
+    "institute educational systems": {
+      "technology cost": -0.1
+    }
+  },
+  "AHM": {
+    "Tradition": {
+      "land morale": 0.1,
+      "legitimacy": 1
+    },
+    "Ambition": {
+      "war exhaustion": -0.02
+    },
+
+    "fall of bahmanis": {
+      "land forcelimit modifier": 0.25
+    },
+    "organizing the court of ahmednagar": {
+      "yearly corruption": -0.1
+    },
+    "the uncertain north": {
+      "defensiveness": 0.15
+    },
+    "succession in the deccan": {
+      "years of nationalism": -5
+    },
+    "strengthen and centralize the military": {
+      "army tradition": 0.5
+    },
+    "southern threats": {
+      "shock damage received": -0.05,
+      "fire damage": 0.05
+    },
+    "the need for stability": {
+      "num accepted cultures": 2
+    }
+  },
+  "TOU": {
+    "Tradition": {
+      "tolerance heretic": 3,
+      "global institution spread": 0.1
+    },
+    "Ambition": {
+      "same culture advisor cost": -0.2
+    },
+
+    "battle of toulouse 721": {
+      "land morale": 0.1,
+      "prestige": 1
+    },
+    "treaty of paris 1229": {
+      "diplomatic reputation": 1
+    },
+    "revenge for albigensian crusade": {
+      "discipline": 0.05
+    },
+    "the cathar faith": {
+      "global unrest": -1
+    },
+    "troubadours and occitain culture": {
+      "advisor pool": 1
+    },
+    "distinct identity from the north": {
+      "legitimacy": 1
+    },
+    "all for france": {
+      "free leader pool": 1,
+      "manpower recovery speed": 0.1
+    }
+  },
+  "GUY": {
+    "Tradition": {
+      "production efficiency": 0.1,
+      "development cost": -0.1
+    },
+    "Ambition": {
+      "same culture advisor cost": -0.2
+    },
+
+    "successor to the visigoths": {
+      "global autonomy": -0.05,
+      "legitimacy": 1
+    },
+    "carolingian legacy": {
+      "defensiveness": 0.2
+    },
+    "eleanor of aquitaine": {
+      "diplomatic reputation": 1
+    },
+    "100 years war memories": {
+      "army tradition": 0.5
+    },
+    "english and french influences": {
+      "advisor cost": -0.1
+    },
+    "fertility of aquitaine": {
+      "global manpower modifier": 0.2
+    },
+    "all for france": {
+      "free leader pool": 1,
+      "manpower recovery speed": 0.1
+    }
+  },
+  "AUV": {
+    "Tradition": {
+      "diplomatic reputation": 1,
+      "global manpower modifier": 0.2
+    },
+    "Ambition": {
+      "same culture advisor cost": -0.2
+    },
+
+    "ancient memories": {
+      "stability cost modifier": -0.1,
+      "army tradition decay": -0.01
+    },
+    "developments of auvergne": {
+      "development cost": -0.1
+    },
+    "safe from conflicts": {
+      "production efficiency": 0.15
+    },
+    "take back our autonomy": {
+      "drill gain modifier": 0.33
+    },
+    "promote french culture": {
+      "improve relation modifier": 0.25
+    },
+    "technological interests": {
+      "technology cost": -0.1
+    },
+    "all for france": {
+      "free leader pool": 1,
+      "manpower recovery speed": 0.1
+    }
+  },
+  "AVI": {
+    "Tradition": {
+      "defensiveness": 0.25,
+      "ae impact": -0.2
+    },
+    "Ambition": {
+      "war exhaustion": -0.02
+    },
+
+    "seat of the avignon papacy": {
+      "land morale": 0.1,
+      "years of nationalism": -5
+    },
+    "avignon exchange": {
+      "interest": -0.5
+    },
+    "renovate and keep the palais des papes": {
+      "garrison size": 0.2
+    },
+    "papal library and the university of avignon": {
+      "idea cost": -0.1
+    },
+    "build upon previous developments": {
+      "development cost": -0.1
+    },
+    "revenge for the papal schism": {
+      "discipline": 0.05
+    },
+    "restoration of avignon authority": {
+      "stability cost modifier": -0.1,
+      "legitimacy": 1,
+      "republican tradition": 0.5,
+      "devotion": 1
+    }
+  },
+  "BOU": {
+    "Tradition": {
+      "global spy defence": 0.2,
+      "fort maintenance modifier": -0.1
+    },
+    "Ambition": {
+      "same culture advisor cost": -0.2
+    },
+
+    "siegneur de bourbon": {
+      "prestige": 1,
+      "legitimacy": 1
+    },
+    "legacy of the first house of bourbon": {
+      "global unrest": -1
+    },
+    "ties to burgundy": {
+      "diplomatic reputation": 1
+    },
+    "defending our claims": {
+      "cavalry power": 0.2
+    },
+    "royalty in france proper": {
+      "army tradition decay": -0.01
+    },
+    "grace from charles iv": {
+      "ae impact": -0.15
+    },
+    "all for france": {
+      "free leader pool": 1,
+      "manpower recovery speed": 0.1
+    }
+  },
+  "NRM": {
+    "Tradition": {
+      "infantry power": 0.1,
+      "light ship power": 0.15
+    },
+    "Ambition": {
+      "same culture advisor cost": -0.2
+    },
+
+    "ancient contention": {
+      "drill gain modifier": 0.25,
+      "defensiveness": 0.1
+    },
+    "chateau de rouen": {
+      "global unrest": -1
+    },
+    "reassert and compound on the norman charter": {
+      "legitimacy": 1
+    },
+    "empower norman administrators": {
+      "stability cost modifier": -0.1
+    },
+    "channel ambitions": {
+      "naval morale": 0.15
+    },
+    "norman revival": {
+      "discipline": 0.05
+    },
+    "all for france": {
+      "free leader pool": 1,
+      "manpower recovery speed": 0.1
+    }
+  },
+  "FOI": {
+    "Tradition": {
+      "diplomatic reputation": 1,
+      "legitimacy": 1
+    },
+    "Ambition": {
+      "same culture advisor cost": -0.2
+    },
+
+    "from the crusades": {
+      "infantry power": 0.1,
+      "army tradition": 0.5
+    },
+    "against the mountain walls": {
+      "defensiveness": 0.2
+    },
+    "maintain outside connections": {
+      "diplomatic upkeep": 1
+    },
+    "tenuous stance by french royalty": {
+      "land morale": 0.1
+    },
+    "fortify the castle of foix": {
+      "fort maintenance modifier": -0.1
+    },
+    "ambitions from the border": {
+      "fabricate claims cost": -0.25
+    },
+    "all for france": {
+      "free leader pool": 1,
+      "manpower recovery speed": 0.1
+    }
+  },
+  "CHP": {
+    "Tradition": {
+      "diplomatic reputation": 1,
+      "prestige": 1
+    },
+    "Ambition": {
+      "same culture advisor cost": -0.2
+    },
+
+    "grand aristocracy": {
+      "advisor pool": 1,
+      "army tradition": 0.5
+    },
+    "close ties to the royalty": {
+      "legitimacy": 1,
+      "republican tradition": 0.5
+    },
+    "inheritor of france": {
+      "land morale": 0.1
+    },
+    "champagne fairs": {
+      "caravan power": 0.2
+    },
+    "the eastern border": {
+      "land forcelimit modifier": 0.25
+    },
+    "the diplomatic game": {
+      "diplomatic annexation cost": -0.15
+    },
+    "all for france": {
+      "free leader pool": 1,
+      "manpower recovery speed": 0.1
+    }
+  },
+  "DAU": {
+    "Tradition": {
+      "merc maintenance modifier": -0.1,
+      "global tax modifier": 0.1
+    },
+    "Ambition": {
+      "same culture advisor cost": -0.2
+    },
+
+    "feudal and hre roots": {
+      "global manpower modifier": 0.1,
+      "mercenary cost": -0.1
+    },
+    "the savoy daphine conflicts": {
+      "fabricate claims cost": -0.25
+    },
+    "french military service": {
+      "army tradition": 0.5
+    },
+    "sort out the noble feuds": {
+      "stability cost modifier": -0.1
+    },
+    "remembering humber ii": {
+      "global unrest": -1
+    },
+    "patronize the universities": {
+      "technology cost": -0.1
+    },
+    "all for france": {
+      "free leader pool": 1,
+      "manpower recovery speed": 0.1
+    }
+  },
+  "AMG": {
+    "Tradition": {
+      "production efficiency": 0.1,
+      "merc maintenance modifier": -0.1
+    },
+    "Ambition": {
+      "same culture advisor cost": -0.2
+    },
+
+    "marriage and purchase": {
+      "diplomatic reputation": 1,
+      "global tax modifier": 0.1
+    },
+    "no to the black prince": {
+      "global unrest": -1
+    },
+    "enemies of burgundy": {
+      "global manpower modifier": 0.15
+    },
+    "armagnac mercenaries": {
+      "mercenary cost": -0.1
+    },
+    "sustain armagnac power": {
+      "mercenary discipline": 0.025
+    },
+    "resist the royal domain": {
+      "discipline": 0.05
+    },
+    "all for france": {
+      "free leader pool": 1,
+      "manpower recovery speed": 0.1
+    }
+  },
+  "BAR": {
+    "Tradition": {
+      "build cost": -0.2,
+      "defensiveness": 0.1
+    },
+    "Ambition": {
+      "same culture advisor cost": -0.2
+    },
+
+    "sophias power": {
+      "diplomatic reputation": 1,
+      "spy offence": 0.1
+    },
+    "french politics over german politics": {
+      "prestige decay": -0.01
+    },
+    "a peer of france": {
+      "ae impact": -0.1
+    },
+    "ties to lorraine": {
+      "diplomatic upkeep": 1
+    },
+    "using the status of duchy": {
+      "global manpower modifier": 0.2
+    },
+    "fortify the lands of bar": {
+      "garrison size": 0.2
+    },
+    "all for france": {
+      "free leader pool": 1,
+      "manpower recovery speed": 0.1
+    }
+  },
+  "PIC": {
+    "Tradition": {
+      "global prov trade power modifier": 0.1,
+      "mercenary cost": -0.1
+    },
+    "Ambition": {
+      "same culture advisor cost": -0.2
+    },
+
+    "at the confluence of three": {
+      "diplomatic reputation": 1,
+      "navy tradition": 1
+    },
+    "legacy of the jaquerie peasant revolt": {
+      "infantry cost": -0.1
+    },
+    "port of calais": {
+      "trade efficiency": 0.1
+    },
+    "burgundian ties": {
+      "diplomatic upkeep": 1
+    },
+    "promote the picard language": {
+      "global unrest": -1
+    },
+    "naval ambitions": {
+      "naval morale": 0.15
+    },
+    "all for france": {
+      "free leader pool": 1,
+      "manpower recovery speed": 0.1
+    }
+  },
+  "ALE": {
+    "Tradition": {
+      "legitimacy": 1,
+      "advisor pool": 1
+    },
+    "Ambition": {
+      "same culture advisor cost": -0.2
+    },
+
+    "duekdom of the royal family": {
+      "state maintenance modifier": -0.2,
+      "global autonomy": -0.05
+    },
+    "history with the royal family": {
+      "diplomatic reputation": 1
+    },
+    "participants in the 100 years war": {
+      "army tradition decay": -0.01
+    },
+    "extinct house of belleme": {
+      "prestige decay": -0.01
+    },
+    "ties through roger de montgomery": {
+      "diplomatic upkeep": 1
+    },
+    "claim royal power": {
+      "improve relation modifier": 0.3
+    },
+    "all for france": {
+      "free leader pool": 1,
+      "manpower recovery speed": 0.1
+    }
+  },
+  "BER": {
+    "Tradition": {
+      "legitimacy": 1,
+      "global unrest": -1
+    },
+    "Ambition": {
+      "same culture advisor cost": -0.2
+    },
+
+    "proximity to paris": {
+      "global tax modifier": 0.1,
+      "global autonomy": -0.05
+    },
+    "juniors of the royal family": {
+      "diplomatic reputation": 1
+    },
+    "legacy of john the magnificent": {
+      "improve relation modifier": 0.3
+    },
+    "helping end the western schism": {
+      "tolerance own": 2
+    },
+    "patrons of parisian and italian styles": {
+      "prestige": 1
+    },
+    "keeping royal power safe": {
+      "land forcelimit modifier": 0.25
+    },
+    "all for france": {
+      "free leader pool": 1,
+      "manpower recovery speed": 0.1
+    }
+  },
+  "JIN": {
+    "Tradition": {
+      "free leader pool": 1,
+      "advisor pool": 1
+    },
+    "Ambition": {
+      "max states": 5
+    },
+
+    "winners of the three kingdoms": {
+      "army tradition decay": -0.01,
+      "harsh treatment cost": -0.25
+    },
+    "lodged administrative divisions": {
+      "state maintenance modifier": -0.2
+    },
+    "battle against former qin": {
+      "land morale": 0.1
+    },
+    "manipulation of taoism": {
+      "stability cost modifier": -0.1
+    },
+    "war of the eight princes": {
+      "legitimacy": 1
+    },
+    "the five barbarians": {
+      "defensiveness": 0.1
+    },
+    "zhongguo": {
+      "land forcelimit modifier": 0.15,
+      "years of nationalism": -5
+    }
+  },
+  "SHU": {
+    "Tradition": {
+      "advisor pool": 1,
+      "free leader pool": 1
+    },
+    "Ambition": {
+      "war exhaustion": -0.02
+    },
+
+    "ancient shu state": {
+      "prestige": 1,
+      "diplomatic reputation": 1
+    },
+    "shu han": {
+      "legitimacy": 1
+    },
+    "three kingdoms period shu": {
+      "land morale": 0.1
+    },
+    "zhuge liang": {
+      "possible policy": 1
+    },
+    "defensive position": {
+      "fort maintenance modifier": -0.2
+    },
+    "connections through trade": {
+      "trade efficiency": 0.1
+    },
+    "zhongguo": {
+      "land forcelimit modifier": 0.15,
+      "years of nationalism": -5
+    }
+  },
+  "WUU": {
+    "Tradition": {
+      "advisor pool": 1,
+      "free leader pool": 1
+    },
+    "Ambition": {
+      "colonists": 1
+    },
+
+    "history of independence": {
+      "core creation": -0.1,
+      "army tradition": 0.5
+    },
+    "waters of wu": {
+      "heavy ship power": 0.1
+    },
+    "three kingdoms period": {
+      "army tradition decay": -0.01
+    },
+    "promote coastal trade": {
+      "trade efficiency": 0.1
+    },
+    "five dynasties ten kingdoms period": {
+      "development cost": -0.1
+    },
+    "the sun dynasty": {
+      "free mil policy": 1
+    },
+    "zhongguo": {
+      "land forcelimit modifier": 0.15,
+      "years of nationalism": -5
+    }
+  },
+  "CHC": {
+    "Tradition": {
+      "free leader pool": 1,
+      "advisor pool": 1
+    },
+    "Ambition": {
+      "manpower recovery speed": 0.15
+    },
+
+    "foundation in myths": {
+      "prestige": 1,
+      "ae impact": -0.1
+    },
+    "control over central china": {
+      "development cost": -0.1
+    },
+    "the spring autumn period": {
+      "infantry power": 0.1
+    },
+    "take on gov corruption": {
+      "yearly corruption": -0.05
+    },
+    "qin chu rivalry": {
+      "discipline": 0.05
+    },
+    "stop internal decadence": {
+      "free adm policy": 1
+    },
+    "zhongguo": {
+      "land forcelimit modifier": 0.15,
+      "years of nationalism": -5
+    }
+  },
+  "QIC": {
+    "Tradition": {
+      "free leader pool": 1,
+      "advisor pool": 1
+    },
+    "Ambition": {
+      "discipline": 0.05
+    },
+
+    "one of the four ancient powers": {
+      "core creation": -0.1,
+      "ae impact": -0.1
+    },
+    "cultural works of qi": {
+      "num accepted cultures": 1
+    },
+    "learn from the northern qi": {
+      "global unrest": -1
+    },
+    "lessons of the southern qi": {
+      "yearly corruption": -0.05
+    },
+    "reformation of military ranks": {
+      "army tradition": 0.5
+    },
+    "cultivate a cohesive court": {
+      "stability cost modifier": -0.1
+    },
+    "zhongguo": {
+      "land forcelimit modifier": 0.15,
+      "years of nationalism": -5
+    }
+  },
+  "CXI": {
+    "Tradition": {
+      "loot amount": 0.25,
+      "leader land shock": 1
+    },
+    "Ambition": {
+      "manpower recovery speed": 0.15
+    },
+
+    "proclaim daxi": {
+      "core creation": -0.1,
+      "army tradition": 0.5
+    },
+    "zhang xianzhong yellow tiger": {
+      "land morale": 0.1
+    },
+    "outsmart the enemy": {
+      "spy offence": 0.2
+    },
+    "strengthen siege equipment": {
+      "siege ability": 0.1
+    },
+    "from chengdu to xijing": {
+      "years of nationalism": -5
+    },
+    "cut down opposition": {
+      "harsh treatment cost": -0.25
+    },
+    "great western dynasty ascendant": {
+      "stability cost modifier": -0.1,
+      "land maintenance modifier": -0.1
+    }
+  },
+  "CSH": {
+    "Tradition": {
+      "province warscore cost": -0.1,
+      "land morale": 0.1
+    },
+    "Ambition": {
+      "same culture advisor cost": -0.2
+    },
+
+    "great shun": {
+      "ae impact": -0.1,
+      "global manpower modifier": 0.25
+    },
+    "li zicheng": {
+      "discipline": 0.05
+    },
+    "destroyer of the ming": {
+      "years of nationalism": -5
+    },
+    "reform the land taxes and grain": {
+      "global tax modifier": 0.1
+    },
+    "support from scholars and officials": {
+      "global unrest": -1
+    },
+    "fight for authority": {
+      "manpower recovery speed": 0.1
+    },
+    "obedient to heaven": {
+      "stability cost modifier": -0.2,
+      "yearly harmony": 0.5,
+      "imperial mandate": 0.1
+    }
+  },
+  "NNG": {
+    "Tradition": {
+      "heir chance": 0.5,
+      "yearly corruption": -0.05
+    },
+    "Ambition": {
+      "global autonomy": -0.05
+    },
+
+    "the question of ming succession": {
+      "legitimacy": 1,
+      "global unrest": -1
+    },
+    "zhu chenhao": {
+      "same culture advisor cost": -0.2
+    },
+    "coercion leads to deals": {
+      "spy offence": 0.2
+    },
+    "claiming or making the throne": {
+      "land morale": 0.1
+    },
+    "core at nanchang": {
+      "development cost": -0.1
+    },
+    "widespread support": {
+      "manpower recovery speed": 0.1
+    },
+    "behold the prince of ning": {
+      "global manpower modifier": 0.2,
+      "yearly harmony": 0.5,
+      "imperial mandate": 0.1
+    }
+  },
+  "TNG": {
+    "Tradition": {
+      "global institution spread": 0.1,
+      "advisor pool": 1
+    },
+    "Ambition": {
+      "max states": 5
+    },
+
+    "golden age of zhongguo": {
+      "prestige": 1,
+      "land morale": 0.1
+    },
+    "centuries of warfare": {
+      "army tradition": 0.5
+    },
+    "cultivate the 3 departments 6 ministries": {
+      "free adm policy": 1
+    },
+    "claiming tribute and subjects": {
+      "reduced liberty desire": 10
+    },
+    "building upon old military structures": {
+      "mil tech cost modifier": -0.1
+    },
+    "dominating trade sectors": {
+      "global trade power": 0.15
+    },
+    "reclaim the lost glory": {
+      "core creation": -0.1,
+      "legitimacy": 1,
+      "republican tradition": 0.5,
+      "imperial mandate": 0.1
+    }
+  },
+  "MIN": {
+    "Tradition": {
+      "free leader pool": 1,
+      "advisor pool": 1
+    },
+    "Ambition": {
+      "global prov trade power modifier": 0.1
+    },
+
+    "minister of the south": {
+      "defensiveness": 0.15,
+      "navy tradition": 1
+    },
+    "maritime investments": {
+      "naval morale": 0.1
+    },
+    "discard the memory of the yin dynasty": {
+      "global manpower modifier": 0.15
+    },
+    "cultivate the min domain": {
+      "development cost": -0.1
+    },
+    "succeed where we failed southern tang": {
+      "infantry power": 0.1
+    },
+    "out of isolation": {
+      "diplomatic reputation": 1
+    },
+    "zhongguo": {
+      "land forcelimit modifier": 0.15,
+      "years of nationalism": -5
+    }
+  },
+  "YAN": {
+    "Tradition": {
+      "free leader pool": 1,
+      "advisor pool": 1
+    },
+    "Ambition": {
+      "advisor cost": -0.15
+    },
+
+    "an lushan rebellion": {
+      "infantry cost": -0.1,
+      "cavalry cost": -0.1
+    },
+    "merchant class insurgents": {
+      "spy offence": 0.2
+    },
+    "prosperous northern roots": {
+      "manpower recovery speed": 0.1
+    },
+    "revise succession laws": {
+      "legitimacy": 1,
+      "republican tradition": 0.5
+    },
+    "soldiers from many regions": {
+      "mercenary cost": -0.1
+    },
+    "rise of the great yan dynasty": {
+      "ae impact": -0.1
+    },
+    "zhongguo": {
+      "land forcelimit modifier": 0.15,
+      "years of nationalism": -5
+    }
+  },
+  "LNG": {
+    "Tradition": {
+      "free leader pool": 1,
+      "advisor pool": 1
+    },
+    "Ambition": {
+      "global manpower modifier": 0.15
+    },
+
+    "after the tang dynasty": {
+      "prestige": 1,
+      "province warscore cost": -0.05
+    },
+    "ambition for luoyang and changan": {
+      "core creation": -0.1
+    },
+    "from kaifeng outwards": {
+      "legitimacy": 1,
+      "republican tradition": 0.5
+    },
+    "memories of the southern tang": {
+      "free mil policy": 1
+    },
+    "help from the north": {
+      "cavalry power": 0.15
+    },
+    "warranted brutality": {
+      "harsh treatment cost": -0.25
+    },
+    "zhongguo": {
+      "land forcelimit modifier": 0.15,
+      "years of nationalism": -5
+    }
+  },
+  "CGS": {
+    "Tradition": {
+      "shock damage received": -0.1,
+      "defensiveness": 0.1
+    },
+    "Ambition": {
+      "development cost": -0.1
+    },
+
+    "original people of guangxi": {
+      "hostile attrition": 1,
+      "land attrition": -0.15
+    },
+    "tenuous chinese authority": {
+      "global autonomy": -0.05
+    },
+    "remember the nanzhao": {
+      "global manpower modifier": 0.15
+    },
+    "warrior women of the zhuang": {
+      "manpower recovery speed": 0.1,
+      "female advisor chance": 0.25,
+      "may recruit female generals": true
+    },
+    "rid ourselves of tribal complexes": {
+      "stability cost modifier": -0.1
+    },
+    "retain and refine shogongism moism": {
+      "global missionary strength": 0.02
+    },
+    "peace for the zhuang people": {
+      "state maintenance modifier": -0.1,
+      "global spy defence": 0.2
+    }
+  },
+  "QIN": {
+    "Tradition": {
+      "free leader pool": 1,
+      "advisor pool": 1
+    },
+    "Ambition": {
+      "core creation": -0.2
+    },
+
+    "foundations from the zhou": {
+      "prestige": 1,
+      "cavalry cost": -0.1
+    },
+    "shang yang promoting legalism": {
+      "discipline": 0.05
+    },
+    "developments of the qin capital": {
+      "development cost": -0.1
+    },
+    "ready for military reforms": {
+      "mil tech cost modifier": -0.1
+    },
+    "strong political and peasent base": {
+      "global manpower modifier": 0.15
+    },
+    "grand position of the qin dynasty": {
+      "production efficiency": 0.1
+    },
+    "zhongguo": {
+      "land forcelimit modifier": 0.15,
+      "years of nationalism": -5
+    }
+  },
+  "HUA": {
+    "Tradition": {
+      "war exhaustion": -0.02,
+      "production efficiency": 0.1
+    },
+    "Ambition": {
+      "fort maintenance modifier": -0.2
+    },
+
+    "migrations of the hakka": {
+      "movement speed": 0.1,
+      "leader land manuever": 1
+    },
+    "productive potential in the earth": {
+      "production efficiency": 0.1
+    },
+    "distinct chinese identity": {
+      "land morale": 0.1
+    },
+    "promote the dragon deities": {
+      "tolerance own": 2
+    },
+    "build toulous": {
+      "defensiveness": 0.2
+    },
+    "carve out a place for the hakka": {
+      "development cost": -0.1
+    },
+    "zhongguo": {
+      "land forcelimit modifier": 0.15,
+      "years of nationalism": -5
+    }
+  },
+  "YUE": {
+    "Tradition": {
+      "free leader pool": 1,
+      "advisor pool": 1
+    },
+    "Ambition": {
+      "navy tradition": 1
+    },
+
+    "resisting central chinese authority": {
+      "hostile attrition": 1,
+      "may perform slave raid on same religion": true
+    },
+    "the legacy of goujian against wu": {
+      "army tradition decay": -0.01
+    },
+    "keepers of the southern waters": {
+      "light ship power": 0.15
+    },
+    "connections to the vietnamese": {
+      "manpower recovery speed": 0.1
+    },
+    "blending han and yue administrations together": {
+      "free adm policy": 1
+    },
+    "the great nanyue kingdom": {
+      "legitimacy": 1
+    },
+    "zhongguo": {
+      "land forcelimit modifier": 0.15,
+      "years of nationalism": -5
+    }
+  },
+  "MAD": {
+    "Tradition": {
+      "land forcelimit modifier": 0.2,
+      "global prov trade power modifier": 0.1
+    },
+    "Ambition": {
+      "development cost": -0.1
+    },
+
+    "rivals of the chola": {
+      "land morale": 0.1
+    },
+    "the 7 prime lord emperors ellarkku nayanar": {
+      "legitimacy": 1
+    },
+    "build vimana and mandapa styled temples": {
+      "tolerance own": 2,
+      "build time": -0.2
+    },
+    "promote seafaring trade": {
+      "placed merchant power": 5,
+      "trade efficiency": 0.1
+    },
+    "korkai pearl fishing": {
+      "production efficiency": 0.1
+    },
+    "memories of civil war vira and sundara": {
+      "global unrest": -1
+    },
+    "reunify the pandyan empire": {
+      "fire damage": 0.1
+    }
+  },
+  "VND": {
+    "Tradition": {
+      "production efficiency": 0.1,
+      "caravan power": 0.2
+    },
+    "Ambition": {
+      "global trade goods size modifier": 0.1
+    },
+
+    "descendants of the ay dynasty": {
+      "prestige decay": -0.01
+    },
+    "survivors of the destruction of the chera": {
+      "legitimacy": 1
+    },
+    "resisting muslim invasions": {
+      "hostile attrition": 0.5,
+      "reinforce cost modifier": -0.25
+    },
+    "uniting kerala": {
+      "state maintenance modifier": -0.25
+    },
+    "protecting venad coasts": {
+      "light ship power": 0.15
+    },
+    "fighting against the pandyas": {
+      "fire damage": 0.05,
+      "shock damage": 0.05
+    },
+    "organizing infrastructure projects": {
+      "development cost": -0.1
+    }
+  },
+  "KLT": {
+    "Tradition": {
+      "production efficiency": 0.1,
+      "hostile attrition": 1
+    },
+    "Ambition": {
+      "legitimacy": 1
+    },
+
+    "we are the mushika dynasty": {
+      "prestige decay": -0.01
+    },
+    "connections to and after the second cheras": {
+      "same culture advisor cost": -0.2
+    },
+    "combat in kerala": {
+      "land attrition": -0.2
+    },
+    "organized decentralization": {
+      "global unrest": -1
+    },
+    "balance the matrilinial divisions": {
+      "manpower recovery speed": 0.15
+    },
+    "source of heirs to others": {
+      "diplomatic reputation": 1
+    },
+    "cultivate the kolathiri court": {
+      "free adm policy": 1
+    }
+  },
+  "MAB": {
+    "Tradition": {
+      "production efficiency": 0.1,
+      "global prov trade power modifier": 0.1
+    },
+    "Ambition": {
+      "land forcelimit modifier": 0.25
+    },
+
+    "partition of the second cheras": {
+      "legitimacy": 1
+    },
+    "conquer by courting and conferring death": {
+      "army tradition decay": -0.01
+    },
+    "strategic coastal access": {
+      "navy tradition": 0.5,
+      "trade efficiency": 0.1
+    },
+    "lessons from subjugating rivals": {
+      "shock damage received": -0.05,
+      "shock damage": 0.05
+    },
+    "matrilineal succession system": {
+      "global unrest": -1
+    },
+    "implement superior economic policies": {
+      "free dip policy": 1
+    },
+    "patronize religious scholars": {
+      "religious unity": 0.25
+    }
+  },
+  "KOC": {
+    "Tradition": {
+      "production efficiency": 0.1,
+      "prestige decay": -0.01
+    },
+    "Ambition": {
+      "fire damage": 0.1
+    },
+
+    "revenge against the zamorin of calicut": {
+      "land morale": 0.1
+    },
+    "head of all temples": {
+      "religious unity": 0.25
+    },
+    "memory of the last chera": {
+      "legitimacy": 1
+    },
+    "matrilineal succession in the royal family": {
+      "prestige": 0.5,
+      "heir chance": 0.5
+    },
+    "rekindle far off diplomacy": {
+      "diplomatic reputation": 1
+    },
+    "cultivate the port at vypin": {
+      "trade efficiency": 0.1,
+      "global institution spread": 0.1
+    },
+    "succeed the cheras": {
+      "core creation": -0.1
+    }
+  },
+  "TNJ": {
+    "Tradition": {
+      "state maintenance modifier": -0.25,
+      "global unrest": -1
+    },
+    "Ambition": {
+      "religious unity": 0.25
+    },
+
+    "ties to vijayanagar": {
+      "legitimacy": 1
+    },
+    "contention with the madurai nayaks": {
+      "infantry power": 0.1
+    },
+    "patronize srirangam temple and others": {
+      "global tax modifier": 0.15,
+      "build time": -0.2
+    },
+    "promote irrigation projects": {
+      "development cost": -0.1
+    },
+    "scholarly work in multiple languages": {
+      "idea cost": -0.1
+    },
+    "promote an educated court": {
+      "technology cost": -0.05
+    },
+    "overcome corruption and dissent": {
+      "yearly corruption": -0.05
+    }
+  },
+  "GNG": {
+    "Tradition": {
+      "state maintenance modifier": -0.25,
+      "diplomatic upkeep": 1
+    },
+    "Ambition": {
+      "free dip policy": 1
+    },
+
+    "aided by vijayanagar": {
+      "land forcelimit modifier": 0.25
+    },
+    "build up gingee fort": {
+      "build cost": -0.15,
+      "fort maintenance modifier": -0.1
+    },
+    "emulating the fortifications of gingee": {
+      "defensiveness": 0.15
+    },
+    "conflicts against muslims": {
+      "army tradition": 0.5
+    },
+    "expand gingees trade sector": {
+      "global prov trade power modifier": 0.1
+    },
+    "influencing neighboring politics": {
+      "spy offence": 0.2
+    },
+    "far off relations": {
+      "diplomatic reputation": 1
+    }
+  },
+  "KLN": {
+    "Tradition": {
+      "state maintenance modifier": -0.25,
+      "ae impact": -0.1
+    },
+    "Ambition": {
+      "tolerance heathen": 3
+    },
+
+    "taking advantage of vijayanagar decline": {
+      "unjustified demands": -0.2
+    },
+    "techniques of vijayangar": {
+      "advisor cost": -0.1,
+      "global autonomy": -0.05
+    },
+    "expanding the keladi domain": {
+      "core creation": -0.1
+    },
+    "assert and build up keladi authority": {
+      "global unrest": -1
+    },
+    "temple patronage and constructions": {
+      "build time": -0.2,
+      "prestige": 1
+    },
+    "tolerance of other faiths": {
+      "religious unity": 0.25
+    },
+    "reform agricultural and taxation methods": {
+      "global trade goods size modifier": 0.1
+    }
+  },
+  "KRK": {
+    "Tradition": {
+      "religious unity": 0.25,
+      "tolerance own": 3
+    },
+    "Ambition": {
+      "global institution spread": 0.1
+    },
+
+    "against the marathas": {
+      "army tradition": 0.5
+    },
+    "capitalize upon the declines": {
+      "core creation": -0.1
+    },
+    "adaptation of firearms": {
+      "fire damage": 0.05,
+      "fire damage received": -0.05
+    },
+    "fortifications of arcot": {
+      "defensiveness": 0.15
+    },
+    "unity with religious communities": {
+      "global unrest": -1
+    },
+    "lineage to caliph umar": {
+      "legitimacy": 1
+    },
+    "cultivate persian literary culture": {
+      "idea cost": -0.1
+    }
+  },
+  "DGL": {
+    "Tradition": {
+      "global trade goods size modifier": 0.1,
+      "light ship power": 0.15
+    },
+    "Ambition": {
+      "navy tradition": 1
+    },
+
+    "memory of koimala": {
+      "legitimacy": 1,
+      "navy tradition decay": -0.01
+    },
+    "muslim trading privileges": {
+      "trade efficiency": 0.15
+    },
+    "far off connections": {
+      "ship durability": 0.1,
+      "trade range modifier": 0.5
+    },
+    "protecting the atolls": {
+      "heavy ship power": 0.1,
+      "global ship cost": -0.1
+    },
+    "arabic ties and administrative tongue": {
+      "adm tech cost modifier": -0.1
+    },
+    "capitalize on our importance": {
+      "trade steering": 0.15,
+      "naval tradition from trade": 1
+    },
+    "exporting cowrie shells and coir fibre": {
+      "global prov trade power modifier": 0.1
+    }
+  },
+  "JFN": {
+    "Tradition": {
+      "mercenary cost": -0.15,
+      "idea cost": -0.05
+    },
+    "Ambition": {
+      "development cost": -0.1
+    },
+
+    "memory of magha the tyrant": {
+      "prestige": 0.5,
+      "harsh treatment cost": -0.2
+    },
+    "two capitals of nallur and puttalam": {
+      "production efficiency": 0.1
+    },
+    "diversify the economy of jaffna": {
+      "trade steering": 0.1,
+      "global prov trade power modifier": 0.05
+    },
+    "memories of fighting the kotte kingdom": {
+      "land morale": 0.1
+    },
+    "ties with southern india": {
+      "spy offence": 0.15,
+      "rebel support efficiency": 0.25
+    },
+    "buddhist sinhalese people": {
+      "religious unity": 0.25
+    },
+    "organized military payment system": {
+      "global regiment cost": -0.1,
+      "global regiment recruit speed": -0.1
+    }
+  },
+  "CHD": {
+    "Tradition": {
+      "hostile attrition": 1,
+      "prestige": 1
+    },
+    "Ambition": {
+      "global trade goods size modifier": 0.1
+    },
+
+    "tribes of chandrapur": {
+      "manpower recovery speed": 0.1
+    },
+    "memories of great empires": {
+      "legitimacy": 1
+    },
+    "gondi knowledge sharing": {
+      "idea cost": -0.1
+    },
+    "gondi hinduism": {
+      "religious unity": 0.2,
+      "tolerance heathen": 2
+    },
+    "natural terrain knowledge": {
+      "defensiveness": 0.2
+    },
+    "chiefs into kings into emperors": {
+      "army tradition": 0.5
+    },
+    "using this so called coal": {
+      "production efficiency": 0.15
+    }
+  },
+  "GDW": {
+    "Tradition": {
+      "core creation": -0.1,
+      "global autonomy": -0.05
+    },
+    "Ambition": {
+      "land forcelimit modifier": 0.25
+    },
+
+    "mythical kings": {
+      "prestige": 1
+    },
+    "institute garhs": {
+      "garrison size": 0.25,
+      "state maintenance modifier": -0.25
+    },
+    "gondi knowledge sharing": {
+      "idea cost": -0.1
+    },
+    "gondi hinduism": {
+      "religious unity": 0.2,
+      "tolerance heathen": 2
+    },
+    "gond clan organization": {
+      "global unrest": -1
+    },
+    "malvi authorities": {
+      "fire damage": 0.1
+    },
+    "consolidate the lands of gondwana": {
+      "development cost": -0.1
+    }
+  },
+  "KHD": {
+    "Tradition": {
+      "infantry power": 0.1,
+      "cavalry power": 0.1
+    },
+    "Ambition": {
+      "free leader pool": 1
+    },
+
+    "rajput caste heritage": {
+      "army tradition decay": -0.01
+    },
+    "rebels against bahmanis": {
+      "global regiment recruit speed": -0.1,
+      "global manpower modifier": 0.1
+    },
+    "land of the khans": {
+      "land forcelimit modifier": 0.2
+    },
+    "from caliph umar al faruq": {
+      "legitimacy": 1
+    },
+    "rivals of gujarat": {
+      "land morale": 0.1
+    },
+    "fortify the holdings of khandesh": {
+      "global garrison growth": 0.25,
+      "defensiveness": 0.1
+    },
+    "satiate the minorities": {
+      "num accepted cultures": 1
+    }
+  },
+  "GWA": {
+    "Tradition": {
+      "spy offence": 0.2,
+      "garrison size": 0.2
+    },
+    "Ambition": {
+      "diplomats": 1
+    },
+
+    "former fuedatory of delhi": {
+      "global tax modifier": 0.15
+    },
+    "rebels against delhi": {
+      "diplomatic reputation": 1
+    },
+    "jain scholars in gwalior": {
+      "idea cost": -0.1
+    },
+    "between delhi and malwa": {
+      "defensiveness": 0.1,
+      "army tradition": 0.5
+    },
+    "asylum to rebels and others": {
+      "rebel support efficiency": 0.25,
+      "diplomatic upkeep": 1
+    },
+    "improving defensive measures": {
+      "hostile attrition": 1
+    },
+    "rajput diplomacy": {
+      "free dip policy": 1
+    }
+  },
+  "HAD": {
+    "Tradition": {
+      "manpower recovery speed": 0.1,
+      "advisor cost": -0.1
+    },
+    "Ambition": {
+      "ae impact": -0.15
+    },
+
+    "rao underneath the sisodias": {
+      "global regiment cost": -0.1
+    },
+    "legacy of the meena tribe": {
+      "advisor pool": 1,
+      "female advisor chance": 0.25,
+      "may recruit female generals": true
+    },
+    "rajput meena intermingling": {
+      "war exhaustion": -0.02
+    },
+    "handing down of martial traditions": {
+      "army tradition decay": -0.01
+    },
+    "dynastic support from mewar": {
+      "diplomatic reputation": 1
+    },
+    "cultivation of rajput clans": {
+      "global manpower modifier": 0.2
+    },
+    "taking after the sisodias": {
+      "prestige": 1
+    }
+  },
+  "MUL": {
+    "Tradition": {
+      "army tradition decay": -0.01,
+      "merc maintenance modifier": -0.1
+    },
+    "Ambition": {
+      "trade efficiency": 0.15
+    },
+
+    "siege after siege after siege": {
+      "siege ability": 0.1,
+      "defensiveness": 0.1
+    },
+    "the prices of being on the border": {
+      "manpower recovery speed": 0.1
+    },
+    "great center of trade": {
+      "trade steering": 0.1,
+      "caravan power": 0.1
+    },
+    "friends of the baloch": {
+      "mercenary cost": -0.1
+    },
+    "repulse delhi and afghan invasions": {
+      "land morale": 0.1
+    },
+    "sufis of multan": {
+      "religious unity": 0.15,
+      "monthly piety": -0.001
+    },
+    "from frontier land to heart land": {
+      "global autonomy": -0.05
+    }
+  },
+  "MBL": {
+    "Tradition": {
+      "hostile attrition": 1,
+      "global tax modifier": 0.15
+    },
+    "Ambition": {
+      "global autonomy": -0.05
+    },
+
+    "keepers from centuries before": {
+      "prestige decay": -0.01,
+      "land morale": 0.05
+    },
+    "malla kings of bishnupur": {
+      "legitimacy": 1
+    },
+    "the isolation of bishnupur": {
+      "defensiveness": 0.2
+    },
+    "praying to bipodtarini devi": {
+      "tolerance own": 2
+    },
+    "abiding by the mallabda calendar": {
+      "global unrest": -1
+    },
+    "terracotta craftwork": {
+      "global prov trade power modifier": 0.15
+    },
+    "tussar silk work": {
+      "global trade power": 0.1,
+      "prestige": 1
+    }
+  },
+  "BGA": {
+    "Tradition": {
+      "mercenary cost": -0.15,
+      "diplomatic upkeep": 1
+    },
+    "Ambition": {
+      "merc maintenance modifier": -0.15
+    },
+
+    "rajput and malvi influences": {
+      "army tradition": 0.5
+    },
+    "the fake subject state": {
+      "land morale": 0.1
+    },
+    "our natural terrain": {
+      "defensiveness": 0.1,
+      "movement speed": 0.1
+    },
+    "leagued with western shore pirates": {
+      "may perform slave raid": true,
+      "privateer efficiency": 0.25
+    },
+    "rein in the chiefs under the raja": {
+      "global manpower modifier": 0.15
+    },
+    "rivals in khandesh": {
+      "manpower recovery speed": 0.1
+    },
+    "reshape military ranks in baglana": {
+      "land maintenance modifier": -0.1
+    }
+  },
+  "NGA": {
+    "Tradition": {
+      "infantry power": 0.1,
+      "global regiment recruit speed": -0.1
+    },
+    "Ambition": {
+      "num accepted cultures": 1
+    },
+
+    "sufi shrines rebuilt": {
+      "religious unity": 0.25
+    },
+    "memory of the mongol invasions": {
+      "cavalry power": 0.15
+    },
+    "alliances against mewar": {
+      "diplomatic upkeep": 1
+    },
+    "rajput warriors with turks": {
+      "army tradition": 0.5
+    },
+    "against the sayyids of delhi": {
+      "fabricate claims cost": -0.25,
+      "spy offence": 0.15
+    },
+    "fortify naguar fort and others": {
+      "defensiveness": 0.15
+    },
+    "rise up and refuse to pay tribute": {
+      "manpower recovery speed": 0.1
+    }
+  },
+  "KLH": {
+    "Tradition": {
+      "army tradition decay": -0.01,
+      "legitimacy": 1
+    },
+    "Ambition": {
+      "fire damage": 0.1
+    },
+
+    "succeed the gangas": {
+      "prestige": 1,
+      "heir chance": 0.5
+    },
+    "long lasting lineage": {
+      "diplomatic reputation": 1
+    },
+    "warrior heritage of the nagas": {
+      "army tradition": 0.5
+    },
+    "turbulent past of kalahandi": {
+      "free mil policy": 1
+    },
+    "rising power of the nagas": {
+      "province warscore cost": -0.1
+    },
+    "adoption of new strategies from orissa": {
+      "shock damage received": -0.05,
+      "shock damage": 0.05
+    },
+    "solidify kalahandi": {
+      "yearly absolutism": 0.2
+    }
+  },
+  "BST": {
+    "Tradition": {
+      "global autonomy": -0.05,
+      "global unrest": -1
+    },
+    "Ambition": {
+      "manpower recovery speed": 0.1
+    },
+
+    "founded under the protection of danteshwari": {
+      "prestige": 1,
+      "tolerance own": 2
+    },
+    "link to the telugus": {
+      "diplomatic reputation": 1
+    },
+    "gondi knowledge sharing": {
+      "idea cost": -0.1
+    },
+    "gondi hinduism": {
+      "religious unity": 0.2,
+      "tolerance heathen": 2
+    },
+    "keep bastar unified": {
+      "yearly absolutism": 0.2
+    },
+    "succeed the kakatiya dynasty": {
+      "land forcelimit modifier": 0.2
+    },
+    "under the protection of danteshwari": {
+      "war exhaustion": -0.02
+    }
+  },
+  "NGP": {
+    "Tradition": {
+      "army tradition decay": -0.01,
+      "hostile attrition": 1
+    },
+    "Ambition": {
+      "state maintenance modifier": -0.25
+    },
+
+    "nagavanshi and nagvanshi": {
+      "legitimacy": 1
+    },
+    "established in the first century": {
+      "global manpower modifier": 0.15
+    },
+    "warrior heritage of the nagas": {
+      "army tradition": 0.5
+    },
+    "myths of the naga dynasty origins": {
+      "prestige decay": -0.01
+    },
+    "rising power of the nagas": {
+      "province warscore cost": -0.1
+    },
+    "descendants of the mythical nagas": {
+      "land morale": 0.1
+    },
+    "empower the kshatriya varna": {
+      "free mil policy": 1
+    }
+  },
+  "RTT": {
+    "Tradition": {
+      "yearly corruption": -0.05,
+      "free leader pool": 1
+    },
+    "Ambition": {
+      "development cost": -0.1
+    },
+
+    "building up ratnapura": {
+      "build cost": -0.2
+    },
+    "feudatory mandala traditions": {
+      "diplomatic reputation": 1,
+      "diplomatic upkeep": 1
+    },
+    "gondi knowledge sharing": {
+      "idea cost": -0.1
+    },
+    "gondi hinduism": {
+      "religious unity": 0.2,
+      "tolerance heathen": 2
+    },
+    "defend the land of ratnapura": {
+      "defensiveness": 0.15
+    },
+    "ratnapura coinage reform": {
+      "inflation reduction": 0.1
+    },
+    "finances of the court in ratnapura": {
+      "interest": -0.5
+    }
+  },
+  "PRD": {
+    "Tradition": {
+      "advisor pool": 1,
+      "diplomatic upkeep": 1
+    },
+    "Ambition": {
+      "shock damage": 0.1
+    },
+
+    "feudatory of the gajapati kingdom": {
+      "development cost": -0.1
+    },
+    "garjati oriya connection": {
+      "global unrest": -1
+    },
+    "garjati fortress control": {
+      "fort maintenance modifier": -0.15
+    },
+    "garjati adaptive warfare": {
+      "army tradition": 0.5
+    },
+    "the meaning of gajapati": {
+      "cavalry power": 0.15,
+      "cav to inf ratio": 0.5
+    },
+    "continue architectual work": {
+      "build cost": -0.2
+    },
+    "cultural golden age": {
+      "same culture advisor cost": -0.2
+    }
+  },
+  "PTT": {
+    "Tradition": {
+      "global unrest": -1,
+      "legitimacy": 1
+    },
+    "Ambition": {
+      "ae impact": -0.1
+    },
+
+    "devotion via temples": {
+      "global autonomy": -0.05
+    },
+    "remember the work of ramai deva": {
+      "global institution spread": 0.1
+    },
+    "garjati fortress control": {
+      "fort maintenance modifier": -0.15
+    },
+    "garjati adaptive warfare": {
+      "army tradition": 0.5
+    },
+    "enforcing authority in patna": {
+      "harsh treatment cost": -0.25
+    },
+    "revive the military prowess from ramai deva": {
+      "discipline": 0.05
+    },
+    "solidify the eastern ganga domain": {
+      "production efficiency": 0.1
+    }
+  },
+  "KJH": {
+    "Tradition": {
+      "improve relation modifier": 0.25,
+      "advisor pool": 1
+    },
+    "Ambition": {
+      "global manpower modifier": 0.2
+    },
+
+    "outside relations mayurbhanj rajputana": {
+      "diplomatic reputation": 1
+    },
+    "family in the feudatories": {
+      "legitimacy": 1
+    },
+    "garjati fortress control": {
+      "fort maintenance modifier": -0.15
+    },
+    "garjati adaptive warfare": {
+      "army tradition": 0.5
+    },
+    "cultivation of keonjhar": {
+      "development cost": -0.1
+    },
+    "to be a raja and beyond": {
+      "yearly corruption": -0.05
+    },
+    "ambitions of keonjhar": {
+      "province warscore cost": -0.1
+    }
+  },
+  "JPR": {
+    "Tradition": {
+      "fabricate claims cost": -0.25,
+      "merc maintenance modifier": -0.1
+    },
+    "Ambition": {
+      "land maintenance modifier": -0.1
+    },
+
+    "confluence of past powers": {
+      "build cost": -0.1,
+      "prestige": 1
+    },
+    "coming together of various traditions": {
+      "num accepted cultures": 2
+    },
+    "garjati fortress control": {
+      "fort maintenance modifier": -0.15
+    },
+    "garjati adaptive warfare": {
+      "army tradition": 0.5
+    },
+    "reform the dynastic succession": {
+      "legitimacy": 1
+    },
+    "plentiful mercenary contracts": {
+      "mercenary cost": -0.15
+    },
+    "social cohesion in jeypore": {
+      "free adm policy": 1
+    }
+  },
+  "SBP": {
+    "Tradition": {
+      "land morale": 0.1,
+      "land forcelimit modifier": 0.2
+    },
+    "Ambition": {
+      "manpower recovery speed": 0.15
+    },
+
+    "relations to patna chauhans": {
+      "advisor pool": 1,
+      "prestige": 0.5
+    },
+    "supporting against muslim invasions": {
+      "diplomatic reputation": 1
+    },
+    "garjati fortress control": {
+      "fort maintenance modifier": -0.15
+    },
+    "garjati adaptive warfare": {
+      "army tradition": 0.5
+    },
+    "succeeding the patna state": {
+      "global autonomy": -0.05
+    },
+    "taming the garjat states": {
+      "reduced liberty desire": 10
+    },
+    "devotion to samleswari": {
+      "global unrest": -1
+    }
+  },
+  "JSL": {
+    "Tradition": {
+      "defensiveness": 0.1,
+      "garrison size": 0.2
+    },
+    "Ambition": {
+      "army tradition": 0.5
+    },
+
+    "legendary 9 year siege from delhi": {
+      "prestige": 1,
+      "fort maintenance modifier": -0.1
+    },
+    "reinvigorate bhati rajputs": {
+      "land morale": 0.1
+    },
+    "keeping caravan routes safe": {
+      "caravan power": 0.2
+    },
+    "jauhar": {
+      "prestige decay": -0.01
+    },
+    "raiding hostile trade": {
+      "spy offence": 0.15,
+      "loot amount": 0.25
+    },
+    "anti siege attacks": {
+      "hostile attrition": 1
+    },
+    "resurgence of the bhati rajputs": {
+      "legitimacy": 1
+    }
+  },
+  "JAN": {
+    "Tradition": {
+      "defensiveness": 0.1,
+      "production efficiency": 0.1
+    },
+    "Ambition": {
+      "land maintenance modifier": -0.1
+    },
+
+    "rajput lands": {
+      "global supply limit modifier": 0.25,
+      "army tradition": 0.25
+    },
+    "willing to negotiate": {
+      "diplomatic reputation": 1
+    },
+    "rajput conflicts": {
+      "ae impact": -0.1
+    },
+    "construction of fortifications": {
+      "garrison size": 0.2
+    },
+    "build the karan mahal": {
+      "prestige": 1
+    },
+    "construct the zenana quarter": {
+      "advisor pool": 1,
+      "female advisor chance": 0.33
+    },
+    "the future of rajput jangladesh": {
+      "fire damage": 0.1
+    }
+  },
+  "KMT": {
+    "Tradition": {
+      "land attrition": -0.15,
+      "infantry cost": -0.1
+    },
+    "Ambition": {
+      "legitimacy": 1
+    },
+
+    "assamese literary influences": {
+      "global institution spread": 0.1
+    },
+    "the threat of bengal": {
+      "land morale": 0.1
+    },
+    "bhuyan chiefs as allies": {
+      "hostile attrition": 1
+    },
+    "settle the turbulent times after the pala": {
+      "global autonomy": -0.05
+    },
+    "asserting authority over the bhuyan chiefs": {
+      "global manpower modifier": 0.2
+    },
+    "utilize fertility of the land": {
+      "production efficiency": 0.15
+    },
+    "overcome the sultanates": {
+      "warscore cost vs other religion": -0.2
+    }
+  },
+  "KAC": {
+    "Tradition": {
+      "hostile attrition": 1,
+      "movement speed": 0.1
+    },
+    "Ambition": {
+      "defensiveness": 0.2
+    },
+
+    "the land of jungle kingdoms": {
+      "fabricate claims cost": -0.25
+    },
+    "war goddess kechai khaiti": {
+      "land morale": 0.1
+    },
+    "brahmin influences": {
+      "global missionary strength": 0.02
+    },
+    "formalize the patra and bhandari advisors": {
+      "advisor pool": 1
+    },
+    "specialize the sephongs tribes": {
+      "state maintenance modifier": -0.2,
+      "global spy defence": 0.2
+    },
+    "build up the mel mandap": {
+      "same culture advisor cost": -0.2
+    },
+    "mastery of jungle warfare": {
+      "shock damage": 0.1
+    }
+  },
+  "BND": {
+    "Tradition": {
+      "garrison size": 0.1,
+      "same culture advisor cost": -0.2
+    },
+    "Ambition": {
+      "global manpower modifier": 0.2
+    },
+
+    "descendants of the solar dynasty": {
+      "prestige": 1
+    },
+    "natural defensive measures": {
+      "hostile attrition": 1
+    },
+    "legacy of the rajputs": {
+      "army tradition": 0.5
+    },
+    "northern strikes against us": {
+      "shock damage received": -0.1
+    },
+    "capital fortress town orchha": {
+      "legitimacy": 1,
+      "defensiveness": 0.1
+    },
+    "chhatris of bundela rulers": {
+      "prestige decay": -0.01
+    },
+    "control of the vindhyans": {
+      "development cost": -0.1
+    }
+  },
+  "PAN": {
+    "Tradition": {
+      "legitimacy": 1,
+      "same culture advisor cost": -0.2
+    },
+    "Ambition": {
+      "global manpower modifier": 0.2
+    },
+
+    "past raids against us": {
+      "defensiveness": 0.15
+    },
+    "build up kalinjar fort": {
+      "global garrison growth": 0.25
+    },
+    "temples of kalinjar fort": {
+      "build cost": -0.1,
+      "fort maintenance modifier": -0.1
+    },
+    "take back our architectual legacy": {
+      "global unrest": -1
+    },
+    "past feudatory of gujara pratiharas": {
+      "reduced liberty desire": 10
+    },
+    "the destroyer of time": {
+      "discipline": 0.05
+    },
+    "control of the vindhyans": {
+      "development cost": -0.1
+    }
+  },
+  "BGL": {
+    "Tradition": {
+      "caravan power": 0.2,
+      "same culture advisor cost": -0.2
+    },
+    "Ambition": {
+      "land forcelimit modifier": 0.2
+    },
+
+    "gujuarti connections": {
+      "trade steering": 0.15
+    },
+    "solanki rajputs": {
+      "land maintenance modifier": -0.1
+    },
+    "tigers of the vindhyan range": {
+      "land morale": 0.1
+    },
+    "rajput merging identity": {
+      "culture conversion cost": -0.2
+    },
+    "reformation of baghel succession": {
+      "legitimacy": 1
+    },
+    "bagelkhand school of painting": {
+      "prestige": 1
+    },
+    "control of the vindhyans": {
+      "development cost": -0.1
+    }
+  },
+  "PTA": {
+    "Tradition": {
+      "land morale": 0.1,
+      "land forcelimit modifier": 0.2
+    },
+    "Ambition": {
+      "manpower recovery speed": 0.15
+    },
+
+    "afghan tensions": {
+      "fabricate claims cost": -0.25
+    },
+    "according to temple architecture": {
+      "build cost": -0.1,
+      "build time": -0.1
+    },
+    "sikh roots": {
+      "religious unity": 0.25
+    },
+    "playing indian politics": {
+      "diplomats": 1
+    },
+    "tradition versus reform": {
+      "idea cost": -0.1
+    },
+    "minting of patiala coins": {
+      "inflation reduction": 0.1
+    },
+    "marathas connections": {
+      "cavalry power": 0.1
+    }
+  },
+  "ODH": {
+    "Tradition": {
+      "legitimacy": 1,
+      "diplomatic upkeep": 1
+    },
+    "Ambition": {
+      "fire damage received": -0.1
+    },
+
+    "prosperous land of oudh": {
+      "global trade goods size modifier": 0.1
+    },
+    "into other nations": {
+      "spy offence": 0.25
+    },
+    "the oudh bequest": {
+      "diplomatic reputation": 2
+    },
+    "stave off foreign threats": {
+      "fire damage": 0.1
+    },
+    "secular practices in government": {
+      "adm tech cost modifier": -0.1
+    },
+    "encompassing many faiths": {
+      "religious unity": 0.25
+    },
+    "promoting urban development": {
+      "development cost": -0.1
+    }
+  },
+  "RMP": {
+    "Tradition": {
+      "mercenary cost": -0.15,
+      "diplomatic reputation": 1
+    },
+    "Ambition": {
+      "global regiment cost": -0.1
+    },
+
+    "afghan connections": {
+      "merc maintenance modifier": -0.1
+    },
+    "the marathi question": {
+      "army tradition": 0.5
+    },
+    "strengthen the rohilla": {
+      "land morale": 0.1
+    },
+    "threats on all sides": {
+      "ae impact": -0.15
+    },
+    "practice guerrilla warfare": {
+      "fire damage received": -0.1
+    },
+    "resist incursions against rohillas": {
+      "manpower recovery speed": 0.1
+    },
+    "the two swords of rampur": {
+      "land forcelimit modifier": 0.25
+    }
+  },
+  "MEW": {
+    "Tradition": {
+      "cavalry power": 0.1,
+      "garrison size": 0.2
+    },
+    "Ambition": {
+      "religious unity": 0.25
+    },
+
+    "muslim rajputs": {
+      "army tradition": 0.5
+    },
+    "strengthen the khanzada community": {
+      "global manpower modifier": 0.2
+    },
+    "the favor of timur": {
+      "prestige": 1
+    },
+    "threats from delhi": {
+      "land forcelimit modifier": 0.2
+    },
+    "legacy of mewati rebellion": {
+      "defensiveness": 0.2
+    },
+    "blending of identities": {
+      "num accepted cultures": 1
+    },
+    "shah e mewat": {
+      "legitimacy": 1
+    }
+  },
+  "SRG": {
+    "Tradition": {
+      "global manpower modifier": 0.2,
+      "land forcelimit modifier": 0.2
+    },
+    "Ambition": {
+      "diplomatic upkeep": 1
+    },
+
+    "suppression of rebellions": {
+      "harsh treatment cost": -0.25
+    },
+    "nagpur states": {
+      "global autonomy": -0.05
+    },
+    "rajput order": {
+      "global regiment cost": -0.1
+    },
+    "central overlord status": {
+      "vassal income": 0.25,
+      "reduced liberty desire": 10
+    },
+    "prized hunting grounds": {
+      "prestige": 1
+    },
+    "marathi cavalry connection": {
+      "cavalry cost": -0.15
+    },
+    "light warfare": {
+      "cav to inf ratio": 0.25,
+      "cavalry power": 0.1
+    }
+  },
+  "MAW": {
+    "Tradition": {
+      "infantry cost": -0.2,
+      "land forcelimit modifier": 0.2
+    },
+    "Ambition": {
+      "infantry power": 0.1
+    },
+
+    "the rathore clan": {
+      "army tradition decay": -0.01
+    },
+    "found the city of jodhpur": {
+      "development cost": -0.1
+    },
+    "lead from the front": {
+      "recover army morale speed": 0.1,
+      "land morale": 0.05
+    },
+    "fighting gujuarat and malwa": {
+      "manpower recovery speed": 0.1
+    },
+    "trade routes through jodhpur": {
+      "global own trade power": 0.2
+    },
+    "behold mehrangarh fort": {
+      "defensiveness": 0.2
+    },
+    "marwari horses": {
+      "cavalry power": 0.15,
+      "movement speed": 0.1
+    }
+  },
+  "WAR": {
+    "Tradition": {
+      "navy tradition": 1,
+      "ship durability": 0.1
+    },
+    "Ambition": {
+      "merchants": 1
+    },
+
+    "robust tax based administration": {
+      "global tax modifier": 0.15
+    },
+    "centralization efforts": {
+      "global manpower modifier": 0.15
+    },
+    "somali horn of africa": {
+      "diplomatic reputation": 1,
+      "sailor maintenance modifer": -0.1
+    },
+    "extending warsangali trade relations": {
+      "trade efficiency": 0.1,
+      "trade range modifier": 0.33
+    },
+    "tension in the west": {
+      "fabricate claims cost": -0.25,
+      "privateer efficiency": 0.25
+    },
+    "questions in the north": {
+      "improve relation modifier": 0.25
+    },
+    "the threats down south": {
+      "free dip policy": 1
+    }
+  },
+  "MJE": {
+    "Tradition": {
+      "navy tradition": 1,
+      "diplomatic reputation": 1
+    },
+    "Ambition": {
+      "navy tradition decay": -0.01
+    },
+
+    "modernizing trade networks": {
+      "trade efficiency": 0.15
+    },
+    "robust infrastructure developments": {
+      "development cost": -0.1
+    },
+    "reaching out for trade agreements": {
+      "diplomatic upkeep": 1,
+      "improve relation modifier": 0.2
+    },
+    "naval efforts of majeerteen": {
+      "global ship cost": -0.1,
+      "naval morale": 0.1
+    },
+    "centralized authority in majeerteen": {
+      "global autonomy": -0.05
+    },
+    "establish a modern sultanate": {
+      "technology cost": -0.075
+    },
+    "establish the majeerteen military": {
+      "global regiment cost": -0.1
+    }
+  },
+  "MRE": {
+    "Tradition": {
+      "mercenary cost": -0.1,
+      "navy tradition": 1
+    },
+    "Ambition": {
+      "colonists": 1
+    },
+
+    "descendants of ismail bin ibrahim al jabarti": {
+      "monthly piety": 0.001,
+      "global missionary strength": 0.01
+    },
+    "several noble houses and clans": {
+      "legitimacy": 1,
+      "heir chance": 0.5
+    },
+    "connections in southern arabia": {
+      "trade efficiency": 0.1,
+      "improve relation modifier": 0.2
+    },
+    "spreading marehan control": {
+      "diplomats": 1
+    },
+    "rein in subclans": {
+      "harsh treatment cost": -0.25
+    },
+    "maritime heritage of marehan": {
+      "naval maintenance modifier": -0.15,
+      "naval forcelimit modifier": 0.15
+    },
+    "formalize marehan control": {
+      "global manpower modifier": 0.2
+    }
+  },
+  "NUB": {
+    "Tradition": {
+      "tolerance own": 2,
+      "diplomatic reputation": 1
+    },
+    "Ambition": {
+      "global manpower modifier": 0.2
+    },
+
+    "rise from the ashes": {
+      "manpower recovery speed": 0.1
+    },
+    "horse and camel exports": {
+      "cavalry cost": -0.15
+    },
+    "strategic use of the nile": {
+      "hostile attrition": 1,
+      "land attrition": -0.1
+    },
+    "defeat petty rulers inside": {
+      "harsh treatment cost": -0.25
+    },
+    "raids and movements": {
+      "loot amount": 0.1,
+      "movement speed": 0.1
+    },
+    "battles for control of the nile": {
+      "province warscore cost": -0.1
+    },
+    "the question of piety": {
+      "religious unity": 0.25
+    }
+  },
+  "DAR": {
+    "Tradition": {
+      "hostile attrition": 1,
+      "movement speed": 0.2
+    },
+    "Ambition": {
+      "merc maintenance modifier": -0.1
+    },
+
+    "penal code of sultan dali": {
+      "prestige decay": -0.01,
+      "harsh treatment cost": -0.2
+    },
+    "manage immigration": {
+      "manpower recovery speed": 0.1
+    },
+    "wars in the arid land": {
+      "land attrition": -0.2
+    },
+    "legacy of the jebal marra mountains": {
+      "global unrest": -1
+    },
+    "ivory and slave trade": {
+      "trade efficiency": 0.15
+    },
+    "tribal warrior connections": {
+      "mercenary cost": -0.1
+    },
+    "the middle man of the region": {
+      "caravan power": 0.25
+    }
+  },
+  "ZAN": {
+    "Tradition": {
+      "legitimacy": 1,
+      "trade efficiency": 0.15
+    },
+    "Ambition": {
+      "global trade power": 0.1
+    },
+
+    "extensive trade dominance": {
+      "trade steering": 0.1,
+      "global prov trade power modifier": 0.1
+    },
+    "maritime trade hegemony": {
+      "placed merchant power": 10
+    },
+    "wresting coastal control": {
+      "naval forcelimit modifier": 0.2
+    },
+    "melting pot of east africa": {
+      "num accepted cultures": 1
+    },
+    "centralization of cities": {
+      "free dip policy": 1
+    },
+    "gold and ivory from sofala": {
+      "production efficiency": 0.15
+    },
+    "kilwan naval hegemony": {
+      "light ship power": 0.1,
+      "sunk ship morale hit recieved": -0.2
+    }
+  },
+  "MBA": {
+    "Tradition": {
+      "legitimacy": 1,
+      "global prov trade power modifier": 0.15
+    },
+    "Ambition": {
+      "navy tradition": 1
+    },
+
+    "expertly built structures and mosques": {
+      "build cost": -0.15,
+      "tolerance own": 1
+    },
+    "grand trading links": {
+      "placed merchant power": 5,
+      "trade range modifier": 0.5
+    },
+    "ivory trading": {
+      "prestige": 1
+    },
+    "fending of naval incursions": {
+      "light ship power": 0.15
+    },
+    "slave labor": {
+      "production efficiency": 0.1
+    },
+    "expand the harbors": {
+      "naval maintenance modifier": -0.2
+    },
+    "external interests": {
+      "diplomatic reputation": 1
+    }
+  },
+  "ENA": {
+    "Tradition": {
+      "inflation reduction": 0.05,
+      "caravan power": 0.25
+    },
+    "Ambition": {
+      "trade efficiency": 0.1
+    },
+
+    "against damot": {
+      "land morale": 0.1
+    },
+    "tribute to ethiopia": {
+      "prestige": 1
+    },
+    "the mikretcho council": {
+      "global unrest": -2
+    },
+    "gold and slave trade": {
+      "diplomatic reputation": 1
+    },
+    "keep the divine kingship": {
+      "legitimacy": 1
+    },
+    "reforming tribal polities": {
+      "global manpower modifier": 0.25
+    },
+    "charting an independent path": {
+      "global own trade power": 0.2
+    }
+  },
+  "MLI": {
+    "Tradition": {
+      "global own trade power": 0.1,
+      "diplomatic reputation": 1
+    },
+    "Ambition": {
+      "trade steering": 0.2
+    },
+
+    "connections along east africa": {
+      "improve relation modifier": 0.3
+    },
+    "swahili buildings": {
+      "build time": -0.2
+    },
+    "trade in ivory and horns": {
+      "trade efficiency": 0.15
+    },
+    "welcoming of foreigners": {
+      "global institution spread": 0.1
+    },
+    "maritime rivalries": {
+      "navy tradition": 1
+    },
+    "inland connections": {
+      "manpower recovery speed": 0.1,
+      "sailor maintenance modifer": -0.1
+    },
+    "become the heart of the region": {
+      "naval forcelimit modifier": 0.25
+    }
+  },
+  "GEL": {
+    "Tradition": {
+      "manpower recovery speed": 0.1,
+      "global regiment cost": -0.1
+    },
+    "Ambition": {
+      "land maintenance modifier": -0.1
+    },
+
+    "break down of ajuran": {
+      "army tradition": 0.5
+    },
+    "the geledi clan ascendant": {
+      "legitimacy": 1
+    },
+    "core at the jubba and sheblle": {
+      "trade efficiency": 0.1
+    },
+    "command the arms trade": {
+      "trade steering": 0.1,
+      "fire damage": 0.075
+    },
+    "connect with muslim dynasties": {
+      "diplomatic reputation": 1
+    },
+    "designated structure for war": {
+      "free leader pool": 1
+    },
+    "jihad in east africa": {
+      "province warscore cost": -0.1
+    }
+  },
+  "SOA": {
+    "Tradition": {
+      "land morale": 0.1,
+      "garrison size": 0.2
+    },
+    "Ambition": {
+      "global unrest": -2
+    },
+
+    "aksumite heritage": {
+      "prestige decay": -0.01
+    },
+    "ifat sultanate ties": {
+      "army tradition decay": -0.01
+    },
+    "history of religious conflict": {
+      "warscore cost vs other religion": -0.1,
+      "manpower recovery speed": 0.1
+    },
+    "memory of the makhzumi dynasty": {
+      "legitimacy": 1
+    },
+    "tensions with the oromo": {
+      "global spy defence": 0.25
+    },
+    "defense over offense": {
+      "defensiveness": 0.1,
+      "hostile attrition": 1
+    },
+    "religious deliberation": {
+      "global missionary strength": 0.02
+    }
+  },
+  "DAM": {
+    "Tradition": {
+      "hostile attrition": 1,
+      "land morale": 0.1
+    },
+    "Ambition": {
+      "shock damage": 0.1
+    },
+
+    "ethiopian connections": {
+      "advisor cost": -0.1
+    },
+    "rival of shewa": {
+      "army tradition decay": -0.01
+    },
+    "river and mountain warfare": {
+      "shock damage received": -0.1
+    },
+    "fight the oromo": {
+      "garrison size": 0.2
+    },
+    "extend damot settlements": {
+      "development cost": -0.1
+    },
+    "professional damot fighters": {
+      "drill gain modifier": 0.33,
+      "infantry power": 0.05
+    },
+    "damot administrative measures": {
+      "yearly corruption": -0.05
+    }
+  },
+  "WLY": {
+    "Tradition": {
+      "legitimacy": 1,
+      "defensiveness": 0.25
+    },
+    "Ambition": {
+      "hostile attrition": 1
+    },
+
+    "stability of welayta": {
+      "global unrest": -2
+    },
+    "centuries of presence": {
+      "diplomatic reputation": 1
+    },
+    "damot lineage": {
+      "same culture advisor cost": -0.2
+    },
+    "oromo tensions": {
+      "discipline": 0.05
+    },
+    "mitigate ethnic tensions": {
+      "culture conversion cost": -0.2
+    },
+    "welayta survivability": {
+      "land attrition": -0.2
+    },
+    "reform the kingdom": {
+      "reform progress growth": 0.1,
+      "advisor pool": 1
+    }
+  },
+  "HDY": {
+    "Tradition": {
+      "land forcelimit modifier": 0.2,
+      "cavalry power": 0.1
+    },
+    "Ambition": {
+      "manpower recovery speed": 0.15
+    },
+
+    "horses of hadiya": {
+      "cav to inf ratio": 0.25,
+      "cavalry cost": -0.1
+    },
+    "iron currency": {
+      "inflation reduction": 0.05
+    },
+    "uphold hadiya fertility": {
+      "development cost": -0.1
+    },
+    "religious wars horn of africa": {
+      "warscore cost vs other religion": -0.1
+    },
+    "question of the oromo": {
+      "global manpower modifier": 0.2
+    },
+    "adal connections": {
+      "diplomatic upkeep": 1
+    },
+    "royal hadiya military": {
+      "army tradition": 0.5
+    }
+  },
+  "JJI": {
+    "Tradition": {
+      "hostile attrition": 1,
+      "defensiveness": 0.25
+    },
+    "Ambition": {
+      "land attrition": -0.25
+    },
+
+    "horses to ethiopia": {
+      "cavalry cost": -0.15
+    },
+    "the mwa clan": {
+      "legitimacy": 1
+    },
+    "janjiros isolation": {
+      "global autonomy": -0.05
+    },
+    "no soldier killed in action": {
+      "land morale": 0.1
+    },
+    "control the raging rivers": {
+      "movement speed": 0.15
+    },
+    "contacts with ethiopia": {
+      "diplomatic reputation": 1
+    },
+    "the three mountains": {
+      "war exhaustion": -0.02
+    }
+  },
+  "AFA": {
+    "Tradition": {
+      "shock damage": 0.1,
+      "warscore cost vs other religion": -0.1
+    },
+    "Ambition": {
+      "land maintenance modifier": -0.1
+    },
+
+
+    "after the fall of adal": {
+      "land morale": 0.1
+    },
+    "steeped in islam": {
+      "global missionary strength": 0.02
+    },
+    "survival of the fittest": {
+      "manpower recovery speed": 0.1
+    },
+    "fighting the oromo migrations": {
+      "land forcelimit modifier": 0.25
+    },
+    "integrate firearms": {
+      "fire damage": 0.1
+    },
+    "quell the dynastic fights": {
+      "legitimacy": 1
+    },
+    "toward victory": {
+      "ae impact": -0.1
+    }
+  },
+  "HAR": {
+    "Tradition": {
+      "shock damage": 0.1,
+      "warscore cost vs other religion": -0.1
+    },
+    "Ambition": {
+      "land maintenance modifier": -0.1
+    },
+
+
+    "after the fall of adal": {
+      "land morale": 0.1
+    },
+    "steeped in islam": {
+      "global missionary strength": 0.02
+    },
+    "survival of the fittest": {
+      "manpower recovery speed": 0.1
+    },
+    "fighting the oromo migrations": {
+      "land forcelimit modifier": 0.25
+    },
+    "integrate firearms": {
+      "fire damage": 0.1
+    },
+    "quell the dynastic fights": {
+      "legitimacy": 1
+    },
+    "toward victory": {
+      "ae impact": -0.1
+    }
+  },
+  "TLC": {
+    "Tradition": {
+      "defensiveness": 0.1,
+      "diplomatic reputation": 1
+    },
+    "Ambition": {
+      "yearly corruption": -0.05
+    },
+
+    "learning from managing rival berber groups": {
+      "years of nationalism": -5
+    },
+    "defensive and offensive times": {
+      "drill gain modifier": 0.33,
+      "reinforce cost modifier": -0.33
+    },
+    "resist outside influences": {
+      "land morale": 0.1
+    },
+    "marinid hafsid and crusade enemies": {
+      "manpower recovery speed": 0.15
+    },
+    "corsair bases": {
+      "privateer efficiency": 0.25,
+      "navy tradition": 1
+    },
+    "promote cultural unity of tlemcen": {
+      "num accepted cultures": 1
+    },
+    "stopping the reliance on mercenaries": {
+      "global regiment cost": -0.1
+    }
+  },
+  "SOS": {
+    "Tradition": {
+      "production efficiency": 0.1,
+      "may perform slave raid": true
+    },
+    "Ambition": {
+      "global manpower modifier": 0.2
+    },
+
+    "the masmuda berbers": {
+      "land forcelimit modifier": 0.2
+    },
+    "almohad legacy": {
+      "tolerance own": 1,
+      "missionaries": 1
+    },
+    "sus valley trade routes": {
+      "trade efficiency": 0.1
+    },
+    "market town souks": {
+      "trade steering": 0.2
+    },
+    "atlas mountain defenses": {
+      "defensiveness": 0.1
+    },
+    "utilizing corsair connections": {
+      "navy tradition": 0.5,
+      "privateer efficiency": 0.2
+    },
+    "beyond berber confederacies": {
+      "global unrest": -1
+    }
+  },
+  "FEZ": {
+    "Tradition": {
+      "global institution spread": 0.1,
+      "development cost": -0.1
+    },
+    "Ambition": {
+      "warscore cost vs other religion": -0.2
+    },
+
+    "cordoba and fatimid memories": {
+      "tolerance heretic": 2,
+      "tolerance heathen": 2
+    },
+    "almohad memories": {
+      "build cost": -0.2
+    },
+    "marinid golden age": {
+      "global unrest": -1
+    },
+    "market town souks": {
+      "trade steering": 0.2
+    },
+    "promote andalusian settlements": {
+      "global manpower modifier": 0.2
+    },
+    "madrasa education": {
+      "technology cost": -0.075
+    },
+    "caliphate ambitions": {
+      "core creation": -0.1
+    }
+  },
+  "TFL": {
+    "Tradition": {
+      "land attrition": -0.2,
+      "movement speed": 0.1
+    },
+    "Ambition": {
+      "global manpower modifier": 0.25
+    },
+
+    "saadi dynastic sharifs": {
+      "global autonomy": -0.05
+    },
+    "diplomatic manuevers in morocco": {
+      "diplomatic reputation": 1
+    },
+    "minting of tafilalt coins": {
+      "inflation reduction": 0.05,
+      "global tax modifier": 0.05
+    },
+    "market town souks": {
+      "trade steering": 0.2
+    },
+    "trade beyond the sahara": {
+      "trade efficiency": 0.1
+    },
+    "supplies of the desert": {
+      "reinforce cost modifier": -0.5
+    },
+    "tombs for our rulers": {
+      "prestige": 1
+    }
+  },
+  "OYO": {
+    "Tradition": {
+      "legitimacy": 1,
+      "prestige": 1
+    },
+    "Ambition": {
+      "core creation": -0.15
+    },
+
+    "metropolitan oyo ile": {
+      "global autonomy": -0.05
+    },
+    "nupe rivalry": {
+      "army tradition": 0.5
+    },
+    "armored cavalry warfare": {
+      "cavalry power": 0.1
+    },
+    "reformation of oyo ranks": {
+      "discipline": 0.05
+    },
+    "layered metropolitan layout": {
+      "max states": 5
+    },
+    "grand political structure": {
+      "free adm policy": 1
+    },
+    "imperial expansion": {
+      "province warscore cost": -0.1
+    }
+  },
+  "URB": {
+    "Tradition": {
+      "possible condottieri": 0.5,
+      "global autonomy": -0.05
+    },
+    "Ambition": {
+      "legitimacy": 1,
+      "republican tradition": 0.5,
+      "devotion": 1
+    },
+
+    "reaching out to others": {
+      "diplomatic reputation": 1
+    },
+    "federico da montefeltro": {
+      "mercenary cost": -0.1,
+      "mercenary discipline": 0.025
+    },
+    "realization of urbino": {
+      "development cost": -0.1
+    },
+    "architectual and artistic patrons": {
+      "build cost": -0.1,
+      "build time": -0.1
+    },
+    "urbinos brilliant court": {
+      "advisor cost": -0.15
+    },
+    "papal connections in urbino": {
+      "global heretic missionary strength": 0.02
+    },
+    "learn from prior struggles": {
+      "free adm policy": 1
+    }
+  },
+  "KRL": {
+    "Tradition": {
+      "hostile attrition": 1,
+      "land morale": 0.1
+    },
+    "Ambition": {
+      "global unrest": -1
+    },
+
+    "catholic orthodox tensions": {
+      "tolerance heretic": 3
+    },
+    "fief at viborg": {
+      "development cost": -0.1
+    },
+    "traditions from the days of fiefdom": {
+      "global tax modifier": 0.1,
+      "defensiveness": 0.1
+    },
+    "margrave traditions": {
+      "global regiment cost": -0.1
+    },
+    "build up the defensive positions": {
+      "garrison size": 0.2,
+      "fort maintenance modifier": -0.1
+    },
+    "promote independent identity": {
+      "legitimacy": 1,
+      "republican tradition": 0.5
+    },
+    "keepers of the icy north": {
+      "land attrition": -0.2
+    }
+  },
+  "LEB": {
+    "Tradition": {
+      "trade steering": 0.2,
+      "defensiveness": 0.25
+    },
+    "Ambition": {
+      "war exhaustion": -0.02
+    },
+
+    "confluence of faiths": {
+      "no religion penalty": true
+    },
+    "maronites druze and islam": {
+      "improve relation modifier": 0.3
+    },
+    "levantine maritime contact": {
+      "global prov trade power modifier": 0.15
+    },
+    "caliphate influences": {
+      "prestige decay": -0.01,
+      "diplomatic reputation": 1
+    },
+    "methodic religious governance": {
+      "free adm policy": 1
+    },
+    "lebanese identity": {
+      "legitimacy": 1
+    },
+    "lebanese trade potential": {
+      "years of nationalism": -5
+    }
+  },
+  "KLK": {
+    "Tradition": {
+      "cavalry power": 0.2,
+      "cavalry cost": -0.15
+    },
+    "Ambition": {
+      "global manpower modifier": 0.25
+    },
+
+    "mongol remnants": {
+      "core creation": -0.25
+    },
+    "relation to the jalayirs": {
+      "ae impact": -0.1
+    },
+    "buddhist haven of the north": {
+      "religious unity": 0.15,
+      "tolerance own": 1
+    },
+    "oirat and zungar tensions": {
+      "years of nationalism": -5
+    },
+    "learning diplomatic matters": {
+      "diplomatic reputation": 1
+    },
+    "unite the disparate mongol tribes": {
+      "num accepted cultures": 1
+    },
+    "organization of the khalkhas": {
+      "global regiment cost": -0.1
+    }
+  },
+  "GOL": {
+    "Tradition": {
+      "cavalry power": 0.2,
+      "cavalry cost": -0.15
+    },
+    "Ambition": {
+      "ae impact": -0.1
+    },
+
+    "golden horde remnant": {
+      "core creation": -0.25
+    },
+    "hostilities on all sides": {
+      "army tradition": 0.5
+    },
+    "the status of sarai": {
+      "legitimacy": 1,
+      "horde unity": 1
+    },
+    "reinstate golden horde influence": {
+      "years of nationalism": -5
+    },
+    "modernize horde weaponry": {
+      "mil tech cost modifier": -0.05,
+      "fire damage": 0.075
+    },
+    "reinstating subject tributaries": {
+      "vassal forcelimit bonus": 1,
+      "vassal income": 0.25
+    },
+    "stable politics": {
+      "yearly corruption": -0.05
+    }
+  },
+  "KHA": {
+    "Tradition": {
+      "cavalry power": 0.2,
+      "cavalry cost": -0.15
+    },
+    "Ambition": {
+      "max states": 5
+    },
+
+    "northern retreat": {
+      "manpower recovery speed": 0.1
+    },
+    "reunite the yuan lands": {
+      "core creation": -0.25
+    },
+    "rebuild karakorum": {
+      "land morale": 0.1,
+      "horde unity": 1
+    },
+    "adapting gunpowder usage": {
+      "fire damage": 0.1
+    },
+    "ancestral claims": {
+      "ae impact": -0.1
+    },
+    "chinese administrative measures": {
+      "free adm policy": 1
+    },
+    "yuan resurgence": {
+      "land forcelimit modifier": 0.25
+    }
+  },
+  "SIB": {
+    "Tradition": {
+      "cavalry power": 0.2,
+      "cavalry cost": -0.15
+    },
+    "Ambition": {
+      "colonists": 1
+    },
+
+    "shaybanid contestment": {
+      "core creation": -0.25
+    },
+    "ostyak and sibirian land": {
+      "land attrition": -0.1,
+      "hostile attrition": 1
+    },
+    "islam and shamanism": {
+      "religious unity": 0.25
+    },
+    "interconnected mongol dynasties": {
+      "years of nationalism": -5
+    },
+    "forest fighting methods": {
+      "shock damage received": -0.1
+    },
+    "cogent relations with the mirzas": {
+      "manpower recovery speed": 0.1
+    },
+    "assimilation of siberians": {
+      "mercenary cost": -0.15
+    }
+  },
+  "ZUN": {
+    "Tradition": {
+      "cavalry power": 0.2,
+      "cavalry cost": -0.15
+    },
+    "Ambition": {
+      "leader land fire": 1
+    },
+
+    "dzungaria": {
+      "core creation": -0.25
+    },
+    "oirat roots": {
+      "army tradition decay": -0.01
+    },
+    "rivalry against the khalkhas": {
+      "years of nationalism": -5
+    },
+    "cut down pretenders": {
+      "harsh treatment cost": -0.25
+    },
+    "influences in tibet": {
+      "tolerance own": 1,
+      "legitimacy": 0.5,
+      "horde unity": 0.5
+    },
+    "buying new weaponry": {
+      "fire damage": 0.1
+    },
+    "take the throne of the steppe": {
+      "manpower recovery speed": 0.1
+    }
+  },
+  "BSH": {
+    "Tradition": {
+      "cavalry power": 0.2,
+      "cavalry cost": -0.15
+    },
+    "Ambition": {
+      "leader land shock": 1
+    },
+
+    "from the tiele": {
+      "prestige decay": -0.01
+    },
+    "sunni horde conquest": {
+      "core creation": -0.25
+    },
+    "holders for centuries": {
+      "army tradition decay": -0.01
+    },
+    "turkic language intelligibility": {
+      "num accepted cultures": 1
+    },
+    "bashkir military tradition": {
+      "free mil policy": 1
+    },
+    "traditional steppe warfare": {
+      "shock damage": 0.1
+    },
+    "a formal bashkir military": {
+      "land forcelimit modifier": 0.25
+    }
+  },
+  "CHH": {
+    "Tradition": {
+      "cavalry power": 0.2,
+      "cavalry cost": -0.15
+    },
+    "Ambition": {
+      "manpower recovery speed": 0.1
+    },
+
+    "mongol estate heritage": {
+      "core creation": -0.25
+    },
+    "one of the six tumens": {
+      "global regiment recruit speed": -0.1
+    },
+    "fighting for rightful land": {
+      "army tradition": 0.5
+    },
+    "northern yuan assistance": {
+      "mercenary cost": -0.1
+    },
+    "crossroads of mongols and chinese": {
+      "diplomatic upkeep": 1
+    },
+    "blood of a chahar state": {
+      "land morale": 0.1
+    },
+    "sweat of a chahar state": {
+      "land maintenance modifier": -0.1
+    }
+  },
+  "KLM": {
+    "Tradition": {
+      "cavalry power": 0.2,
+      "cavalry cost": -0.15
+    },
+    "Ambition": {
+      "land forcelimit modifier": 0.25
+    },
+
+    "the great journey westward": {
+      "leader land manuever": 1
+    },
+    "settle and conquer": {
+      "core creation": -0.25
+    },
+    "between russians and turks": {
+      "diplomatic reputation": 1
+    },
+    "the great code of the nomads": {
+      "free adm policy": 1
+    },
+    "surrounding military influences": {
+      "army tradition": 0.5
+    },
+    "experience in rough terrain": {
+      "land attrition": -0.15
+    },
+    "maintain kalmyk authority": {
+      "legitimacy": 1,
+      "horde unity": 1
+    }
+  },
+  "BRT": {
+    "Tradition": {
+      "hostile attrition": 1,
+      "diplomatic reputation": 1
+    },
+    "Ambition": {
+      "colonists": 1
+    },
+
+    "mongol subjects": {
+      "global regiment cost": -0.1
+    },
+    "ties to the oirat": {
+      "mercenary cost": -0.1
+    },
+    "kinship of the buryats": {
+      "global unrest": -2
+    },
+    "religion of the buryats": {
+      "religious unity": 0.25
+    },
+    "migration and semi nomadic life": {
+      "movement speed": 0.15
+    },
+    "siberian forest combat": {
+      "shock damage received": -0.05,
+      "fire damage received": -0.05
+    },
+    "enduring buryats": {
+      "war exhaustion": -0.02
+    }
+  },
+  "AST": {
+    "Tradition": {
+      "cavalry power": 0.2,
+      "cavalry cost": -0.15
+    },
+    "Ambition": {
+      "global regiment cost": -0.1
+    },
+
+    "against the golden horde": {
+      "core creation": -0.25
+    },
+    "intersection of trade routes": {
+      "trade efficiency": 0.15
+    },
+    "structured feudal ranks": {
+      "global unrest": -1
+    },
+    "a volatile region": {
+      "land morale": 0.1
+    },
+    "placate the nogais": {
+      "land maintenance modifier": -0.1
+    },
+    "become a bastion for islam": {
+      "tolerance own": 1,
+      "manpower recovery speed": 0.1
+    },
+    "succeed the old khans": {
+      "global manpower modifier": 0.25
+    }
+  },
+  "QAS": {
+    "Tradition": {
+      "cavalry power": 0.1,
+      "cavalry cost": -0.2
+    },
+    "Ambition": {
+      "infantry power": 0.1
+    },
+
+    "muscovite influences": {
+      "reform progress growth": 0.1,
+      "legitimacy": 0.5,
+      "horde unity": 0.5
+    },
+    "ryazan memories": {
+      "global manpower modifier": 0.2
+    },
+    "avenues for expansion": {
+      "core creation": -0.25
+    },
+    "kazan rivalry": {
+      "army tradition": 0.5
+    },
+    "lands of a buffer state": {
+      "global spy defence": 0.2,
+      "diplomatic reputation": 1
+    },
+    "reformed administrative leadership": {
+      "advisor cost": -0.1
+    },
+    "defend tatar statehood": {
+      "discipline": 0.05
+    }
+  },
+  "WIC": {
+    "Tradition": {
+      "production efficiency": 0.1,
+      "mercenary cost": -0.15
+    },
+    "Ambition": {
+      "manpower recovery speed": 0.2
+    },
+
+    "widespread wichita people": {
+      "land forcelimit modifier": 0.25
+    },
+    "fighting on the plains": {
+      "infantry power": 0.1
+    },
+    "fixed villages of the wichita": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "skilled in trade and agriculture": {
+      "global trade goods size modifier": 0.05,
+      "trade efficiency": 0.1
+    },
+    "a wichita confederation": {
+      "years of nationalism": -5
+    },
+    "marking the wichita people": {
+      "legitimacy": 1
+    },
+    "formalize the wichita military": {
+      "army tradition": 0.5
+    }
+  },
+  "ARP": {
+    "Tradition": {
+      "global unrest": -1,
+      "manpower recovery speed": 0.1
+    },
+    "Ambition": {
+      "war exhaustion": -0.02
+    },
+
+    "tribal connections": {
+      "mercenary cost": -0.15
+    },
+    "arapaho warrior culture": {
+      "discipline": 0.05
+    },
+    "expanding the arapaho grounds": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "eight arapaho military societies": {
+      "drill gain modifier": 0.33,
+      "cavalry power": 0.15
+    },
+    "prepare for diplomatic shifts": {
+      "diplomatic upkeep": 1
+    },
+    "formalize arapaho divisons": {
+      "free adm policy": 1
+    },
+    "the arapaho nation": {
+      "global autonomy": -0.05
+    }
+  },
+  "APA": {
+    "Tradition": {
+      "mercenary cost": -0.1,
+      "land attrition": -0.15
+    },
+    "Ambition": {
+      "cav to inf ratio": 0.5
+    },
+
+    "six major apache speaking groups": {
+      "global manpower modifier": 0.2
+    },
+    "early nomadic traditions": {
+      "movement speed": 0.15
+    },
+    "taking to settled life": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "tribal exchanges": {
+      "trade efficiency": 0.1
+    },
+    "apache cavalry": {
+      "cavalry power": 0.2,
+      "cavalry cost": -0.1
+    },
+    "firearms and raiding": {
+      "loot amount": 0.2,
+      "fire damage": 0.05
+    },
+    "formalize apacheria": {
+      "war exhaustion": -0.02
+    }
+  },
+  "ABE": {
+    "Tradition": {
+      "general cost": -0.25,
+      "diplomats": 1
+    },
+    "Ambition": {
+      "improve relation modifier": 0.3
+    },
+
+    "commit to agricultural life": {
+      "production efficiency": 0.1
+    },
+    "holophrastic language": {
+      "global spy defence": 0.25
+    },
+    "learning from our enemies the iroquois": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "techniques from surrounding combat": {
+      "loot amount": 0.2,
+      "shock damage": 0.05
+    },
+    "well meaning abenaki people": {
+      "diplomatic reputation": 2
+    },
+    "highly deliberative decision making": {
+      "global unrest": -2
+    },
+    "continue the story telling": {
+      "prestige": 1,
+      "num accepted cultures": 1
+    }
+  },
+  "ASI": {
+    "Tradition": {
+      "improve relation modifier": 0.25,
+      "num accepted cultures": 1
+    },
+    "Ambition": {
+      "diplomatic reputation": 1
+    },
+
+    "rivals of the ojibwe": {
+      "shock damage": 0.1
+    },
+    "north american fur trade": {
+      "global trade goods size modifier": 0.1
+    },
+    "formation of the iron confederacy": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "assiniboine political power": {
+      "years of nationalism": -5
+    },
+    "semi nomadic traditions": {
+      "movement speed": 0.1,
+      "state maintenance modifier": -0.2
+    },
+    "modernize trade relations": {
+      "global prov trade power modifier": 0.1
+    },
+    "diversify and adapt economically": {
+      "production efficiency": 0.05,
+      "inflation reduction": 0.05
+    }
+  },
+  "BLA": {
+    "Tradition": {
+      "years of nationalism": -5,
+      "diplomats": 1
+    },
+    "Ambition": {
+      "land maintenance modifier": -0.1
+    },
+
+    "the original three peoples": {
+      "global manpower modifier": 0.25
+    },
+    "flexible bands for blackfoot society": {
+      "global unrest": -1
+    },
+    "promote the warrior societies": {
+      "land morale": 0.1,
+      "drill gain modifier": 0.33
+    },
+    "expanding blackfoot grounds": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "taming the plains by force": {
+      "cavalry power": 0.2,
+      "shock damage": 0.1
+    },
+    "the use of bison": {
+      "production efficiency": 0.1
+    },
+    "neutrality in various affairs": {
+      "diplomatic reputation": 1
+    }
+  },
+  "CAD": {
+    "Tradition": {
+      "prestige decay": -0.01,
+      "global unrest": -1
+    },
+    "Ambition": {
+      "manpower recovery speed": 0.15
+    },
+
+    "ancestral grounds and burials": {
+      "development cost": -0.1
+    },
+    "rituals to the lord of the sky": {
+      "tolerance own": 1,
+      "prestige": 1
+    },
+    "settlers of the mississippi river": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "fighting the osage and co": {
+      "land morale": 0.1
+    },
+    "forming internal confederacies": {
+      "global colonial growth": 15,
+      "global manpower modifier": 0.15
+    },
+    "great plains trade hub": {
+      "trade steering": 0.15
+    },
+    "building the caddo nation": {
+      "global autonomy": -0.05
+    }
+  },
+  "CHY": {
+    "Tradition": {
+      "movement speed": 0.1,
+      "army tradition decay": -0.01
+    },
+    "Ambition": {
+      "war exhaustion": -0.02
+    },
+
+    "rival after rival around us": {
+      "land morale": 0.1
+    },
+    "cheyenne war societies": {
+      "army tradition": 0.5
+    },
+    "form the council of forty four": {
+      "global unrest": -1
+    },
+    "ruthless expansion against enemies": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "tales of what is to come": {
+      "fire damage": 0.05,
+      "shock damage": 0.05
+    },
+    "hit and run tactics": {
+      "leader land manuever": 1,
+      "cavalry power": 0.15
+    },
+    "keep the sacred arrows and the sacred buffallo hat": {
+      "manpower recovery speed": 0.1
+    }
+  },
+  "FOX": {
+    "Tradition": {
+      "prestige": 1,
+      "land forcelimit modifier": 0.2
+    },
+    "Ambition": {
+      "global regiment cost": -0.15
+    },
+
+    "the meskwaki and sauk people": {
+      "global manpower modifier": 0.2
+    },
+    "enemies in the huron iroquois": {
+      "army tradition decay": -0.01
+    },
+    "civil war ceremonial chiefs": {
+      "possible policy": 1
+    },
+    "steady expansion of lands": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "improving fighting styles": {
+      "infantry power": 0.1,
+      "siege ability": 0.1
+    },
+    "population upswing": {
+      "manpower recovery speed": 0.1
+    },
+    "refine the traditions of succession": {
+      "legitimacy": 1
+    }
+  },
+  "ILL": {
+    "Tradition": {
+      "infantry cost": -0.1,
+      "global regiment recruit speed": -0.2
+    },
+    "Ambition": {
+      "global manpower modifier": 0.2
+    },
+
+    "kaskaskia village": {
+      "development cost": -0.1
+    },
+    "the cahokia tribe": {
+      "free adm policy": 1
+    },
+    "the peiora tribe": {
+      "legitimacy": 1
+    },
+    "legacy of the 13 tribes": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "the tamaroa tribe": {
+      "land morale": 0.1
+    },
+    "assimilating other tribes": {
+      "global colonial growth": 10,
+      "colonist placement chance": 0.1
+    },
+    "the illinois confederacy": {
+      "years of nationalism": -5,
+      "num accepted cultures": 1
+    }
+  },
+  "LEN": {
+    "Tradition": {
+      "trade efficiency": 0.1,
+      "global unrest": -1
+    },
+    "Ambition": {
+      "ae impact": -0.2
+    },
+
+    "three dialect clans": {
+      "global manpower modifier": 0.2
+    },
+    "mediate disputes with neighbors": {
+      "diplomatic reputation": 1
+    },
+    "controlling outer matters": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "mediate by force": {
+      "years of nationalism": -5
+    },
+    "lenape diplomatic relations": {
+      "diplomats": 1
+    },
+    "resist the foreigners": {
+      "infantry power": 0.1,
+      "global spy defence": 0.2
+    },
+    "unite with others": {
+      "num accepted cultures": 1
+    }
+  },
+  "MAH": {
+    "Tradition": {
+      "state maintenance modifier": -0.25,
+      "manpower recovery speed": 0.1
+    },
+    "Ambition": {
+      "global unrest": -2
+    },
+
+    "large villages": {
+      "global manpower modifier": 0.2
+    },
+    "fortified large villages": {
+      "garrison size": 0.2,
+      "fort maintenance modifier": -0.1
+    },
+    "claiming new lands": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "sachem councils and clan elders": {
+      "free adm policy": 1
+    },
+    "turkey turtle wolf phratries": {
+      "culture conversion cost": -0.1,
+      "num accepted cultures": 1
+    },
+    "fighting the mowhawk": {
+      "army tradition decay": -0.01
+    },
+    "forming the mahican confederacy": {
+      "max states": 5
+    }
+  },
+  "MIK": {
+    "Tradition": {
+      "movement speed": 0.1,
+      "infantry cost": -0.2
+    },
+    "Ambition": {
+      "global trade power": 0.2
+    },
+
+    "lead on the move": {
+      "leader land manuever": 1
+    },
+    "killing moose": {
+      "prestige": 1
+    },
+    "hunting tradition and settled traits": {
+      "global unrest": -1,
+      "army tradition": 0.25
+    },
+    "refine and expand the districts": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "the grand council": {
+      "possible policy": 1
+    },
+    "urbanization": {
+      "development cost": -0.1
+    },
+    "expansion of mikmaq trade": {
+      "global prov trade power modifier": 0.15
+    }
+  },
+  "MMI": {
+    "Tradition": {
+      "movement speed": 0.1,
+      "trade steering": 0.15
+    },
+    "Ambition": {
+      "leader land fire": 1
+    },
+
+    "the nature of migrations": {
+      "leader land manuever": 1
+    },
+    "the iroquois rivalry": {
+      "army tradition": 0.5
+    },
+    "miami trade routes": {
+      "caravan power": 0.15,
+      "trade range modifier": 0.33
+    },
+    "settle the miami people": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "uphold miami independence": {
+      "land forcelimit modifier": 0.25
+    },
+    "centralize power amongst the miami": {
+      "global autonomy": -0.05
+    },
+    "modernizing miami fighting style": {
+      "fire damage": 0.1
+    }
+  },
+  "OJI": {
+    "Tradition": {
+      "trade efficiency": 0.15,
+      "trade steering": 0.15
+    },
+    "Ambition": {
+      "global trade goods size modifier": 0.1
+    },
+
+    "trade along the great lakes": {
+      "caravan power": 0.2
+    },
+    "ojibwe population spread": {
+      "manpower recovery speed": 0.15
+    },
+    "reunite the stopping places": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "trading for weapons": {
+      "fire damage": 0.1
+    },
+    "ojibwe expansion": {
+      "core creation": -0.15
+    },
+    "downfall of the iroquois": {
+      "land morale": 0.1
+    },
+    "the council three fires": {
+      "max states": 5
+    }
+  },
+  "OSA": {
+    "Tradition": {
+      "ae impact": -0.1,
+      "army tradition decay": -0.01
+    },
+    "Ambition": {
+      "shock damage received": -0.1
+    },
+
+    "touch and go relations": {
+      "spy offence": 0.1,
+      "global spy defence": 0.1
+    },
+    "wars with the iroquois": {
+      "land morale": 0.1
+    },
+    "resettle and reunite": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "introduce cavalry warfare": {
+      "shock damage": 0.1
+    },
+    "legacy as great traders": {
+      "diplomatic reputation": 1
+    },
+    "osage tradeing power base": {
+      "trade efficiency": 0.1
+    },
+    "fight for survival": {
+      "core creation": -0.15
+    }
+  },
+  "OTT": {
+    "Tradition": {
+      "manpower recovery speed": 0.1,
+      "placed merchant power": 10
+    },
+    "Ambition": {
+      "global prov trade power modifier": 0.2
+    },
+
+    "trading specialty": {
+      "trade efficiency": 0.1,
+      "trade range modifier": 0.5
+    },
+    "great lakes warfare": {
+      "infantry power": 0.1
+    },
+    "from the third stopping point": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "ottawa trade monopoly": {
+      "global trade power": 0.15
+    },
+    "wars of trade": {
+      "province warscore cost": -0.1
+    },
+    "secured ottawa trading base": {
+      "trade steering": 0.15
+    },
+    "the council three fires": {
+      "max states": 5
+    }
+  },
+  "PAW": {
+    "Tradition": {
+      "global manpower modifier": 0.2,
+      "legitimacy": 1
+    },
+    "Ambition": {
+      "land forcelimit modifier": 0.25
+    },
+
+    "pawnee cosmolgy": {
+      "tolerance own": 2
+    },
+    "tightening and fortifying": {
+      "defensiveness": 0.15
+    },
+    "take to the new era": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "resist with the new": {
+      "land morale": 0.1
+    },
+    "consolidate pawnee power": {
+      "global unrest": -1
+    },
+    "evolve pawnee warfare": {
+      "infantry power": 0.05,
+      "cavalry power": 0.15
+    },
+    "into the fires of war": {
+      "leader land fire": 1
+    }
+  },
+  "PEQ": {
+    "Tradition": {
+      "free leader pool": 1,
+      "land morale": 0.1
+    },
+    "Ambition": {
+      "legitimacy": 1
+    },
+
+    "fight for the home": {
+      "province warscore cost": -0.1
+    },
+    "survive to the next day": {
+      "war exhaustion": -0.02
+    },
+    "defense of the pequot": {
+      "global spy defence": 0.25
+    },
+    "calculated expansion": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "empower the pequot people": {
+      "same culture advisor cost": -0.2
+    },
+    "governing the pequot people": {
+      "global autonomy": -0.05
+    },
+    "the pequot state": {
+      "manpower recovery speed": 0.1
+    }
+  },
+  "PIM": {
+    "Tradition": {
+      "production efficiency": 0.1,
+      "hostile attrition": 1
+    },
+    "Ambition": {
+      "trade efficiency": 0.2
+    },
+
+    "arid land": {
+      "land attrition": -0.2
+    },
+    "woven textiles": {
+      "global prov trade power modifier": 0.1
+    },
+    "defending the pima": {
+      "shock damage received": -0.1
+    },
+    "steady pima expansion": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "promote the oodham language": {
+      "same culture advisor cost": -0.2
+    },
+    "infrastructure for the pima": {
+      "development cost": -0.1
+    },
+    "adapting to the future": {
+      "technology cost": -0.075
+    }
+  },
+  "POT": {
+    "Tradition": {
+      "diplomatic reputation": 1,
+      "global prov trade power modifier": 0.1
+    },
+    "Ambition": {
+      "state maintenance modifier": -0.25
+    },
+
+    "seven grandfather teachings": {
+      "global unrest": -2
+    },
+    "fighting for hunting grounds": {
+      "province warscore cost": -0.1
+    },
+    "settle and cultivate the land": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "great lakes expansion": {
+      "land morale": 0.1
+    },
+    "ideas from the foreigners": {
+      "idea cost": -0.1
+    },
+    "ambush warfare": {
+      "infantry power": 0.1
+    },
+    "the council three fires": {
+      "max states": 5
+    }
+  },
+  "POW": {
+    "Tradition": {
+      "diplomatic upkeep": 2,
+      "legitimacy": 1
+    },
+    "Ambition": {
+      "num accepted cultures": 1
+    },
+
+    "system of chiefdoms": {
+      "global regiment cost": -0.1
+    },
+    "refinement and expansion of powhatan": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "autonomous cooepration": {
+      "global colonial growth": 20
+    },
+    "unified militancy": {
+      "land maintenance modifier": -0.1
+    },
+    "by thunder and fire": {
+      "fire damage": 0.1
+    },
+    "reforming the powhatan confederacy": {
+      "max states": 5
+    },
+    "united we stand": {
+      "global manpower modifier": 0.2
+    }
+  },
+  "SHO": {
+    "Tradition": {
+      "land attrition": -0.1,
+      "global regiment recruit speed": -0.1
+    },
+    "Ambition": {
+      "num accepted cultures": 1
+    },
+
+    "constant pressure": {
+      "army tradition decay": -0.01
+    },
+    "resource competition": {
+      "years of nationalism": -5
+    },
+    "claims into conquests": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "shoshone cavalry warfare": {
+      "cavalry power": 0.2,
+      "shock damage": 0.1
+    },
+    "comanche connections": {
+      "diplomatic reputation": 1
+    },
+    "control of the plains": {
+      "land forcelimit modifier": 0.25
+    },
+    "shoshone peace": {
+      "war exhaustion": -0.02
+    }
+  },
+  "SUS": {
+    "Tradition": {
+      "mercenary cost": -0.1,
+      "infantry power": 0.1
+    },
+    "Ambition": {
+      "global manpower modifier": 0.25
+    },
+
+    "against the iroquois": {
+      "land forcelimit modifier": 0.2
+    },
+    "strengthen our confederacy": {
+      "manpower recovery speed": 0.1
+    },
+    "expanding against rivals": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "ruthless warfare": {
+      "discipline": 0.05
+    },
+    "recover from disasters": {
+      "global autonomy": -0.05
+    },
+    "the notion of trade": {
+      "caravan power": 0.2
+    },
+    "susquehannock dominance": {
+      "years of nationalism": -5
+    }
+  },
+  "YAQ": {
+    "Tradition": {
+      "global unrest": -1,
+      "hostile attrition": 1
+    },
+    "Ambition": {
+      "defensiveness": 0.2
+    },
+
+    "home field advantage": {
+      "land attrition": -0.2
+    },
+    "mesoamerican contacts": {
+      "trade efficiency": 0.1
+    },
+    "friends of the mayo people": {
+      "improve relation modifier": 0.3
+    },
+    "growth of the yaqui": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "continue playing ulama": {
+      "prestige": 1
+    },
+    "master the arid lands": {
+      "movement speed": 0.1,
+      "reinforce speed": 0.2
+    },
+    "a yaqui state": {
+      "development cost": -0.1
+    }
+  },
+  "YKT": {
+    "Tradition": {
+      "trade efficiency": 0.15,
+      "reinforce cost modifier": -0.33
+    },
+    "Ambition": {
+      "development cost": -0.1
+    },
+
+    "productive hunting and gathering": {
+      "production efficiency": 0.1
+    },
+    "controlled fires": {
+      "global trade goods size modifier": 0.1
+    },
+    "cultivate our wild agriculture": {
+      "global own trade power": 0.2
+    },
+    "slow settlments": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "adapting the yokuts": {
+      "global unrest": -1
+    },
+    "meshing of two worlds": {
+      "technology cost": -0.075
+    },
+    "united are the yokuts": {
+      "global manpower modifier": 0.2
+    }
+  },
+  "LIP": {
+    "Tradition": {
+      "loot amount": 0.25,
+      "movement speed": 0.1
+    },
+    "Ambition": {
+      "land maintenance modifier": -0.1
+    },
+
+    "we are apaches": {
+      "mercenary cost": -0.1
+    },
+    "tenuous relations": {
+      "diplomats": 1
+    },
+    "spread and conquer": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "arid logistics": {
+      "reinforce cost modifier": -0.33
+    },
+    "apache cavalry": {
+      "cavalry power": 0.2,
+      "cavalry cost": -0.1
+    },
+    "developing an identity": {
+      "global spy defence": 0.25
+    },
+    "small but sharp": {
+      "discipline": 0.05
+    }
+  },
+  "MSC": {
+    "Tradition": {
+      "loot amount": 0.25,
+      "movement speed": 0.1
+    },
+    "Ambition": {
+      "land maintenance modifier": -0.1
+    },
+
+    "we are apaches": {
+      "mercenary cost": -0.1
+    },
+    "tenuous relations": {
+      "diplomats": 1
+    },
+    "spread and conquer": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "arid logistics": {
+      "reinforce cost modifier": -0.33
+    },
+    "apache cavalry": {
+      "cavalry power": 0.2,
+      "cavalry cost": -0.1
+    },
+    "developing an identity": {
+      "global spy defence": 0.25
+    },
+    "small but sharp": {
+      "discipline": 0.05
+    }
+  },
+  "KIO": {
+    "Tradition": {
+      "legitimacy": 1,
+      "global regiment cost": -0.1
+    },
+    "Ambition": {
+      "army tradition": 0.75
+    },
+
+    "structured life": {
+      "manpower recovery speed": 0.1
+    },
+    "religious socities": {
+      "missionaries": 1
+    },
+    "the fearless warrior ideal": {
+      "monarch military power": 1
+    },
+    "kiowa expansion": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "the sun dance": {
+      "global missionary strength": 0.02
+    },
+    "warrior societies": {
+      "discipline": 0.05
+    },
+    "kiowa cavalry": {
+      "cavalry power": 0.2,
+      "cav to inf ratio": 0.3
+    }
+  },
+  "CNK": {
+    "Tradition": {
+      "production efficiency": 0.15,
+      "global supply limit modifier": 0.25
+    },
+    "Ambition": {
+      "development cost": -0.1
+    },
+
+    "art of the northwest": {
+      "prestige decay": -0.01
+    },
+    "structured classes of people": {
+      "global autonomy": -0.05
+    },
+    "the use of slaves": {
+      "spy offence": 0.25
+    },
+    "from the rivers out": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "hunting experience": {
+      "infantry power": 0.15
+    },
+    "promote river based trade": {
+      "caravan power": 0.1,
+      "trade steering": 0.2
+    },
+    "potlatch feast of the northwest": {
+      "global unrest": -2
+    }
+  },
+  "SAL": {
+    "Tradition": {
+      "production efficiency": 0.15,
+      "global supply limit modifier": 0.25
+    },
+    "Ambition": {
+      "global trade goods size modifier": 0.1
+    },
+
+    "art of the northwest": {
+      "prestige decay": -0.01
+    },
+    "decentralized people": {
+      "num accepted cultures": 2
+    },
+    "defensive posturing": {
+      "diplomatic reputation": 1
+    },
+    "from the rivers out": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "hand combat experience": {
+      "shock damage received": -0.05,
+      "shock damage": 0.05
+    },
+    "rock wall defenses": {
+      "defensiveness": 0.1,
+      "fort maintenance modifier": -0.1
+    },
+    "potlatch feast of the northwest": {
+      "global unrest": -2
+    }
+  },
+  "HDA": {
+    "Tradition": {
+      "production efficiency": 0.15,
+      "global supply limit modifier": 0.25
+    },
+    "Ambition": {
+      "army tradition": 0.5
+    },
+
+    "art of the northwest": {
+      "prestige decay": -0.01
+    },
+    "seafarers of the northwest": {
+      "trade steering": 0.2,
+      "trade range modifier": 0.5
+    },
+    "traditions of haida warfare": {
+      "army tradition decay": -0.01
+    },
+    "from the rivers out": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "destroy the souls of enemies": {
+      "land morale": 0.15
+    },
+    "close and far combat": {
+      "fire damage": 0.05,
+      "shock damage": 0.05
+    },
+    "potlatch feast of the northwest": {
+      "global unrest": -2
+    }
+  },
+  "CHO": {
+    "Tradition": {
+      "global prov trade power modifier": 0.1,
+      "drill gain modifier": 0.33
+    },
+    "Ambition": {
+      "global manpower modifier": 0.25
+    },
+
+    "legacy of the moundbuilders": {
+      "prestige decay": -0.01
+    },
+    "swift and exact justice": {
+      "harsh treatment cost": -0.25
+    },
+    "convening of war councils": {
+      "land maintenance modifier": -0.05,
+      "manpower recovery speed": 0.1
+    },
+    "resettle clans of the choctaw": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "indirect fighting": {
+      "leader land shock": 1,
+      "shock damage": 0.05
+    },
+    "chotaw recreational games": {
+      "global unrest": -2
+    },
+    "communal economy": {
+      "state maintenance modifier": -0.25
+    }
+  },
+  "XIU": {
+    "Tradition": {
+      "years of nationalism": -5,
+      "war exhaustion": -0.02
+    },
+    "Ambition": {
+      "land maintenance modifier": -0.1
+    },
+
+    "mayan population division": {
+      "global manpower modifier": 0.15
+    },
+    "migration under chac uitzil": {
+      "prestige decay": -0.01
+    },
+    "mayan raids and warfare": {
+      "loot amount": 0.2,
+      "discipline": 0.025
+    },
+    "removers of the itzas": {
+      "ae impact": -0.1
+    },
+    "mayan city planning and construction": {
+      "build cost": -0.1,
+      "build time": -0.1
+    },
+    "after the end of mayapan": {
+      "republican tradition": 0.5,
+      "legitimacy": 1
+    },
+    "mayan league reformation": {
+      "manpower recovery speed": 0.1
+    }
+  },
+  "COC": {
+    "Tradition": {
+      "years of nationalism": -5,
+      "war exhaustion": -0.02
+    },
+    "Ambition": {
+      "core creation": -0.15
+    },
+
+    "mayan population division": {
+      "global manpower modifier": 0.15
+    },
+    "holders of the yucatan peninsula": {
+      "production efficiency": 0.1
+    },
+    "mayan raids and warfare": {
+      "loot amount": 0.2,
+      "discipline": 0.025
+    },
+    "rivals all around": {
+      "spy offence": 0.2
+    },
+    "mayan city planning and construction": {
+      "build cost": -0.1,
+      "build time": -0.1
+    },
+    "disruptors in the past hunac ceel": {
+      "army tradition decay": -0.01
+    },
+    "mayan league reformation": {
+      "manpower recovery speed": 0.1
+    }
+  },
+  "ZAP": {
+    "Tradition": {
+      "core creation": -0.1,
+      "global unrest": -1
+    },
+    "Ambition": {
+      "max states": 5
+    },
+
+    "meomries of our old empire": {
+      "army tradition decay": -0.01
+    },
+    "monte alban our old heart": {
+      "prestige decay": -0.01
+    },
+    "destroy regional powers and unite": {
+      "years of nationalism": -5
+    },
+    "reform zapotec writing and language": {
+      "adm tech cost modifier": -0.1
+    },
+    "trading in obsidian and jade": {
+      "trade efficiency": 0.1
+    },
+    "religious reformations at mitla": {
+      "tolerance own": 1,
+      "global missionary strength": 0.02
+    },
+    "rise of the zapotec empire": {
+      "land forcelimit modifier": 0.2,
+      "global regiment cost": -0.1
+    }
+  },
+  "CLM": {
+    "Tradition": {
+      "prestige decay": -0.01,
+      "movement speed": 0.1
+    },
+    "Ambition": {
+      "legitimacy": 1
+    },
+
+    "influences from teotihuacan": {
+      "build time": -0.2,
+      "global manpower modifier": 0.1
+    },
+    "toltec memories": {
+      "advisor pool": 1
+    },
+    "salt fields of tzacoalco": {
+      "production efficiency": 0.1
+    },
+    "defending against the purepechas": {
+      "defensiveness": 0.15
+    },
+    "chichimeca guamar threats": {
+      "land forcelimit modifier": 0.2
+    },
+    "usage of obsidian": {
+      "development cost": -0.1
+    },
+    "state for the tecos people": {
+      "global unrest": -2
+    }
+  },
+  "TLA": {
+    "Tradition": {
+      "hostile attrition": 1,
+      "leader land manuever": 1
+    },
+    "Ambition": {
+      "culture conversion cost": -0.2
+    },
+
+    "nagualism in our religion": {
+      "tolerance own": 2,
+      "tolerance heretic": 2
+    },
+    "taking in surrounding cultures": {
+      "num accepted cultures": 1
+    },
+    "cultivation of cotton garments": {
+      "production efficiency": 0.05,
+      "shock damage received": -0.05
+    },
+    "fighting the aztecs": {
+      "infantry power": 0.1
+    },
+    "cultivate larger dominions": {
+      "global manpower modifier": 0.15
+    },
+    "taking what is rightfully tlapanec": {
+      "development cost": -0.1
+    },
+    "an integrated tlapanec state": {
+      "global institution spread": 0.15
+    }
+  },
+  "TOT": {
+    "Tradition": {
+      "build cost": -0.2,
+      "production efficiency": 0.1
+    },
+    "Ambition": {
+      "diplomats": 1
+    },
+
+    "three hearts three cities": {
+      "global unrest": -1,
+      "global tax modifier": 0.1
+    },
+    "perfection of ceramics sculpting architecture": {
+      "prestige": 0.5,
+      "global prov trade power modifier": 0.05
+    },
+    "ceremonial centers": {
+      "global missionary strength": 0.02
+    },
+    "non human sacrifices": {
+      "development cost": -0.1
+    },
+    "preserving totonac culture": {
+      "same culture advisor cost": -0.2
+    },
+    "against the aztecs": {
+      "land morale": 0.1
+    },
+    "rebuilding taijin": {
+      "global autonomy": -0.05
+    }
+  },
+  "MAT": {
+    "Tradition": {
+      "land attrition": -0.15,
+      "diplomatic upkeep": 1
+    },
+    "Ambition": {
+      "num accepted cultures": 2
+    },
+
+    "speakers of four languages": {
+      "diplomatic reputation": 1
+    },
+    "memories of the tepanec empire": {
+      "reduced liberty desire": 10
+    },
+    "fending off purepechas and aztecs": {
+      "land morale": 0.1
+    },
+    "fortify toluca valley and possessions": {
+      "defensiveness": 0.1,
+      "fort maintenance modifier": -0.1
+    },
+    "tight administrative structure": {
+      "state maintenance modifier": -0.25
+    },
+    "develop matlatzinco": {
+      "development cost": -0.1
+    },
+    "city states to nationhood": {
+      "legitimacy": 1
+    }
+  },
+  "COI": {
+    "Tradition": {
+      "land attrition": -0.1,
+      "infantry power": 0.1
+    },
+    "Ambition": {
+      "advisor cost": -0.15
+    },
+
+    "shadow of the aztecs": {
+      "global manpower modifier": 0.15
+    },
+    "multi ethnic polity of mesoamerica": {
+      "num accepted cultures": 1
+    },
+    "plain of snakes": {
+      "hostile attrition": 1
+    },
+    "aztec attributes": {
+      "legitimacy": 1
+    },
+    "mixtec connections": {
+      "build cost": -0.2,
+      "prestige": 0.5
+    },
+    "nahuatl language prominence": {
+      "global unrest": -1
+    },
+    "blending together into coixtlahuaca": {
+      "manpower recovery speed": 0.1
+    }
+  },
+  "TEO": {
+    "Tradition": {
+      "prestige": 1,
+      "infantry power": 0.1
+    },
+    "Ambition": {
+      "global manpower modifier": 0.25
+    },
+
+    "land of the gods": {
+      "tolerance own": 2,
+      "missionary maintenance cost": -0.15
+    },
+    "makers of dyes": {
+      "global prov trade power modifier": 0.1
+    },
+    "at the foot of the mountain": {
+      "defensiveness": 0.15
+    },
+    "celestial constellation": {
+      "global missionary strength": 0.02
+    },
+    "aztec fighting spirit": {
+      "land morale": 0.1
+    },
+    "zapotec influences": {
+      "global unrest": -1
+    },
+    "nahuatl bastion": {
+      "war exhaustion": -0.02
+    }
+  },
+  "XAL": {
+    "Tradition": {
+      "shock damage received": -0.1,
+      "defensiveness": 0.1
+    },
+    "Ambition": {
+      "years of nationalism": -5
+    },
+
+    "shaft tomb tradition": {
+      "prestige decay": -0.01
+    },
+    "ahuacatlan lordship": {
+      "legitimacy": 1
+    },
+    "constructions of palaces and temples": {
+      "global missionary strength": 0.01,
+      "build cost": -0.2
+    },
+    "present and incoming religious traditions": {
+      "religious unity": 0.2,
+      "advisor pool": 1
+    },
+    "cultivation of huichol art": {
+      "prestige": 1
+    },
+    "tepehuan festivals and celebrations": {
+      "global unrest": -1,
+      "global manpower modifier": 0.1
+    },
+    "the place of the sandy eye rises": {
+      "manpower recovery speed": 0.15
+    }
+  },
+  "MIX": {
+    "Tradition": {
+      "global autonomy": -0.05,
+      "inflation reduction": 0.05
+    },
+    "Ambition": {
+      "years of nationalism": -5
+    },
+
+    "remember eight dear jaguar claw": {
+      "legitimacy": 1
+    },
+    "three traditional mixtec groups": {
+      "global manpower modifier": 0.2
+    },
+    "foremost goldsmiths": {
+      "prestige": 1,
+      "diplomatic reputation": 1
+    },
+    "resistant mixtec city states": {
+      "army tradition decay": -0.01
+    },
+    "reform the mixtec codices": {
+      "idea cost": -0.1
+    },
+    "mastery of jewelery and mosaic crafting": {
+      "global trade power": 0.1,
+      "trade steering": 0.1
+    },
+    "the state of la mixteca": {
+      "land forcelimit modifier": 0.25
+    }
+  },
+  "GAM": {
+    "Tradition": {
+      "movement speed": 0.1,
+      "merc maintenance modifier": -0.1
+    },
+    "Ambition": {
+      "years of nationalism": -5
+    },
+
+    "brutal warfare against others": {
+      "land morale": 0.1,
+      "infantry power": 0.1
+    },
+    "painting of the people": {
+      "prestige": 1
+    },
+    "bravest and most warlike people": {
+      "army tradition decay": -0.01
+    },
+    "treachery and destructiveness": {
+      "spy offence": 0.2
+    },
+    "semi nomadic traditions of chichemecans": {
+      "leader land manuever": 1
+    },
+    "arid survival and harsh terrain": {
+      "land attrition": -0.15
+    },
+    "consolidate chicemeca": {
+      "global unrest": -2
+    }
+  },
+  "HST": {
+    "Tradition": {
+      "war exhaustion": -0.02,
+      "production efficiency": 0.1
+    },
+    "Ambition": {
+      "legitimacy": 1
+    },
+
+    "copper alloys": {
+      "trade goods size modifier": 0.1
+    },
+    "mayan roots": {
+      "prestige decay": -0.01
+    },
+    "learning from tribute payments": {
+      "reduced liberty desire": 10,
+      "vassal income": 0.25
+    },
+    "nahuatl religious practices": {
+      "religious unity": 0.25
+    },
+    "platform mounds and temples": {
+      "build time": -0.2,
+      "global unrest": -1
+    },
+    "our own path": {
+      "global manpower modifier": 0.2
+    },
+    "huastec identity": {
+      "land forcelimit modifier": 0.2
+    }
+  },
+  "CCM": {
+    "Tradition": {
+      "war exhaustion": -0.02,
+      "land maintenance modifier": -0.1
+    },
+    "Ambition": {
+      "land attrition": -0.1
+    },
+
+    "semi nomadic traditions of chichemecans": {
+      "leader land manuever": 1
+    },
+    "raiding foreign lands": {
+      "loot amount": 0.2,
+      "movement speed": 0.1
+    },
+    "children of the wind": {
+      "land morale": 0.1
+    },
+    "best archers in the world": {
+      "infantry power": 0.25
+    },
+    "adaptive tactics and strategies": {
+      "defensiveness": 0.1,
+      "shock damage": 0.1
+    },
+    "the chichimeca confederation": {
+      "reduced liberty desire": 10,
+      "vassal forcelimit bonus": 1
+    },
+    "consolidate chicemeca": {
+      "global unrest": -2
+    }
+  },
+  "OTO": {
+    "Tradition": {
+      "legitimacy": 1,
+      "production efficiency": 0.1
+    },
+    "Ambition": {
+      "global autonomy": -0.05
+    },
+
+    "blacksmiths of mesoamerica": {
+      "shock damage": 0.1,
+      "global prov trade power modifier": 0.05
+    },
+    "elders of mesoamerica": {
+      "prestige decay": -0.01
+    },
+    "subjected to the triple alliance": {
+      "land morale": 0.1,
+      "global manpower modifier": 0.1
+    },
+    "rivals of the aztec triple alliance": {
+      "ae impact": -0.1
+    },
+    "adopt the otomi military order": {
+      "discipline": 0.05
+    },
+    "consolidate otomi lands": {
+      "development cost": -0.1
+    },
+    "evolving the otomi state": {
+      "technology cost": -0.1
+    }
+  },
+  "TLX": {
+    "Tradition": {
+      "legitimacy": 1,
+      "war exhaustion": -0.02
+    },
+    "Ambition": {
+      "infantry power": 0.1
+    },
+
+    "flower wars versus the aztecs": {
+      "ae impact": -0.1
+    },
+    "the council of tlaxcala": {
+      "global unrest": -1
+    },
+    "the confederation of tlaxcala": {
+      "global manpower modifier": 0.2
+    },
+    "reunite the three groups": {
+      "land forcelimit modifier": 0.2
+    },
+    "refine the elevation process": {
+      "advisor pool": 1
+    },
+    "investigating siege tactics": {
+      "siege ability": 0.1
+    },
+    "holders of mesoamerica": {
+      "years of nationalism": -5
+    }
+  },
+  "TON": {
+    "Tradition": {
+      "core creation": -0.1,
+      "improve relation modifier": 0.25
+    },
+    "Ambition": {
+      "global regiment cost": -0.1
+    },
+
+    "nomads leaving their mark": {
+      "num accepted cultures": 1
+    },
+    "fighting the purepecha people": {
+      "army tradition decay": -0.01
+    },
+    "uniting the cities of tonala": {
+      "state maintenance modifier": -0.25
+    },
+    "toltec immigrants": {
+      "manpower recovery speed": 0.1
+    },
+    "zapotec heritage": {
+      "merc maintenance modifier": -0.15
+    },
+    "nahua influences via migration": {
+      "mercenary cost": -0.15
+    },
+    "where the sun rises": {
+      "prestige": 1,
+      "global manpower modifier": 0.1
+    }
+  },
+  "YOK": {
+    "Tradition": {
+      "years of nationalism": -5,
+      "war exhaustion": -0.02
+    },
+    "Ambition": {
+      "global trade goods size modifier": 0.1
+    },
+
+    "mayan population division": {
+      "global manpower modifier": 0.15
+    },
+    "cradle of the olmec civilization": {
+      "diplomatic reputation": 1
+    },
+    "mayan raids and warfare": {
+      "loot amount": 0.2,
+      "discipline": 0.025
+    },
+    "hihg altitude farming": {
+      "defensiveness": 0.15
+    },
+    "mayan city planning and construction": {
+      "build cost": -0.1,
+      "build time": -0.1
+    },
+    "hostile terrain of yokotan": {
+      "hostile attrition": 1
+    },
+    "mayan league reformation": {
+      "manpower recovery speed": 0.1
+    }
+  },
+  "LAC": {
+    "Tradition": {
+      "years of nationalism": -5,
+      "war exhaustion": -0.02
+    },
+    "Ambition": {
+      "diplomats": 1
+    },
+
+    "mayan population division": {
+      "global manpower modifier": 0.15
+    },
+    "traders of queztal feathers and amber": {
+      "improve relation modifier": 0.3
+    },
+    "mayan raids and warfare": {
+      "loot amount": 0.2,
+      "discipline": 0.025
+    },
+    "encompassing pantheon of gods": {
+      "religious unity": 0.25
+    },
+    "mayan city planning and construction": {
+      "build cost": -0.1,
+      "build time": -0.1
+    },
+    "producers of salt": {
+      "production efficiency": 0.1
+    },
+    "mayan league reformation": {
+      "manpower recovery speed": 0.1
+    }
+  },
+  "KAQ": {
+    "Tradition": {
+      "years of nationalism": -5,
+      "war exhaustion": -0.02
+    },
+    "Ambition": {
+      "core creation": -0.15
+    },
+
+    "mayan population division": {
+      "global manpower modifier": 0.15
+    },
+    "four lords as governors": {
+      "free adm policy": 1
+    },
+    "mayan raids and warfare": {
+      "loot amount": 0.2,
+      "discipline": 0.025
+    },
+    "enemies of the kiche": {
+      "land morale": 0.1
+    },
+    "mayan city planning and construction": {
+      "build cost": -0.1,
+      "build time": -0.1
+    },
+    "continuing the annals of the cakchiquels": {
+      "prestige": 1
+    },
+    "mayan league reformation": {
+      "manpower recovery speed": 0.1
+    }
+  },
+  "ITZ": {
+    "Tradition": {
+      "years of nationalism": -5,
+      "war exhaustion": -0.02
+    },
+    "Ambition": {
+      "unjustified demands": -0.25
+    },
+
+    "mayan population division": {
+      "global manpower modifier": 0.15
+    },
+    "trading empire of the yucatan": {
+      "trade efficiency": 0.15
+    },
+    "mayan raids and warfare": {
+      "loot amount": 0.2,
+      "discipline": 0.025
+    },
+    "revenge against the cocom": {
+      "land morale": 0.1
+    },
+    "mayan city planning and construction": {
+      "build cost": -0.1,
+      "build time": -0.1
+    },
+    "revival from nojpeten": {
+      "core creation": -0.15
+    },
+    "mayan league reformation": {
+      "manpower recovery speed": 0.1
+    }
+  },
+  "CTM": {
+    "Tradition": {
+      "years of nationalism": -5,
+      "war exhaustion": -0.02
+    },
+    "Ambition": {
+      "trade steering": 0.2
+    },
+
+    "mayan population division": {
+      "global manpower modifier": 0.15
+    },
+    "legacy as a trade hub": {
+      "global prov trade power modifier": 0.1
+    },
+    "mayan raids and warfare": {
+      "loot amount": 0.2,
+      "discipline": 0.025
+    },
+    "fertile soils of two rivers": {
+      "global trade goods size modifier": 0.1
+    },
+    "mayan city planning and construction": {
+      "build cost": -0.1,
+      "build time": -0.1
+    },
+    "highland mayas and yucatan mayas": {
+      "diplomatic reputation": 1
+    },
+    "mayan league reformation": {
+      "manpower recovery speed": 0.1
+    }
+  },
+  "CNP": {
+    "Tradition": {
+      "years of nationalism": -5,
+      "war exhaustion": -0.02
+    },
+    "Ambition": {
+      "trade steering": 0.2
+    },
+
+    "mayan population division": {
+      "global manpower modifier": 0.15
+    },
+    "founded during civil war": {
+      "land morale": 0.1
+    },
+    "mayan raids and warfare": {
+      "loot amount": 0.2,
+      "discipline": 0.025
+    },
+    "toltec memories in the yucatan": {
+      "ae impact": -0.1
+    },
+    "mayan city planning and construction": {
+      "build cost": -0.1,
+      "build time": -0.1
+    },
+    "engaging in our heritage": {
+      "army tradition": 0.5
+    },
+    "mayan league reformation": {
+      "manpower recovery speed": 0.1
+    }
+  },
+  "CHT": {
+    "Tradition": {
+      "years of nationalism": -5,
+      "war exhaustion": -0.02
+    },
+    "Ambition": {
+      "trade steering": 0.2
+    },
+
+    "mayan population division": {
+      "global manpower modifier": 0.15
+    },
+    "center at copan": {
+      "global unrest": -2
+    },
+    "mayan raids and warfare": {
+      "loot amount": 0.2,
+      "discipline": 0.025
+    },
+    "resisting conquering powers": {
+      "defensiveness": 0.15
+    },
+    "mayan city planning and construction": {
+      "build cost": -0.1,
+      "build time": -0.1
+    },
+    "nature veneration": {
+      "religious unity": 0.25
+    },
+    "mayan league reformation": {
+      "manpower recovery speed": 0.1
+    }
+  },
+  "MIS": {
+    "Tradition": {
+      "hostile attrition": 1,
+      "defensiveness": 0.1
+    },
+    "Ambition": {
+      "global regiment cost": -0.1
+    },
+
+    "entrenched populace": {
+      "garrison size": 0.2,
+      "global garrison growth": 0.2
+    },
+    "standing against foreigner incursions": {
+      "land morale": 0.1
+    },
+    "increasing miskito settlements": {
+      "colonists": 1,
+      "auto explore adjacent to colony": true
+    },
+    "navigable river importance": {
+      "reinforce cost modifier": -0.15,
+      "reinforce speed": 0.15
+    },
+    "distinct war leaders": {
+      "free leader pool": 1
+    },
+    "decentralized governance measures": {
+      "state maintenance modifier": -0.25
+    },
+    "the miskito kingdom": {
+      "global institution spread": 0.1
+    }
+  },
+  "ANE": {
+    "Tradition": {
+      "naval morale": 0.1,
+      "legitimacy": 1,
+      "republican tradition": 0.5
+    },
+    "Ambition": {
+      "global manpower modifier": 0.2
+    },
+
+    "the two domains": {
+      "land forcelimit modifier": 0.2,
+      "land morale": 0.1
+    },
+    "inter disciplinary standards": {
+      "discipline": 0.05
+    },
+    "subjects of the crowns": {
+      "reduced liberty desire": 10,
+      "diplomatic upkeep": 1
+    },
+    "english channel control": {
+      "global trade power": 0.1,
+      "navy tradition": 0.5
+    },
+    "fertility of french land": {
+      "production efficiency": 0.1
+    },
+    "inter lock administrative cadres": {
+      "advisor cost": -0.15
+    },
+    "industrialization measures": {
+      "global trade goods size modifier": 0.1
+    }
+  },
+  "BUK": {
+    "Tradition": {
+      "trade steering": 0.15,
+      "cavalry power": 0.2
+    },
+    "Ambition": {
+      "advisor cost": -0.15
+    },
+
+    "recovery from the mongol invasion": {
+      "development cost": -0.1
+    },
+    "intellect center of the islamic world": {
+      "religious unity": 0.15,
+      "technology cost": -0.075
+    },
+    "improve public education": {
+      "global institution spread": 0.2
+    },
+    "settling from the steppe": {
+      "free adm policy": 1
+    },
+    "utilizing fire and shock": {
+      "shock damage": 0.05,
+      "fire damage": 0.05
+    },
+    "persian cannoneer experience": {
+      "artillery power": 0.1
+    },
+    "patronize learning and arts": {
+      "idea cost": -0.1
+    }
+  },
+  "ARB": {
+    "Tradition": {
+      "global missionary strength": 0.02,
+      "global manpower modifier": 0.25
+    },
+    "Ambition": {
+      "warscore cost vs other religion": -0.1
+    },
+
+    "home of islam mecca medina": {
+      "missionaries": 1,
+      "missionary maintenance cost": -0.25
+    },
+    "legacy of islamic conquest": {
+      "years of nationalism": -5,
+      "land morale": 0.1
+    },
+    "succeed the caliphates": {
+      "legitimacy": 1,
+      "republican tradition": 0.5,
+      "devotion": 1
+    },
+    "arabian trade connections": {
+      "caravan power": 0.15,
+      "trade range modifier": 0.5
+    },
+    "refine and transcend clan loyalties": {
+      "global autonomy": -0.05,
+      "yearly tribal allegiance": 1
+    },
+    "protect the pilgramages": {
+      "diplomatic reputation": 1
+    },
+    "shbh aljazirat alearabia": {
+      "land forcelimit modifier": 0.25,
+      "max states": 5
+    }
+  },
+  "MGB": {
+    "Tradition": {
+      "galley power": 0.25,
+      "may perform slave raid": true
+    },
+    "Ambition": {
+      "free dip policy": 1
+    },
+
+    "pacify the berbers": {
+      "global manpower modifier": 0.2,
+      "global sailors modifier": 0.2
+    },
+    "caliphate status": {
+      "global missionary strength": 0.02
+    },
+    "masterful defenses": {
+      "hostile attrition": 1
+    },
+    "command north african trade": {
+      "trade steering": 0.1,
+      "caravan power": 0.1
+    },
+    "maghrebi guard": {
+      "discipline": 0.05
+    },
+    "promote barbary pirates": {
+      "navy tradition": 1,
+      "privateer efficiency": 0.1
+    },
+    "formal maghrebi nation": {
+      "global autonomy": -0.05
+    }
+  },
+  "GRR": {
+    "Tradition": {
+      "yearly corruption": -0.1,
+      "years of nationalism": -5
+    },
+    "Ambition": {
+      "manpower recovery speed": 0.2
+    },
+
+    "representation of russian people": {
+      "global manpower modifier": 0.25,
+      "global unrest": -1
+    },
+    "system of tribute and taxes": {
+      "reduced liberty desire": 10
+    },
+    "strengthen democratic institutions": {
+      "republican tradition": 0.5,
+      "reelection cost": -0.1
+    },
+    "beyond the urals": {
+      "may establish frontier": true,
+      "auto explore adjacent to colony": true
+    },
+    "promoting russian arts": {
+      "tolerance own": 1,
+      "prestige": 1
+    },
+    "baltic dominance": {
+      "trade efficiency": 0.1,
+      "global ship cost": -0.1
+    },
+    "reformed military standards": {
+      "discipline": 0.05
+    }
+  },
+  "MSA": {
+    "Tradition": {
+      "trade efficiency": 0.2,
+      "navy tradition": 1
+    },
+    "Ambition": {
+      "colonists": 1
+    },
+
+    "south east asian thalassocracy": {
+      "naval forcelimit modifier": 0.25,
+      "naval morale": 0.15
+    },
+    "sumatra influx of different religions": {
+      "religious unity": 0.25,
+      "global unrest": -1
+    },
+    "java fertility of the land": {
+      "global trade goods size modifier": 0.1
+    },
+    "borneo trading riches": {
+      "global prov trade power modifier": 0.1
+    },
+    "malay peninsula northern expansionism": {
+      "max states": 5
+    },
+    "sulawesi utilize iron deposits": {
+      "shock damage received": -0.1,
+      "global regiment cost": -0.1
+    },
+    "the spice must flow from malaya": {
+      "global trade power": 0.2,
+      "trade range modifier": 0.5
+    }
+  },
+  "TRP": {
+    "Tradition": {
+      "placed merchant power": 10,
+      "may perform slave raid": true
+    },
+    "Ambition": {
+      "defensiveness": 0.2
+    },
+
+    "barbary influences": {
+      "galley power": 0.1,
+      "privateer efficiency": 0.2
+    },
+    "control over inner tribes": {
+      "global manpower modifier": 0.1,
+      "global sailors modifier": 0.3
+    },
+    "tripolitanian trade measures": {
+      "trade steering": 0.2
+    },
+    "commanding the southern med": {
+      "navy tradition": 0.5,
+      "naval morale": 0.1
+    },
+    "diplomatic intrigue": {
+      "free dip policy": 1
+    },
+    "vie for naval supremacy": {
+      "capture ship chance": 0.25
+    },
+    "construct naval bases": {
+      "global ship repair": 0.2,
+      "global ship recruit speed": -0.2
+    }
+  }
+}
