@@ -10,3 +10,7 @@ Have postgresQL installed on your computer.
 - Setup a postgresQL database, and import into it the data from `expanded_data.sql`
 - rename the `.env.example` to `.env` and fill it with data needed to connect to your db.  
 ( Concerning the DISCORD_TOKEN key, fill it using your bot admin interface.)
+
+## run
+- `pipenv shell`
+- In the same shell, `python Neko.py`
