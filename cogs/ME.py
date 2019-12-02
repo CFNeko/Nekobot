@@ -24,7 +24,7 @@ class me(commands.Cog):
     @me.command()
     async def map(self, ctx, description='Send a map of current trees with ME missions'):
         "Show a picture of all nations with mission trees"
-        await ctx.send('https://cdn.discordapp.com/attachments/590640866666741771/630492056661393408/MissionsExpandedmissiontrees.png')
+        await ctx.send('https://cdn.discordapp.com/attachments/439921164345802762/650748613747539968/MissionsExpandedmissiontrees.png')
     @me.command()
     async def find(self, ctx, *, nation: str):
         """Searches for a country and sees if it has missions (+me find Golden Horde)"""
