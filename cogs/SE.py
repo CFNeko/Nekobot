@@ -5,7 +5,12 @@ from bs4 import BeautifulSoup
 import asyncpg
 import asyncio
 import aiohttp
+import os
+from dotenv import load_dotenv
 
+load_dotenv()
+DB_NAME = os.getenv('DB_NAME')
+DB_USER = os.getenv('DB_USER')
 data = dict()
 
 class se(commands.Cog):
@@ -23,7 +28,7 @@ class se(commands.Cog):
     async def update(self, ctx):
         """Updates the database"""
         async with self.bot.db.acquire() as conn:
-            conn = await asyncpg.connect('postgresql://postgres@localhost/expanded_data')
+            conn = await asyncpg.connect(f'postgresql://{DB_USER}@localhost/{DB_NAME}')
             await conn.execute('''DELETE FROM se_subjects;
             ALTER SEQUENCE se_subjects_id_seq RESTART WITH 1;
             ''')
