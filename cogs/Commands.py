@@ -58,10 +58,7 @@ class commands(commands.Cog):
         tag = await conn.fetchval('SELECT tag FROM tags WHERE country=$1', nation)
         await ctx.send(str(tag))
 
-    @commands.Cog.listener()
-    async def on_command_error(self, ctx, error):
-        if type(error).__name__ == 'CommandNotFound':
-            x = True
+   
 
 
 def setup(bot):
