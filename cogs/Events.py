@@ -45,6 +45,11 @@ class Events(commands.Cog):
             await guild.system_channel.send(welcomeMessage[self.bot.index].format(str(member.mention)))
         self.bot.index = (self.bot.index + 1) % 9
 
+    @commands.Cog.listener()
+    async def on_command_error(self, ctx, error):
+        if type(error).__name__ == 'CommandNotFound':
+            x = True
+
 
 def setup(bot):
     bot.add_cog(Events(bot))
