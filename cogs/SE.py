@@ -1,4 +1,3 @@
-import discord
 from discord.ext import commands
 import embedMaker
 from bs4 import BeautifulSoup
@@ -11,24 +10,28 @@ from dotenv import load_dotenv
 load_dotenv()
 DB_NAME = os.getenv('DB_NAME')
 DB_USER = os.getenv('DB_USER')
+DB_HOST = os.getenv('DB_HOST')
 data = dict()
 
-class se(commands.Cog):
+
+class SE(commands.Cog):
     """Subjects Expanded"""
     def __init__(self, bot):
         self.bot = bot
         self.bot.hasUpdated = False
+
     @commands.group(case_insensitive=True)
     async def se(self, ctx):
         "Returns the SE steam page"
         if ctx.invoked_subcommand is None:
             seEmbed = embedMaker.embedMaker('Subjects Expanded', 'https://steamcommunity.com/sharedfiles/filedetails/?id=1834079712', 'For all your overlording needs', 0xff2600, 'Made by Lemon', 'https://steamuserimages-a.akamaihd.net/ugc/791991207699275639/21257382F358B5F2A6226827AC891A22BAC2C901/')
             await ctx.send(embed=seEmbed.t)
+
     @se.command()
     async def update(self, ctx):
         """Updates the database"""
         async with self.bot.db.acquire() as conn:
-            conn = await asyncpg.connect(f'postgresql://{DB_USER}@localhost/{DB_NAME}')
+            conn = await asyncpg.connect(f'postgresql://{DB_USER}@{DB_HOST}/{DB_NAME}')
             await conn.execute('''DELETE FROM se_subjects;
             ALTER SEQUENCE se_subjects_id_seq RESTART WITH 1;
             ''')
@@ -50,6 +53,7 @@ class se(commands.Cog):
                 await ctx.send('Database updated!')
                 self.bot.hasUpdated = False
                 await asyncio.sleep(60)
+
     @se.command()
     async def find(self, ctx,*, subject: str):
         """Finds info on a specific subject (type +se subjects)"""
@@ -76,6 +80,7 @@ class se(commands.Cog):
         else:
             print('Sending used list')
         await ctx.send(subjectList)
+
     @se.command()
     async def info(self, ctx):
         """Gives a link for even more subject info"""
@@ -84,4 +89,4 @@ class se(commands.Cog):
 
 
 def setup(bot):
-    bot.add_cog(se(bot))
+    bot.add_cog(SE(bot))
