@@ -39,7 +39,7 @@ class me(commands.Cog):
         else:
             nation = nation.title()
             print(f'Wiki request received! {nation}')
-            if nation.lower() = 'rum':
+            if nation.lower() == 'rum':
                 keyWord = 'Rûm',
             else:
                 keyWord = nation.rstrip().replace(' ', '_')
