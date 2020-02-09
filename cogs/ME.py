@@ -39,7 +39,10 @@ class me(commands.Cog):
         else:
             nation = nation.title()
             print(f'Wiki request received! {nation}')
-            keyWord = nation.rstrip().replace(' ', '_')
+            if nation.lower() = 'rum':
+                keyWord = 'Rûm',
+            else:
+                keyWord = nation.rstrip().replace(' ', '_')
             async with self.bot.db.acquire() as conn:
                 tag = await conn.fetchval('SELECT tag FROM tags WHERE country=$1', nation)
                 x = await conn.fetchrow('SELECT one, two, three, four, five, six, seven FROM idea_names WHERE tag=$1', tag)
