@@ -64,9 +64,9 @@ class Commands(commands.Cog):
     @commands.command(case_insensitive=True)
     async def tag(self, ctx, *, nation: str):
         nation.title()
-        conn = await asyncpg.connect('postgresql://postgres@localhost/expanded_data')
-        tag = await conn.fetchval('SELECT tag FROM tags WHERE country=$1', nation)
-        await ctx.send(str(tag))
+        async with self.bot.db.acquire() as conn:
+            tag = await conn.fetchval('SELECT tag FROM tags WHERE country=$1', nation)
+            await ctx.send(str(tag))
 
 
 def setup(bot):

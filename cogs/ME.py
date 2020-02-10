@@ -93,7 +93,6 @@ class ME(commands.Cog):
     async def formables(self, ctx):
         """Shows a list of all formable nations"""
         async with self.bot.db.acquire() as conn:
-            conn = await asyncpg.connect('postgresql://postgres@localhost/expanded_data')
             message = '```'
             me_data = await conn.fetch('SELECT (tag, country) FROM tags WHERE me_tag')
             for info in me_data:
