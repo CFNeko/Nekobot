@@ -67,18 +67,23 @@ class ME(commands.Cog):
         async with aiohttp.ClientSession() as cs:
             async with cs.head(f'http://modcoop.org/index.php?title=Expanded_Mod_Family/{keyword}') as r:
                 if r.status == 200:
+                    print("hey")
                     await ctx.send(f'We have missions for {nation}, which has the {tag} tag\nhttp://modcoop.org/index'
                                    f'.php?title=Expanded_Mod_Family/{keyword}')
+                    print("too dumb to understand")
                     # sends idea expanded_data
                     y = ('Tradition', 'Ambition', *x)
                     counter = 0
                     me_body_message = '```'
+                    print("that")
                     for key, value in vanillaDataIdeas[tag].items():
                         value = str(value).replace("'", "")
                         me_body_message = f'{me_body_message}{y[counter]}: {value.replace("{", "").replace("}", "")} \n'
                         counter += 1
                     me_body_message = me_body_message + '```'
+                    print("or")
                     await ctx.send(me_body_message)
+                    print("what")
 
                 else:
                     await ctx.send('We haven\'t made missions for them!')
