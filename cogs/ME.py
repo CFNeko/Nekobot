@@ -82,10 +82,11 @@ class ME(commands.Cog):
 
                 else:
                     await ctx.send('We haven\'t made missions for them!')
+                    print(r.status)
 
     @me.command()
     async def formables(self, ctx):
-        "Shows a list of all formable nations"
+        """Shows a list of all formable nations"""
         async with self.bot.db.acquire() as conn:
             conn = await asyncpg.connect('postgresql://postgres@localhost/expanded_data')
             message = '```'
