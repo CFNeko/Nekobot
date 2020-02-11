@@ -4,3 +4,4 @@ logs
 .DS_Store
 __pycache__
 !.env.example
+env
