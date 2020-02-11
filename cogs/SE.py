@@ -12,8 +12,6 @@ DB_NAME = os.getenv('DB_NAME')
 DB_USER = os.getenv('DB_USER')
 DB_HOST = os.getenv('DB_HOST')
 DB_PASSWORD = os.getenv('DB_PASSWORD')
-# TODO dbConnUrl should be handled identically everywhere
-dbConnUrl = f'postgresql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}/{DB_NAME}' if DB_PASSWORD != '' else f'postgresql://{DB_USER}@{DB_HOST}/{DB_NAME}'
 data = dict()
 
 
@@ -25,16 +23,20 @@ class SE(commands.Cog):
 
     @commands.group(case_insensitive=True)
     async def se(self, ctx):
-        "Returns the SE steam page"
+        """Returns the SE steam page"""
         if ctx.invoked_subcommand is None:
-            seEmbed = embedMaker.embedMaker('Subjects Expanded', 'https://steamcommunity.com/sharedfiles/filedetails/?id=1834079712', 'For all your overlording needs', 0xff2600, 'Made by Lemon', 'https://steamuserimages-a.akamaihd.net/ugc/791991207699275639/21257382F358B5F2A6226827AC891A22BAC2C901/')
-            await ctx.send(embed=seEmbed.t)
+            se_embed = embedMaker.embedMaker('Subjects Expanded', 'https://steamcommunity.com/sharedfiles/filedetails'
+                                                                  '/?id=1834079712', 'For all your overlording '
+                                                                                     'needs', 0xff2600,
+                                             'Made by Lemon',
+                                             'https://steamuserimages-a.akamaihd.net/ugc/791991207699275639'
+                                             '/21257382F358B5F2A6226827AC891A22BAC2C901/')
+            await ctx.send(embed=se_embed.t)
 
     @se.command()
     async def update(self, ctx):
         """Updates the database"""
         async with self.bot.db.acquire() as conn:
-            conn = await asyncpg.connect(dbConnUrl)
             await conn.execute('''DELETE FROM se_subjects;
             ALTER SEQUENCE se_subjects_id_seq RESTART WITH 1;
             ''')
@@ -42,10 +44,11 @@ class SE(commands.Cog):
             title = list()
             description = list()
             async with aiohttp.ClientSession() as cs:
-                async with cs.get(f'https://steamcommunity.com/workshop/filedetails/discussion/1834079712/3647273545685194210/') as r:
+                async with cs.get(f'https://steamcommunity.com/workshop/filedetails/discussion/1834079712'
+                                  f'/3647273545685194210/') as r:
                     tree = await r.read()
                 soup = BeautifulSoup(tree, 'html.parser')
-                tags = soup('div', {'class' : 'bb_h1'})
+                tags = soup('div', {'class': 'bb_h1'})
                 tags2 = soup('i')
                 for line in tags:
                     title.append(line.contents[0].title())
@@ -58,7 +61,7 @@ class SE(commands.Cog):
                 await asyncio.sleep(60)
 
     @se.command()
-    async def find(self, ctx,*, subject: str):
+    async def find(self, ctx, *, subject: str):
         """Finds info on a specific subject (type +se subjects)"""
         try:
             print(f'SE request found! {subject}')
@@ -67,28 +70,33 @@ class SE(commands.Cog):
                 await ctx.send(str(result))
         except:
             await ctx.send('Neko can\'t find it')
+
     @se.command()
     async def subjects(self, ctx):
         """Gives back a list of all subjects"""
-        global subjectList
+        global subject_list
         if self.bot.hasUpdated is False:
             async with self.bot.db.acquire() as conn:
                 result = await conn.fetch('SELECT subject FROM se_subjects ORDER BY subject')
                 print('Creating new list')
                 self.bot.hasUpdated = True
-                subjectList = ''
+                subject_list = ''
                 for subject in result:
-                    subjectList = (f'{subjectList} \u203B {subject["subject"]}')
-                subjectList = subjectList + ' \u203B'
+                    subject_list = f'{subject_list} \u203B {subject["subject"]}'
+                subject_list = subject_list + ' \u203B'
         else:
             print('Sending used list')
-        await ctx.send(subjectList)
+        await ctx.send(subject_list)
 
     @se.command()
     async def info(self, ctx):
         """Gives a link for even more subject info"""
-        seEmbedInfo = embedMaker.embedMaker('Subjects Expanded', 'https://steamcommunity.com/workshop/filedetails/discussion/1834079712/3647273545685194210/', 'See the Details', 0xff2600, 'All Subject Data', 'https://steamuserimages-a.akamaihd.net/ugc/791991207699275639/21257382F358B5F2A6226827AC891A22BAC2C901/')
-        await ctx.send(embed=seEmbedInfo.t)
+        se_embed_info = embedMaker.embedMaker('Subjects Expanded', 'https://steamcommunity.com/workshop/filedetails'
+                                                                   '/discussion/1834079712/3647273545685194210/',
+                                              'See the Details', 0xff2600, 'All Subject Data',
+                                              'https://steamuserimages-a.akamaihd.net/ugc/791991207699275639'
+                                              '/21257382F358B5F2A6226827AC891A22BAC2C901/')
+        await ctx.send(embed=se_embed_info.t)
 
 
 def setup(bot):

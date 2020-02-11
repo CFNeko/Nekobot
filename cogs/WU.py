@@ -35,8 +35,8 @@ class wu(commands.Cog):
     async def find(self, ctx, *, waifu: str):
         """Searches for your dream waifu"""
         waifu = waifu.replace(' ', '-')
-        conn = await asyncpg.connect('postgresql://postgres@localhost/expanded_data')
-        result = await conn.fetchval('SELECT (code) FROM wu_waifuts WHERE waifu = $1', waifu.title())
+        async with self.bot.db.acquire() as conn:
+            result = await conn.fetchval('SELECT (code) FROM wu_waifuts WHERE waifu = $1', waifu.title())
         async with aiohttp.ClientSession() as cs:
             async with cs.get(
                     f'https://www.deviantart.com/c-----n/art/{waifu}-Universalis-Mod-Asset--{str(result)}') as r:
