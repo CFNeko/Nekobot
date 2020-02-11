@@ -21,8 +21,8 @@ class Events(commands.Cog):
         if content.lower() == 'ping': await message.channel.send('Pong!')
         if content == '/o/': await message.channel.send('\\o\\')
         if content == '\\o\\': await message.channel.send('/o/')
-        if content == 'o/': await message.channel.send('o7')
-        if content == '\\o': await message.channel.send('o7')
+        if content == 'o/': await message.channel.send('Salutations o7')
+        if content == '\\o': await message.channel.send('Salutations o7')
 
 
 
