@@ -1,0 +1,5 @@
+discord==1.0.1
+asyncpg==0.20.1
+cogs==0.4.4
+requests==2.22.0
+python-dotenv==0.10.5
