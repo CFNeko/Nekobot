@@ -58,12 +58,10 @@ class ME(commands.Cog):
         if tag is None:
             await ctx.send('Does your nation have Bielefeld as a name? Neko is sure it doesn\'t exist oAo')
             return
-        if keyword in {'Angevin_Realm', 'Angevins'}:
-            keyword = 'Angevin_Empire'
-        if keyword in {'Sicily', 'The_Two_Sicilies'} or tag == 'TTS':
-            keyword = 'Sicily_Two_Sicilies'
-        if keyword == 'Roman_Empire':
-            keyword = 'Rome'
+        if keyword in {'Angevin_Realm', 'Angevins'}: keyword = 'Angevin_Empire'
+        if keyword in {'Sicily', 'The_Two_Sicilies'} or tag == 'TTS': keyword = 'Sicily_Two_Sicilies'
+        if keyword == 'Roman_Empire': keyword = 'Rome'
+        if keyword in {'Qara_Qoyunlu', 'Aq_Qoyunlu'}: keyword = 'Qir_Qoyunlu'
         async with aiohttp.ClientSession() as cs:
             async with cs.head(f'http://modcoop.org/index.php?title=Expanded_Mod_Family/{keyword}') as r:
                 if r.status == 200:
