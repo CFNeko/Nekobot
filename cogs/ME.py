@@ -49,6 +49,7 @@ class ME(commands.Cog):
             print(f'Wiki request received! {nation}')
             if nation.lower() == 'rum':
                 keyword = 'Rûm'
+                tag = 'RUM'
             else:
                 keyword = nation.rstrip().replace(' ', '_')
             async with self.bot.db.acquire() as conn:
