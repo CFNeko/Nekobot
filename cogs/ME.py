@@ -50,6 +50,7 @@ class ME(commands.Cog):
             if nation.lower() == 'rum':
                 keyword = 'Rûm'
                 tag = 'RUM'
+                print(tag, keyword)
             else:
                 keyword = nation.rstrip().replace(' ', '_')
             async with self.bot.db.acquire() as conn:
