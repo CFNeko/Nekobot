@@ -50,9 +50,11 @@ class Commands(commands.Cog):
             found = False
             for x in self.bot.cogs:
                 for y in cog:
+                    print(x, y)
                     if x.lower() == y.lower():
                         help_message = discord.Embed(title='Command List for +'+cog[0].upper(),
                                                      description=self.bot.cogs[cog[0]].__doc__)
+                        print("weird")
                         for c in self.bot.get_cog(y.upper()).walk_commands():
                             if not c.hidden:
                                 help_message.add_field(name='+'+c.name.title(), value=c.help, inline=False)
