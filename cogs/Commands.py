@@ -50,7 +50,7 @@ class Commands(commands.Cog):
             found = False
             for x in self.bot.cogs:
                 for y in cog:
-                    print(x, y)
+                    print(x, y, x.lower(), y.lower(), x.lower() == y.lower())
                     if x.lower() == y.lower():
                         help_message = discord.Embed(title='Command List for +'+cog[0].upper(),
                                                      description=self.bot.cogs[cog[0]].__doc__)
