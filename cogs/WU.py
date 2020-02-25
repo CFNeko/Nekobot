@@ -1,7 +1,6 @@
 import discord
 from discord.ext import commands
 import embedMaker
-import asyncpg
 import json
 import aiohttp
 from bs4 import BeautifulSoup
@@ -15,7 +14,7 @@ with open('./debugging_tools/Backup0.txt.json', 'r') as f:
     data2 = json.loads(fhand)
 
 
-class wu(commands.Cog):
+class WU(commands.Cog):
     """Waifu Universalis"""
 
     def __init__(self, bot):
@@ -80,7 +79,7 @@ class wu(commands.Cog):
         #     counter += 1
 
 
-class dve(commands.Cog):
+class DVE(commands.Cog):
     """Development Expanded"""
 
     def __init__(self, bot):
@@ -184,6 +183,6 @@ class ExpandedMods(commands.Cog):
 
 def setup(bot):
     # bot.add_cog(wu(bot))
-    bot.add_cog(dve(bot))
+    bot.add_cog(DVE(bot))
     bot.add_cog(IGE(bot))
     bot.add_cog(ExpandedMods(bot))

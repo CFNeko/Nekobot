@@ -1,12 +1,11 @@
-import discord
 from discord.ext import commands
 import embedMaker
-import asyncpg
 from bs4 import BeautifulSoup
 import asyncio
 import aiohttp
 
-class tge(commands.Cog):
+
+class TGE(commands.Cog):
     """Trade Goods Expanded"""
     def __init__(self, bot):
         self.bot = bot
@@ -62,5 +61,6 @@ class tge(commands.Cog):
                 VALUES ($1, $2, $3, $4)''', line.contents[0], price, pBonus.contents[0], pBonus.contents[1].contents[0])
             await asyncio.sleep(60)
 
+
 def setup(bot):
-    bot.add_cog(tge(bot))
+    bot.add_cog(TGE(bot))

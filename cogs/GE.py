@@ -4,7 +4,7 @@ import embedMaker
 import requests
 
 
-class ge(commands.Cog):
+class GE(commands.Cog):
     """Governments Expanded"""
     def __init__(self, bot):
         self.bot = bot
@@ -33,4 +33,4 @@ class ge(commands.Cog):
 
 
 def setup(bot):
-    bot.add_cog(ge(bot))
+    bot.add_cog(GE(bot))

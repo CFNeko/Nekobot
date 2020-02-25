@@ -10,7 +10,8 @@ with open('./expandedData/NIE_descriptions.json', 'r') as f:
     fhand = f.read()
     nieDataDescription = json.loads(fhand)
 
-class nie(commands.Cog):
+
+class NIE(commands.Cog):
     """National Ideas Expanded"""
     def __init__(self, bot):
         self.bot = bot
@@ -36,4 +37,4 @@ class nie(commands.Cog):
 
 
 def setup(bot):
-    bot.add_cog(nie(bot))
+    bot.add_cog(NIE(bot))
