@@ -34,12 +34,6 @@ class Commands(commands.Cog):
         total_members = ctx.guild.member_count
         await ctx.send(f'Our server has {total_members} professional map watchers!')
 
-    @commands.command(case_insensitive=True)
-    async def servers(self, ctx):
-        """Returns a list of members in the server"""
-        print("Sending server count count")
-        await ctx.send(f'Our server has {len(bot.guilds)} professional map watchers!')
-
 
     @commands.command(case_insensitive=True)
     async def help(self, ctx, *cog):
