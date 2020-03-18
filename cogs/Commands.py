@@ -35,6 +35,13 @@ class Commands(commands.Cog):
         await ctx.send(f'Our server has {total_members} professional map watchers!')
 
     @commands.command(case_insensitive=True)
+    async def servers(self, ctx):
+        """Returns a list of members in the server"""
+        print("Sending server count count")
+        await ctx.send(f'Our server has {len(bot.guilds)} professional map watchers!')
+
+
+    @commands.command(case_insensitive=True)
     async def help(self, ctx, *cog):
         """You're using this command :0"""
         if len(cog) < 1:
