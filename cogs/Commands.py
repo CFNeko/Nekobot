@@ -30,7 +30,7 @@ class Commands(commands.Cog):
     @commands.command(case_insensitive=True)
     async def members(self, ctx):
         """Returns a list of members in the server"""
-        total_members = len(set(ctx.bot.member_count()))
+        total_members = ctx.bot.member_count
         await ctx.send(f'Our server has {total_members} professional map watchers!')
 
     @commands.command(case_insensitive=True)
