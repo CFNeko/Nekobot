@@ -31,7 +31,7 @@ class Commands(commands.Cog):
     async def members(self, ctx):
         """Returns a list of members in the server"""
         print("Sending member count")
-        total_members = guild.member_count()
+        total_members = ctx.guild.member_count
         await ctx.send(f'Our server has {total_members} professional map watchers!')
 
     @commands.command(case_insensitive=True)
