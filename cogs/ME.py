@@ -30,8 +30,7 @@ class ME(commands.Cog):
     @me.command()
     async def map(self, ctx, description='Send a map of current trees with ME missions'):
         """Show a picture of all nations with mission trees"""
-        await ctx.send('https://cdn.discordapp.com/attachments/439921164345802762/650748613747539968'
-                       '/MissionsExpandedmissiontrees.png')
+        await ctx.send('https://i.redd.it/6rgxxxpi83k41.png')
 
     @me.command()
     async def find(self, ctx, *, nation: str):
