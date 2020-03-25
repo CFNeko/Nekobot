@@ -42,7 +42,8 @@ class ADM(commands.Cog):
                 name = " ".join(params_array[1:-1])
                 result = await conn.fetch('SELECT * FROM tags WHERE tag=$1', tag)
                 try:
-                    # TODO find out WHY search by tag is all right, but not search by name. (potentially linked, the id isn't the right one)
+                    # TODO find out WHY search by tag is all right, but not search by name. (potentially linked, the id isn't the right one).
+                    # ANSWER : insert the name with the righ format, that is, capitalize every letter into it
                     if len(result) == 0:
                         #it is not edit
                         result = await conn.fetch('INSERT INTO  tags (tag, country, me_tag) VALUES ($1, $2, $3)', tag, name, is_me)
