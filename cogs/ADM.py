@@ -38,18 +38,30 @@ class ADM(commands.Cog):
             if _is_admin(ctx):
                 params_array = args.split(" ")
                 tag = params_array[0]
-                is_me = params_array[-1]
+                is_me = params_array[-1].lower() == "true"
                 name = " ".join(params_array[1:-1])
-                await ctx.send(f"the tag is {tag}, the name is {name} and is_me is {is_me}")
+                result = await conn.fetch('SELECT * FROM tags WHERE tag=$1', tag)
+                try:
+                    # TODO find out WHY search by tag is all right, but not search by name. (potentially linked, the id isn't the right one)
+                    if len(result) == 0:
+                        #it is not edit
+                        result = await conn.fetch('INSERT INTO  tags (tag, country, me_tag) VALUES ($1, $2, $3)', tag, name, is_me)
+                        print(result)
+                    else:
+                        await conn.fetch('UPDATE tags SET country=$1, me_tag=$2 WHERE tag=$3', name, is_me, tag)
+                except Exception as err:
+                    print(err)
+                await ctx.send(f"Database updated with the tag : {tag}, the name : {name} and is_me set to {is_me}")
             else:
                 await ctx.send("GET OUT, peasant! (but nice try)")
 
     @adm.command()
-    async def me_suppress(self, ctx):
+    async def me_suppress(self, ctx, tag_to_delete: str):
         """suppress a mission entry, but ONLY if you're admin"""
         async with self.bot.db.acquire() as conn:
             if _is_admin(ctx):
-                await ctx.send("hey, you're admin, amirite")
+                await conn.fetch('DELETE FROM tags WHERE tag = $1', tag_to_delete)
+                await ctx.send(f"Database updated by suppressing the tag : {tag_to_delete}")
             else:
                 await ctx.send("GET OUT, peasant! (but nice try)")
 
