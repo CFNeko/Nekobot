@@ -66,8 +66,8 @@ class TGE(commands.Cog):
         await ctx.send("https://media.discordapp.net/attachments/606478244346069002/720807522411479070/eu4_map_trade_goods.png?width=1080&height=393")
 
     @tge.command()
-    """Gives a link to the TGE wiki"""
     async def wiki(self, ctx):
+        """Gives a link to the TGE wiki"""
         await ctx.send("https://eu4.paradoxwikis.com/Trade_Goods_Expanded")
 
 
