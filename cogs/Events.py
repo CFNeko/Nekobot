@@ -29,7 +29,7 @@ class Events(commands.Cog):
     #member joining:
     @commands.Cog.listener()
     async def on_member_join(self, member):
-        if member.guild.id is 264445053596991498:
+        if member.guild.id == 264445053596991498:
             x = True
         else:
             welcomeMessage = ['Military master? Diplomatic Devil? Administrative assistant? No! He\'s none other than {}',
