@@ -66,7 +66,7 @@ class ME(commands.Cog):
                 soup = BeautifulSoup(tree, 'html.parser')
                 for link in soup.find_all('a'):
                     if link.startswith('/view/missions-expanded-trees/'):
-                        print(link.get('href'))
+                        print(link)
                 print(link)
                 # sends idea expanded_data
                 y = ('Tradition', 'Ambition', *x)
