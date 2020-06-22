@@ -46,7 +46,7 @@ class SE(commands.Cog):
             async with aiohttp.ClientSession() as cs:
                 async with cs.get(f'https://steamcommunity.com/workshop/filedetails/discussion/1834079712'
                                   f'/3647273545685194210/') as r:
-                tree = await r.read()
+                    tree = await r.read()
                 soup = BeautifulSoup(tree, 'html.parser')
                 tags = soup('div', {'class': 'bb_h1'})
                 tags2 = soup('i')

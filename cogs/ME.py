@@ -62,7 +62,7 @@ class ME(commands.Cog):
             async with cs.get('https://sites.google.com/view/missions-expanded-trees/index') as r:
                 await ctx.send(f'We have missions for {nation}, which has the {tag} tag\nhttp://modcoop.org/index'
                                f'.php?title=Expanded_Mod_Family/{keyword}')
-                tree = await.read()
+                tree = await r.read()
                 soup = BeautifulSoup(tree, 'html.parser')
                 link = soup('a')
                 print(link)
