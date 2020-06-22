@@ -65,7 +65,8 @@ class ME(commands.Cog):
                 tree = await r.read()
                 soup = BeautifulSoup(tree, 'html.parser')
                 for link in soup.find_all('a'):
-                    print(link.get('href'))
+                    if nation in link
+                    print(link)
                 print(link)
                 # sends idea expanded_data
                 y = ('Tradition', 'Ambition', *x)
