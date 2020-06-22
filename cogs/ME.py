@@ -64,7 +64,7 @@ class ME(commands.Cog):
                                f'.php?title=Expanded_Mod_Family/{keyword}')
                 tree = await r.read()
                 soup = BeautifulSoup(tree, 'html.parser')
-                link = soup('a', attrs={'href': re.compile("^http://")})
+                link = soup('a', attrs={'href': re.compile("^/view/missions-expanded-trees/")})
                 print(link)
                 # sends idea expanded_data
                 y = ('Tradition', 'Ambition', *x)
