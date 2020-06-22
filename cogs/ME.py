@@ -65,7 +65,7 @@ class ME(commands.Cog):
                 tree = await r.read()
                 soup = BeautifulSoup(tree, 'html.parser')
                 link = soup('a')
-                print(link['href'])
+                print(link)
                 # sends idea expanded_data
                 y = ('Tradition', 'Ambition', *x)
                 counter = 0
