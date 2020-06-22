@@ -64,9 +64,9 @@ class ME(commands.Cog):
                                f'.php?title=Expanded_Mod_Family/{keyword}')
                 tree = await r.read()
                 soup = BeautifulSoup(tree, 'html.parser')
-                for link in soup.find_all('a'):
+                for link in soup.find_all('a', href=True):
                     if nation in link:
-                        print(link)
+                        print(link['href'])
                 # sends idea expanded_data
                 y = ('Tradition', 'Ambition', *x)
                 counter = 0
