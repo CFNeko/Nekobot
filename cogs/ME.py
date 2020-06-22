@@ -68,8 +68,6 @@ class ME(commands.Cog):
                     if nation in link:
                         result = 'https://sites.google.com/' + link.contents[1]
                         print(result)
-                    else:
-                        print('Error, no data detected')
                 # sends idea expanded_data
                 y = ('Tradition', 'Ambition', *x)
                 counter = 0
