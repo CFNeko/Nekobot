@@ -3,12 +3,13 @@ import embedMaker
 import json
 import asyncpg
 import aiohttp
+from bs4 import BeautifulSoup
 
 with open('./vanillaData/countryIdeas.json', 'r') as f:
     fhand = f.read()
     vanillaDataIdeas = json.loads(fhand)
 
-
+ 
 class ME(commands.Cog):
     """Missions Expanded"""
     def __init__(self, bot):
@@ -57,29 +58,27 @@ class ME(commands.Cog):
         if tag is None:
             await ctx.send('Does your nation have Bielefeld as a name? Neko is sure it doesn\'t exist oAo')
             return
-        if keyword in {'Angevin_Realm', 'Angevins'}: keyword = 'Angevin_Empire'
-        if keyword in {'Sicily', 'The_Two_Sicilies'} or tag == 'TTS': keyword = 'Sicily_Two_Sicilies'
-        if keyword == 'Roman_Empire': keyword = 'Rome'
-        if keyword in {'Qara_Qoyunlu', 'Aq_Qoyunlu'}: keyword = 'Qir_Qoyunlu'
         async with aiohttp.ClientSession() as cs:
-            async with cs.head(f'http://modcoop.org/index.php?title=Expanded_Mod_Family/{keyword}') as r:
-                if r.status == 200:
-                    await ctx.send(f'We have missions for {nation}, which has the {tag} tag\nhttp://modcoop.org/index'
-                                   f'.php?title=Expanded_Mod_Family/{keyword}')
-                    # sends idea expanded_data
-                    y = ('Tradition', 'Ambition', *x)
-                    counter = 0
-                    me_body_message = '```'
-                    for key, value in vanillaDataIdeas[tag].items():
-                        value = str(value).replace("'", "")
-                        me_body_message = f'{me_body_message}{y[counter]}: {value.replace("{", "").replace("}", "")} \n'
-                        counter += 1
-                    me_body_message = me_body_message + '```'
-                    await ctx.send(me_body_message)
+            async with cs.get('https://sites.google.com/view/missions-expanded-trees/index') as r:
+                await ctx.send(f'We have missions for {nation}, which has the {tag} tag\nhttp://modcoop.org/index'
+                               f'.php?title=Expanded_Mod_Family/{keyword}')
+                tree = await.read()
+                soup = BeautifulSoup(tree, 'html.parser')
+                link = soup('a')
+                print(link)
+                # sends idea expanded_data
+                y = ('Tradition', 'Ambition', *x)
+                counter = 0
+                me_body_message = '```'
+                for key, value in vanillaDataIdeas[tag].items():
+                    value = str(value).replace("'", "")
+                    me_body_message = f'{me_body_message}{y[counter]}: {value.replace("{", "").replace("}", "")} \n'
+                    counter += 1
+                me_body_message = me_body_message + '```'
 
-                else:
-                    await ctx.send('We haven\'t made missions for them!')
-                    print(r.status)
+            else:
+                await ctx.send('We haven\'t made missions for them!')
+                print(r.status)
 
     @me.command()
     async def formables(self, ctx):
