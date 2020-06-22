@@ -76,10 +76,6 @@ class ME(commands.Cog):
                     counter += 1
                 me_body_message = me_body_message + '```'
 
-            else:
-                await ctx.send('We haven\'t made missions for them!')
-                print(r.status)
-
     @me.command()
     async def formables(self, ctx):
         """Shows a list of all formable nations"""
