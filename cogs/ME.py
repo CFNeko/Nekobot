@@ -60,15 +60,13 @@ class ME(commands.Cog):
             return
         async with aiohttp.ClientSession() as cs:
             async with cs.get('https://sites.google.com/view/missions-expanded-trees/index') as r:
-                await ctx.send(f'We have missions for {nation}, which has the {tag} tag\nhttp://modcoop.org/index'
-                               f'.php?title=Expanded_Mod_Family/{keyword}')
+                await ctx.send(f'We have missions for {nation}, which has the {tag} tag\nhttp://modcoop.org/index')
                 tree = await r.read()
                 soup = BeautifulSoup(tree, 'html.parser')
                 for link in soup.find_all('a', href=True):
                     if nation in link:
                         result = 'https://sites.google.com' + link['href']
-                        print(result)
-                        
+                await ctx.send(result)
                 # sends idea expanded_data
                 y = ('Tradition', 'Ambition', *x)
                 counter = 0
