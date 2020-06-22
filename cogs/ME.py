@@ -66,8 +66,7 @@ class ME(commands.Cog):
                 soup = BeautifulSoup(tree, 'html.parser')
                 for link in soup.find_all('a'):
                     if nation in link:
-                        result = 'https://sites.google.com/' + link.contents[1]
-                        print(result)
+                        print(link.contents[1])
                 # sends idea expanded_data
                 y = ('Tradition', 'Ambition', *x)
                 counter = 0
