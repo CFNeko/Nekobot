@@ -9106,8 +9106,7 @@
         "bonus": {
             "land_forcelimit_modifier": 0.25
         },
-        
-        },
+
         "free": true,
         "sca_dockyards_of_scandinavia": {
             "naval_forcelimit_modifier": 0.25
