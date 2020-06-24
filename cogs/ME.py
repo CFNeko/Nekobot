@@ -47,11 +47,6 @@ class ME(commands.Cog):
         else:
             nation = nation.title()
             print(f'Wiki request received! {nation}')
-            if nation.lower() == 'rum':
-                keyword = 'Rûm'
-                nation = 'Rûm'
-            else:
-                keyword = nation.rstrip().replace(' ', '_')
             async with self.bot.db.acquire() as conn:
                 tag = await conn.fetchval('SELECT tag FROM tags WHERE country=$1', nation)
                 x = await conn.fetchrow('SELECT one, two, three, four, five, six, seven FROM idea_names WHERE tag=$1', tag)
@@ -68,14 +63,14 @@ class ME(commands.Cog):
                         result = 'https://sites.google.com' + link['href']
                 await ctx.send(result)
                 # sends idea expanded_data
-                y = ('Tradition', 'Ambition', *x)
-                counter = 0
-                me_body_message = '```'
-                for key, value in vanillaDataIdeas[tag].items():
-                    value = str(value).replace("'", "")
-                    me_body_message = f'{me_body_message}{y[counter]}: {value.replace("{", "").replace("}", "")} \n'
-                    counter += 1
-                me_body_message = me_body_message + '```'
+                # y = ('Tradition', 'Ambition', *x)
+                # counter = 0
+                # me_body_message = '```'
+                # for key, value in vanillaDataIdeas[tag].items():
+                #     value = str(value).replace("'", "")
+                #     me_body_message = f'{me_body_message}{y[counter]}: {value.replace("{", "").replace("}", "")} \n'
+                #     counter += 1
+                # me_body_message = me_body_message + '```'
 
     @me.command()
     async def formables(self, ctx):
