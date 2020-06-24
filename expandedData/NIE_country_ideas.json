@@ -9141,8 +9141,7 @@
         "bonus": {
             "land_forcelimit_modifier": 0.25
         },
-        
-        },
+
         "free": true,
         "sca_dockyards_of_scandinavia": {
             "naval_forcelimit_modifier": 0.25
@@ -9180,7 +9179,6 @@
             "land_forcelimit_modifier": 0.25
         },
         
-        },
         "free": true,
         "sca_dockyards_of_scandinavia": {
             "naval_forcelimit_modifier": 0.25
@@ -9212,10 +9210,7 @@
             "discipline": 0.05
         },
         "bonus": {
-            "land_forcelimit_modifier": 0.25
-        },
-        
-        },
+            "land_forcelimit_modifier": 0.25},
         "free": true,
         "sca_dockyards_of_scandinavia": {
             "naval_forcelimit_modifier": 0.25
@@ -9247,10 +9242,7 @@
             "land_attrition": -0.2
         },
         "bonus": {
-            "land_forcelimit_modifier": 0.25
-        },
-        
-        },
+            "land_forcelimit_modifier": 0.25},
         "free": true,
         "sca_dockyards_of_scandinavia": {
             "naval_forcelimit_modifier": 0.25
@@ -9282,10 +9274,7 @@
             "heavy_ship_power": 0.1
         },
         "bonus": {
-            "land_forcelimit_modifier": 0.25
-        },
-        
-        },
+            "land_forcelimit_modifier": 0.25},
         "free": true,
         "sca_dockyards_of_scandinavia": {
             "naval_forcelimit_modifier": 0.25
