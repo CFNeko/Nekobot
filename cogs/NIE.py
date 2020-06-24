@@ -19,7 +19,7 @@ class NIE(commands.Cog):
     async def nie(self, ctx):
         """Returns the NIE steam page"""
         if ctx.invoked_subcommand is None:
-            nieEmbed = embedMaker.embedMaker('National Ideas Expanded', 'https://steamcommunity.com/sharedfiles/filedetails/?id=1592328478', 'I have an idea!', 0xd5000, 'Made by Verinity', 'https://steamuserimages-a.akamaihd.net/ugc/788614596622808953/47EA4EC5540814CA95971F4CAF6480960B200D0B/')
+            nieEmbed = embedMaker.embedMaker('National Ideas Expanded', 'https://steamcommunity.com/sharedfiles/filedetails/?id=1592328478', 'I have an idea!', 0xd5000, 'Made by Verinity', 'https://steamuserimages-a.akamaihd.net/ugc/1183831643854233426/87693DEED6CA2C98B9CA088B36C272B030572FEF/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true')
             await ctx.send(embed=nieEmbed.t)
     @nie.command()
     async def find(self, ctx, *, country: str):

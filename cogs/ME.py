@@ -23,7 +23,7 @@ class ME(commands.Cog):
                                                                   '/?id=1349005102', 'Missions to feed your '
                                                                                      'families', 0x00fdff,
                                              'Made by The Senate',
-                                             'https://steamuserimages-a.akamaihd.net/ugc/785237978963961829'
+                                             'https://steamuserimages-a.akamaihd.net/ugc/786379195095939192/511DEC82C361BEBCE5C5C8ED5068C4915EEF4290/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true'
                                              '/6FA7A17EA9C6211FC4DCC04D49EBDB908FFDA727/?imw=268&imh=268&ima=fit'
                                              '&impolicy=Letterbox&imcolor=%23000000&letterbox=true')
             await ctx.send(embed=me_embed.t)
