@@ -4986,8 +4986,7 @@
             "land_maintenance_modifier": -0.1
         },
         
-            }
-        },
+
         "free": true,
         "after_the_fall_of_adal": {
             "land_morale": 0.1
