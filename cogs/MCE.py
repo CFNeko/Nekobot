@@ -16,6 +16,6 @@ class MCE(commands.Cog):
                                                                    0x00fdff,
                                              					  'Made by Vara & Uber',
                                              'https://steamuserimages-a.akamaihd.net/ugc/1049849534508701381/B159CC0E84068298D3A785E280AB2DC4EEAACF8F/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' )
-				await ctx.send(embed=me_embed.t)
+				await ctx.send(embed=mce_embed.t)
 def setup(bot):
     bot.add_cog(MCE(bot))
