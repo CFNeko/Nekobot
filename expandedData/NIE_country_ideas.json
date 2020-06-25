@@ -4,7 +4,7 @@
             "cavalry_power": 0.2,
             "cavalry_cost": -0.15
         },
-        "bonus": {
+        "Ambition": {
             "land_maintenance_modifier": -0.1
         },
         
@@ -39,7 +39,7 @@
             "cavalry_power": 0.2,
             "cavalry_cost": -0.15
         },
-        "bonus": {
+        "Ambition": {
             "state_maintenance_modifier": -0.25
         },
         
@@ -74,7 +74,7 @@
             "cavalry_power": 0.2,
             "cavalry_cost": -0.15
         },
-        "bonus": {
+        "Ambition": {
             "governing_capacity_modifier": 0.1
         },
         
@@ -109,7 +109,7 @@
             "cavalry_power": 0.2,
             "cavalry_cost": -0.15
         },
-        "bonus": {
+        "Ambition": {
             "land_forcelimit_modifier": 0.25
         },
         
@@ -143,7 +143,7 @@
             "land_morale": 0.1,
             "global_missionary_strength": 0.02
         },
-        "bonus": {
+        "Ambition": {
             "army_tradition": 1
         },
         
@@ -178,7 +178,7 @@
             "trade_efficiency": 0.1,
             "naval_morale": 0.15
         },
-        "bonus": {
+        "Ambition": {
             "colonists": 1
         },
         
@@ -212,7 +212,7 @@
             "development_cost": -0.1,
             "diplomatic_reputation": 1
         },
-        "bonus": {
+        "Ambition": {
             "global_manpower_modifier": 0.25
         },
         
@@ -247,7 +247,7 @@
             "shock_damage": 0.1,
             "land_maintenance_modifier": -0.1
         },
-        "bonus": {
+        "Ambition": {
             "fire_damage": 0.1
         },
         
@@ -280,7 +280,7 @@
             "development_cost": -0.1,
             "defensiveness": 0.2
         },
-        "bonus": {
+        "Ambition": {
             "manpower_recovery_speed": 0.15
         },
         
@@ -313,7 +313,7 @@
             "navy_tradition": 1,
             "naval_forcelimit_modifier": 0.25
         },
-        "bonus": {
+        "Ambition": {
             "religious_unity": 0.25
         },
         
@@ -346,7 +346,7 @@
             "diplomatic_reputation": 1,
             "global_prov_trade_power_modifier": 0.15
         },
-        "bonus": {
+        "Ambition": {
             "merchants": 1
         },
         
@@ -381,7 +381,7 @@
             "global_manpower_modifier": 0.1,
             "missionaries": 1
         },
-        "bonus": {
+        "Ambition": {
             "global_missionary_strength": 0.02
         },
         
@@ -414,7 +414,7 @@
             "hostile_attrition": 1,
             "leader_land_shock": 1
         },
-        "bonus": {
+        "Ambition": {
             "development_cost": -0.1
         },
         
@@ -450,7 +450,7 @@
             "production_efficiency": 0.1,
             "navy_tradition": 1
         },
-        "bonus": {
+        "Ambition": {
             "defensiveness": 0.2
         },
         
@@ -484,7 +484,7 @@
             "advisor_pool": 1,
             "free_leader_pool": 1
         },
-        "bonus": {
+        "Ambition": {
             "land_forcelimit_modifier": 0.25
         },
         
@@ -517,7 +517,7 @@
             "movement_speed": 0.15,
             "leader_land_shock": 1
         },
-        "bonus": {
+        "Ambition": {
             "discipline": 0.05
         },
         
@@ -554,7 +554,7 @@
             "defensiveness": 0.2,
             "diplomatic_upkeep": 1
         },
-        "bonus": {
+        "Ambition": {
             "global_unrest": -2
         },
         
@@ -588,7 +588,7 @@
             "global_manpower_modifier": 0.2,
             "stability_cost_modifier": -0.15
         },
-        "bonus": {
+        "Ambition": {
             "possible_policy": 1
         },
         
@@ -621,7 +621,7 @@
             "ae_impact": -0.1,
             "missionaries": 1
         },
-        "bonus": {
+        "Ambition": {
             "diplomats": 1
         },
         
@@ -656,7 +656,7 @@
             "years_of_nationalism": -5,
             "missionaries": 1
         },
-        "bonus": {
+        "Ambition": {
             "missionary_maintenance_cost": -0.2
         },
         
@@ -689,7 +689,7 @@
             "global_tax_modifier": 0.1,
             "inflation_reduction": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "global_prov_trade_power_modifier": 0.2
         },
         
@@ -723,7 +723,7 @@
             "trade_efficiency": 0.1,
             "advisor_pool": 1
         },
-        "bonus": {
+        "Ambition": {
             "province_warscore_cost": -0.1
         },
         
@@ -758,7 +758,7 @@
             "navy_tradition": 1,
             "trade_efficiency": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "yearly_absolutism": 0.25
         },
         
@@ -792,7 +792,7 @@
             "prestige": 1,
             "production_efficiency": 0.15
         },
-        "bonus": {
+        "Ambition": {
             "land_maintenance_modifier": -0.1
         },
         
@@ -826,7 +826,7 @@
             "interest": -0.5,
             "production_efficiency": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "global_unrest": -1
         },
         
@@ -859,7 +859,7 @@
             "development_cost": -0.1,
             "production_efficiency": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "defensiveness": 0.15
         },
         
@@ -893,7 +893,7 @@
             "defensiveness": 0.2,
             "num_accepted_cultures": 1
         },
-        "bonus": {
+        "Ambition": {
             "manpower_recovery_speed": 0.1
         },
         
@@ -927,7 +927,7 @@
             "manpower_recovery_speed": 0.1,
             "trade_efficiency": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "trade_steering": 0.1
         },
         
@@ -961,7 +961,7 @@
             "mercenary_cost": -0.2,
             "diplomatic_upkeep": 1
         },
-        "bonus": {
+        "Ambition": {
             "mercenary_discipline": 0.025
         },
         
@@ -996,7 +996,7 @@
             "hostile_attrition": 1,
             "shock_damage_received": -0.1
         },
-        "bonus": {
+        "Ambition": {
             "global_manpower_modifier": 0.25
         },
         
@@ -1029,7 +1029,7 @@
             "global_autonomy": -0.05,
             "land_maintenance_modifier": -0.1
         },
-        "bonus": {
+        "Ambition": {
             "global_manpower_modifier": 0.25
         },
         
@@ -1063,7 +1063,7 @@
             "global_tax_modifier": 0.1,
             "global_unrest": -1
         },
-        "bonus": {
+        "Ambition": {
             "manpower_recovery_speed": 0.15
         },
         
@@ -1096,7 +1096,7 @@
             "shock_damage_received": -0.1,
             "global_manpower_modifier": 0.2
         },
-        "bonus": {
+        "Ambition": {
             "fire_damage_received": -0.1
         },
         
@@ -1130,7 +1130,7 @@
             "global_institution_spread": 0.1,
             "land_maintenance_modifier": -0.1
         },
-        "bonus": {
+        "Ambition": {
             "war_exhaustion": -0.02
         },
         
@@ -1163,7 +1163,7 @@
             "production_efficiency": 0.15,
             "land_forcelimit_modifier": 0.25
         },
-        "bonus": {
+        "Ambition": {
             "num_accepted_cultures": 1
         },
         
@@ -1197,7 +1197,7 @@
             "core_creation": -0.2,
             "discipline": 0.05
         },
-        "bonus": {
+        "Ambition": {
             "naval_maintenance_modifier": -0.2
         },
         
@@ -1231,7 +1231,7 @@
             "core_creation": -0.2,
             "discipline": 0.05
         },
-        "bonus": {
+        "Ambition": {
             "infantry_power": 0.1
         },
         
@@ -1266,7 +1266,7 @@
             "core_creation": -0.2,
             "discipline": 0.05
         },
-        "bonus": {
+        "Ambition": {
             "free_leader_pool": 1
         },
         
@@ -1300,7 +1300,7 @@
             "core_creation": -0.2,
             "discipline": 0.05
         },
-        "bonus": {
+        "Ambition": {
             "global_unrest": -2
         },
         
@@ -1334,7 +1334,7 @@
             "core_creation": -0.2,
             "discipline": 0.05
         },
-        "bonus": {
+        "Ambition": {
             "global_trade_goods_size_modifier": 0.1
         },
         
@@ -1368,7 +1368,7 @@
             "core_creation": -0.2,
             "discipline": 0.05
         },
-        "bonus": {
+        "Ambition": {
             "naval_maintenance_modifier": -0.2
         },
         
@@ -1402,7 +1402,7 @@
             "core_creation": -0.2,
             "discipline": 0.05
         },
-        "bonus": {
+        "Ambition": {
             "possible_policy": 1
         },
         
@@ -1436,7 +1436,7 @@
             "hostile_attrition": 1,
             "global_missionary_strength": 0.02
         },
-        "bonus": {
+        "Ambition": {
             "years_of_nationalism": -5
         },
         
@@ -1468,7 +1468,7 @@
             "improve_relation_modifier": 0.25,
             "global_institution_spread": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "technology_cost": -0.1
         },
         
@@ -1502,7 +1502,7 @@
             "cavalry_power": 0.2,
             "tolerance_heathen": 3
         },
-        "bonus": {
+        "Ambition": {
             "cavalry_cost": -0.15
         },
         
@@ -1534,7 +1534,7 @@
             "galley_power": 0.15,
             "may_perform_slave_raid": true
         },
-        "bonus": {
+        "Ambition": {
             "years_of_nationalism": -5
         },
         
@@ -1568,7 +1568,7 @@
             "cavalry_power": 0.15,
             "leader_land_manuever": 1
         },
-        "bonus": {
+        "Ambition": {
             "global_autonomy": -0.05
         },
         
@@ -1604,7 +1604,7 @@
             "naval_morale": 0.15,
             "naval_forcelimit_modifier": 0.33
         },
-        "bonus": {
+        "Ambition": {
             "heavy_ship_power": 0.1
         },
         
@@ -1642,7 +1642,7 @@
             "navy_tradition": 1,
             "hostile_attrition": 1
         },
-        "bonus": {
+        "Ambition": {
             "global_prov_trade_power_modifier": 0.1
         },
         
@@ -1676,7 +1676,7 @@
             "global_autonomy": -0.05,
             "defensiveness": 0.25
         },
-        "bonus": {
+        "Ambition": {
             "global_prov_trade_power_modifier": 0.2
         },
         
@@ -1711,7 +1711,7 @@
             "trade_steering": 0.2,
             "hostile_attrition": 1
         },
-        "bonus": {
+        "Ambition": {
             "num_accepted_cultures": 1
         },
         
@@ -1743,7 +1743,7 @@
             "leader_land_fire": 1,
             "diplomatic_reputation": 1
         },
-        "bonus": {
+        "Ambition": {
             "artillery_power": 0.1
         },
         
@@ -1776,7 +1776,7 @@
             "global_prov_trade_power_modifier": 0.1,
             "global_institution_spread": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "religious_unity": 0.25
         },
         
@@ -1809,7 +1809,7 @@
             "global_autonomy": -0.05,
             "development_cost": -0.1
         },
-        "bonus": {
+        "Ambition": {
             "num_accepted_cultures": 2
         },
         
@@ -1843,7 +1843,7 @@
             "land_morale": 0.1,
             "defensiveness": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "global_autonomy": -0.05
         },
         
@@ -1875,7 +1875,7 @@
             "tolerance_heretic": 3,
             "global_institution_spread": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "same_culture_advisor_cost": -0.2
         },
         
@@ -1909,7 +1909,7 @@
             "production_efficiency": 0.1,
             "development_cost": -0.1
         },
-        "bonus": {
+        "Ambition": {
             "same_culture_advisor_cost": -0.2
         },
         
@@ -1943,7 +1943,7 @@
             "diplomatic_reputation": 1,
             "global_manpower_modifier": 0.2
         },
-        "bonus": {
+        "Ambition": {
             "same_culture_advisor_cost": -0.2
         },
         
@@ -1977,7 +1977,7 @@
             "defensiveness": 0.25,
             "ae_impact": -0.2
         },
-        "bonus": {
+        "Ambition": {
             "war_exhaustion": -0.02
         },
         
@@ -2013,7 +2013,7 @@
             "global_spy_defence": 0.2,
             "fort_maintenance_modifier": -0.1
         },
-        "bonus": {
+        "Ambition": {
             "same_culture_advisor_cost": -0.2
         },
         
@@ -2047,7 +2047,7 @@
             "infantry_power": 0.1,
             "light_ship_power": 0.15
         },
-        "bonus": {
+        "Ambition": {
             "same_culture_advisor_cost": -0.2
         },
         
@@ -2081,7 +2081,7 @@
             "diplomatic_reputation": 1,
             "legitimacy": 1
         },
-        "bonus": {
+        "Ambition": {
             "same_culture_advisor_cost": -0.2
         },
         
@@ -2115,7 +2115,7 @@
             "diplomatic_reputation": 1,
             "prestige": 1
         },
-        "bonus": {
+        "Ambition": {
             "same_culture_advisor_cost": -0.2
         },
         
@@ -2150,7 +2150,7 @@
             "merc_maintenance_modifier": -0.1,
             "global_tax_modifier": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "same_culture_advisor_cost": -0.2
         },
         
@@ -2184,7 +2184,7 @@
             "production_efficiency": 0.1,
             "merc_maintenance_modifier": -0.1
         },
-        "bonus": {
+        "Ambition": {
             "same_culture_advisor_cost": -0.2
         },
         
@@ -2218,7 +2218,7 @@
             "build_cost": -0.2,
             "defensiveness": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "same_culture_advisor_cost": -0.2
         },
         
@@ -2252,7 +2252,7 @@
             "global_prov_trade_power_modifier": 0.1,
             "mercenary_cost": -0.1
         },
-        "bonus": {
+        "Ambition": {
             "same_culture_advisor_cost": -0.2
         },
         
@@ -2286,7 +2286,7 @@
             "legitimacy": 1,
             "advisor_pool": 1
         },
-        "bonus": {
+        "Ambition": {
             "same_culture_advisor_cost": -0.2
         },
         
@@ -2320,7 +2320,7 @@
             "legitimacy": 1,
             "global_unrest": -1
         },
-        "bonus": {
+        "Ambition": {
             "same_culture_advisor_cost": -0.2
         },
         
@@ -2354,7 +2354,7 @@
             "free_leader_pool": 1,
             "advisor_pool": 1
         },
-        "bonus": {
+        "Ambition": {
             "governing_capacity_modifier": 0.1
         },
         
@@ -2388,7 +2388,7 @@
             "advisor_pool": 1,
             "free_leader_pool": 1
         },
-        "bonus": {
+        "Ambition": {
             "war_exhaustion": -0.02
         },
         
@@ -2422,7 +2422,7 @@
             "advisor_pool": 1,
             "free_leader_pool": 1
         },
-        "bonus": {
+        "Ambition": {
             "colonists": 1
         },
         
@@ -2456,7 +2456,7 @@
             "free_leader_pool": 1,
             "advisor_pool": 1
         },
-        "bonus": {
+        "Ambition": {
             "manpower_recovery_speed": 0.15
         },
         
@@ -2490,7 +2490,7 @@
             "free_leader_pool": 1,
             "advisor_pool": 1
         },
-        "bonus": {
+        "Ambition": {
             "discipline": 0.05
         },
         
@@ -2524,7 +2524,7 @@
             "loot_amount": 0.25,
             "leader_land_shock": 1
         },
-        "bonus": {
+        "Ambition": {
             "manpower_recovery_speed": 0.15
         },
         
@@ -2558,7 +2558,7 @@
             "province_warscore_cost": -0.1,
             "land_morale": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "same_culture_advisor_cost": -0.2
         },
         
@@ -2593,7 +2593,7 @@
             "heir_chance": 0.5,
             "yearly_corruption": -0.05
         },
-        "bonus": {
+        "Ambition": {
             "global_autonomy": -0.05
         },
         
@@ -2628,7 +2628,7 @@
             "global_institution_spread": 0.1,
             "advisor_pool": 1
         },
-        "bonus": {
+        "Ambition": {
             "governing_capacity_modifier": 0.1
         },
         
@@ -2664,7 +2664,7 @@
             "free_leader_pool": 1,
             "advisor_pool": 1
         },
-        "bonus": {
+        "Ambition": {
             "global_prov_trade_power_modifier": 0.1
         },
         
@@ -2698,7 +2698,7 @@
             "free_leader_pool": 1,
             "advisor_pool": 1
         },
-        "bonus": {
+        "Ambition": {
             "advisor_cost": -0.15
         },
         
@@ -2733,7 +2733,7 @@
             "free_leader_pool": 1,
             "advisor_pool": 1
         },
-        "bonus": {
+        "Ambition": {
             "global_manpower_modifier": 0.15
         },
         
@@ -2768,7 +2768,7 @@
             "shock_damage_received": -0.1,
             "defensiveness": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "development_cost": -0.1
         },
         
@@ -2804,7 +2804,7 @@
             "free_leader_pool": 1,
             "advisor_pool": 1
         },
-        "bonus": {
+        "Ambition": {
             "core_creation": -0.2
         },
         
@@ -2838,7 +2838,7 @@
             "war_exhaustion": -0.02,
             "production_efficiency": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "fort_maintenance_modifier": -0.2
         },
         
@@ -2872,7 +2872,7 @@
             "free_leader_pool": 1,
             "advisor_pool": 1
         },
-        "bonus": {
+        "Ambition": {
             "navy_tradition": 1
         },
         
@@ -2906,7 +2906,7 @@
             "army_tradition_decay": -0.01,
             "global_supply_limit_modifier": 0.25
         },
-        "bonus": {
+        "Ambition": {
             "land_forcelimit_modifier": 0.25
         },
         
@@ -2940,7 +2940,7 @@
             "land_forcelimit_modifier": 0.2,
             "global_prov_trade_power_modifier": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "development_cost": -0.1
         },
         
@@ -2974,7 +2974,7 @@
             "production_efficiency": 0.1,
             "caravan_power": 0.2
         },
-        "bonus": {
+        "Ambition": {
             "global_trade_goods_size_modifier": 0.1
         },
         
@@ -3008,7 +3008,7 @@
             "production_efficiency": 0.1,
             "hostile_attrition": 1
         },
-        "bonus": {
+        "Ambition": {
             "legitimacy": 1
         },
         
@@ -3040,7 +3040,7 @@
             "production_efficiency": 0.1,
             "global_prov_trade_power_modifier": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "land_forcelimit_modifier": 0.25
         },
         
@@ -3074,7 +3074,7 @@
             "production_efficiency": 0.1,
             "prestige_decay": -0.01
         },
-        "bonus": {
+        "Ambition": {
             "fire_damage": 0.1
         },
         
@@ -3108,7 +3108,7 @@
             "state_maintenance_modifier": -0.25,
             "global_unrest": -1
         },
-        "bonus": {
+        "Ambition": {
             "religious_unity": 0.25
         },
         
@@ -3141,7 +3141,7 @@
             "state_maintenance_modifier": -0.25,
             "diplomatic_upkeep": 1
         },
-        "bonus": {
+        "Ambition": {
             "free_dip_policy": 1
         },
         
@@ -3174,7 +3174,7 @@
             "state_maintenance_modifier": -0.25,
             "ae_impact": -0.1
         },
-        "bonus": {
+        "Ambition": {
             "tolerance_heathen": 3
         },
         
@@ -3208,7 +3208,7 @@
             "religious_unity": 0.25,
             "tolerance_own": 3
         },
-        "bonus": {
+        "Ambition": {
             "global_institution_spread": 0.1
         },
         
@@ -3241,7 +3241,7 @@
             "global_trade_goods_size_modifier": 0.1,
             "light_ship_power": 0.15
         },
-        "bonus": {
+        "Ambition": {
             "navy_tradition": 1
         },
         
@@ -3277,7 +3277,7 @@
             "mercenary_cost": -0.15,
             "idea_cost": -0.05
         },
-        "bonus": {
+        "Ambition": {
             "development_cost": -0.1
         },
         
@@ -3313,7 +3313,7 @@
             "hostile_attrition": 1,
             "prestige": 1
         },
-        "bonus": {
+        "Ambition": {
             "global_trade_goods_size_modifier": 0.1
         },
         
@@ -3346,7 +3346,7 @@
             "core_creation": -0.1,
             "global_autonomy": -0.05
         },
-        "bonus": {
+        "Ambition": {
             "land_forcelimit_modifier": 0.25
         },
         
@@ -3380,7 +3380,7 @@
             "infantry_power": 0.1,
             "cavalry_power": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "free_leader_pool": 1
         },
         
@@ -3414,7 +3414,7 @@
             "spy_offence": 0.2,
             "garrison_size": 0.2
         },
-        "bonus": {
+        "Ambition": {
             "diplomats": 1
         },
         
@@ -3448,7 +3448,7 @@
             "manpower_recovery_speed": 0.1,
             "advisor_cost": -0.1
         },
-        "bonus": {
+        "Ambition": {
             "ae_impact": -0.15
         },
         
@@ -3482,7 +3482,7 @@
             "army_tradition_decay": -0.01,
             "merc_maintenance_modifier": -0.1
         },
-        "bonus": {
+        "Ambition": {
             "trade_efficiency": 0.15
         },
         
@@ -3517,7 +3517,7 @@
             "hostile_attrition": 1,
             "global_tax_modifier": 0.15
         },
-        "bonus": {
+        "Ambition": {
             "global_autonomy": -0.05
         },
         
@@ -3551,7 +3551,7 @@
             "mercenary_cost": -0.15,
             "diplomatic_upkeep": 1
         },
-        "bonus": {
+        "Ambition": {
             "merc_maintenance_modifier": -0.15
         },
         
@@ -3585,7 +3585,7 @@
             "infantry_power": 0.1,
             "global_regiment_recruit_speed": -0.1
         },
-        "bonus": {
+        "Ambition": {
             "num_accepted_cultures": 1
         },
         
@@ -3618,7 +3618,7 @@
             "army_tradition_decay": -0.01,
             "legitimacy": 1
         },
-        "bonus": {
+        "Ambition": {
             "fire_damage": 0.1
         },
         
@@ -3652,7 +3652,7 @@
             "global_autonomy": -0.05,
             "global_unrest": -1
         },
-        "bonus": {
+        "Ambition": {
             "manpower_recovery_speed": 0.1
         },
         
@@ -3686,7 +3686,7 @@
             "army_tradition_decay": -0.01,
             "hostile_attrition": 1
         },
-        "bonus": {
+        "Ambition": {
             "state_maintenance_modifier": -0.25
         },
         
@@ -3718,7 +3718,7 @@
             "yearly_corruption": -0.05,
             "free_leader_pool": 1
         },
-        "bonus": {
+        "Ambition": {
             "development_cost": -0.1
         },
         
@@ -3752,7 +3752,7 @@
             "advisor_pool": 1,
             "diplomatic_upkeep": 1
         },
-        "bonus": {
+        "Ambition": {
             "shock_damage": 0.1
         },
         
@@ -3785,7 +3785,7 @@
             "global_unrest": -1,
             "legitimacy": 1
         },
-        "bonus": {
+        "Ambition": {
             "ae_impact": -0.1
         },
         
@@ -3817,7 +3817,7 @@
             "improve_relation_modifier": 0.25,
             "advisor_pool": 1
         },
-        "bonus": {
+        "Ambition": {
             "global_manpower_modifier": 0.2
         },
         
@@ -3849,7 +3849,7 @@
             "fabricate_claims_cost": -0.25,
             "merc_maintenance_modifier": -0.1
         },
-        "bonus": {
+        "Ambition": {
             "land_maintenance_modifier": -0.1
         },
         
@@ -3882,7 +3882,7 @@
             "land_morale": 0.1,
             "land_forcelimit_modifier": 0.2
         },
-        "bonus": {
+        "Ambition": {
             "manpower_recovery_speed": 0.15
         },
         
@@ -3915,7 +3915,7 @@
             "defensiveness": 0.1,
             "garrison_size": 0.2
         },
-        "bonus": {
+        "Ambition": {
             "army_tradition": 0.5
         },
         
@@ -3949,7 +3949,7 @@
             "defensiveness": 0.1,
             "production_efficiency": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "land_maintenance_modifier": -0.1
         },
         
@@ -3983,7 +3983,7 @@
             "land_attrition": -0.15,
             "infantry_cost": -0.1
         },
-        "bonus": {
+        "Ambition": {
             "legitimacy": 1
         },
         
@@ -4015,7 +4015,7 @@
             "hostile_attrition": 1,
             "movement_speed": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "defensiveness": 0.2
         },
         
@@ -4048,7 +4048,7 @@
             "garrison_size": 0.1,
             "same_culture_advisor_cost": -0.2
         },
-        "bonus": {
+        "Ambition": {
             "global_manpower_modifier": 0.2
         },
         
@@ -4081,7 +4081,7 @@
             "legitimacy": 1,
             "same_culture_advisor_cost": -0.2
         },
-        "bonus": {
+        "Ambition": {
             "global_manpower_modifier": 0.2
         },
         
@@ -4114,7 +4114,7 @@
             "caravan_power": 0.2,
             "same_culture_advisor_cost": -0.2
         },
-        "bonus": {
+        "Ambition": {
             "land_forcelimit_modifier": 0.2
         },
         
@@ -4146,7 +4146,7 @@
             "land_morale": 0.1,
             "land_forcelimit_modifier": 0.2
         },
-        "bonus": {
+        "Ambition": {
             "manpower_recovery_speed": 0.15
         },
         
@@ -4179,7 +4179,7 @@
             "legitimacy": 1,
             "diplomatic_upkeep": 1
         },
-        "bonus": {
+        "Ambition": {
             "fire_damage_received": -0.1
         },
         
@@ -4211,7 +4211,7 @@
             "mercenary_cost": -0.15,
             "diplomatic_reputation": 1
         },
-        "bonus": {
+        "Ambition": {
             "global_regiment_cost": -0.1
         },
         
@@ -4243,7 +4243,7 @@
             "cavalry_power": 0.1,
             "garrison_size": 0.2
         },
-        "bonus": {
+        "Ambition": {
             "religious_unity": 0.25
         },
         
@@ -4275,7 +4275,7 @@
             "global_manpower_modifier": 0.2,
             "land_forcelimit_modifier": 0.2
         },
-        "bonus": {
+        "Ambition": {
             "diplomatic_upkeep": 1
         },
         
@@ -4309,7 +4309,7 @@
             "infantry_cost": -0.2,
             "land_forcelimit_modifier": 0.2
         },
-        "bonus": {
+        "Ambition": {
             "infantry_power": 0.1
         },
         
@@ -4343,7 +4343,7 @@
             "trade_efficiency": 0.15,
             "manpower_recovery_speed": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "merchants": 1
         },
         
@@ -4377,7 +4377,7 @@
             "trade_efficiency": 0.15,
             "improve_relation_modifier": 0.2
         },
-        "bonus": {
+        "Ambition": {
             "merchants": 1
         },
         
@@ -4411,7 +4411,7 @@
             "trade_efficiency": 0.15,
             "may_perform_slave_raid_on_same_religion": true
         },
-        "bonus": {
+        "Ambition": {
             "merchants": 1
         },
         
@@ -4445,7 +4445,7 @@
             "trade_efficiency": 0.15,
             "diplomatic_reputation": 1
         },
-        "bonus": {
+        "Ambition": {
             "merchants": 1
         },
         
@@ -4479,7 +4479,7 @@
             "navy_tradition": 1,
             "ship_durability": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "merchants": 1
         },
         
@@ -4514,7 +4514,7 @@
             "navy_tradition": 1,
             "diplomatic_reputation": 1
         },
-        "bonus": {
+        "Ambition": {
             "navy_tradition_decay": -0.01
         },
         
@@ -4548,7 +4548,7 @@
             "mercenary_cost": -0.1,
             "navy_tradition": 1
         },
-        "bonus": {
+        "Ambition": {
             "colonists": 1
         },
         
@@ -4584,7 +4584,7 @@
             "tolerance_own": 2,
             "diplomatic_reputation": 1
         },
-        "bonus": {
+        "Ambition": {
             "global_manpower_modifier": 0.2
         },
         
@@ -4618,7 +4618,7 @@
             "hostile_attrition": 1,
             "movement_speed": 0.2
         },
-        "bonus": {
+        "Ambition": {
             "merc_maintenance_modifier": -0.1
         },
         
@@ -4651,7 +4651,7 @@
             "legitimacy": 1,
             "trade_efficiency": 0.15
         },
-        "bonus": {
+        "Ambition": {
             "global_trade_power": 0.1
         },
         
@@ -4685,7 +4685,7 @@
             "legitimacy": 1,
             "global_prov_trade_power_modifier": 0.15
         },
-        "bonus": {
+        "Ambition": {
             "navy_tradition": 1
         },
         
@@ -4719,7 +4719,7 @@
             "inflation_reduction": 0.05,
             "caravan_power": 0.25
         },
-        "bonus": {
+        "Ambition": {
             "trade_efficiency": 0.1
         },
         
@@ -4751,7 +4751,7 @@
             "global_own_trade_power": 0.1,
             "diplomatic_reputation": 1
         },
-        "bonus": {
+        "Ambition": {
             "trade_steering": 0.2
         },
         
@@ -4784,7 +4784,7 @@
             "manpower_recovery_speed": 0.1,
             "global_regiment_cost": -0.1
         },
-        "bonus": {
+        "Ambition": {
             "land_maintenance_modifier": -0.1
         },
         
@@ -4817,7 +4817,7 @@
             "land_morale": 0.1,
             "garrison_size": 0.2
         },
-        "bonus": {
+        "Ambition": {
             "global_unrest": -2
         },
         
@@ -4851,7 +4851,7 @@
             "hostile_attrition": 1,
             "land_morale": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "shock_damage": 0.1
         },
         
@@ -4884,7 +4884,7 @@
             "legitimacy": 1,
             "defensiveness": 0.25
         },
-        "bonus": {
+        "Ambition": {
             "hostile_attrition": 1
         },
         
@@ -4917,7 +4917,7 @@
             "land_forcelimit_modifier": 0.2,
             "cavalry_power": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "manpower_recovery_speed": 0.15
         },
         
@@ -4950,7 +4950,7 @@
             "hostile_attrition": 1,
             "defensiveness": 0.25
         },
-        "bonus": {
+        "Ambition": {
             "land_attrition": -0.25
         },
         
@@ -4982,7 +4982,7 @@
             "shock_damage": 0.1,
             "warscore_cost_vs_other_religion": -0.1
         },
-        "bonus": {
+        "Ambition": {
             "land_maintenance_modifier": -0.1
         },
         
@@ -5015,7 +5015,7 @@
             "navy_tradition": 1,
             "inflation_reduction": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "global_trade_goods_size_modifier": 0.1
         },
         
@@ -5049,7 +5049,7 @@
             "ae_impact": -0.1,
             "manpower_recovery_speed": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "global_manpower_modifier": 0.25
         },
         
@@ -5083,7 +5083,7 @@
             "defensiveness": 0.1,
             "diplomatic_reputation": 1
         },
-        "bonus": {
+        "Ambition": {
             "yearly_corruption": -0.05
         },
         
@@ -5117,7 +5117,7 @@
             "production_efficiency": 0.1,
             "may_perform_slave_raid": true
         },
-        "bonus": {
+        "Ambition": {
             "global_manpower_modifier": 0.2
         },
         
@@ -5151,7 +5151,7 @@
             "global_institution_spread": 0.1,
             "development_cost": -0.1
         },
-        "bonus": {
+        "Ambition": {
             "warscore_cost_vs_other_religion": -0.2
         },
         
@@ -5184,7 +5184,7 @@
             "land_attrition": -0.2,
             "movement_speed": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "global_manpower_modifier": 0.25
         },
         
@@ -5217,7 +5217,7 @@
             "legitimacy": 1,
             "land_forcelimit_modifier": 0.25
         },
-        "bonus": {
+        "Ambition": {
             "yearly_corruption": -0.05
         },
         
@@ -5250,7 +5250,7 @@
             "build_cost": -0.2,
             "diplomatic_upkeep": 1
         },
-        "bonus": {
+        "Ambition": {
             "manpower_recovery_speed": 0.15
         },
         
@@ -5284,7 +5284,7 @@
             "core_creation": -0.1,
             "legitimacy": 1
         },
-        "bonus": {
+        "Ambition": {
             "discipline": 0.05
         },
         
@@ -5317,7 +5317,7 @@
             "cavalry_cost": -0.15,
             "movement_speed": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "war_exhaustion": -0.02
         },
         
@@ -5351,7 +5351,7 @@
             "global_trade_goods_size_modifier": 0.1,
             "shock_damage": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "global_manpower_modifier": 0.25
         },
         
@@ -5385,7 +5385,7 @@
             "development_cost": -0.1,
             "global_institution_spread": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "global_manpower_modifier": 0.25
         },
         
@@ -5418,7 +5418,7 @@
             "trade_steering": 0.25,
             "fabricate_claims_cost": -0.25
         },
-        "bonus": {
+        "Ambition": {
             "global_manpower_modifier": 0.25
         },
         
@@ -5451,7 +5451,7 @@
             "global_regiment_cost": -0.1,
             "land_forcelimit_modifier": 0.2
         },
-        "bonus": {
+        "Ambition": {
             "global_manpower_modifier": 0.25
         },
         
@@ -5485,7 +5485,7 @@
             "loot_amount": 0.2,
             "reinforce_cost_modifier": -0.33
         },
-        "bonus": {
+        "Ambition": {
             "global_prov_trade_power_modifier": 0.2
         },
         
@@ -5517,7 +5517,7 @@
             "global_institution_spread": 0.1,
             "trade_efficiency": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "placed_merchant_power": 10
         },
         
@@ -5551,7 +5551,7 @@
             "movement_speed": 0.1,
             "trade_efficiency": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "free_dip_policy": 1
         },
         
@@ -5585,7 +5585,7 @@
             "global_autonomy": -0.05,
             "army_tradition_decay": -0.01
         },
-        "bonus": {
+        "Ambition": {
             "legitimacy": 1
         },
         
@@ -5618,7 +5618,7 @@
             "global_tax_modifier": 0.1,
             "trade_efficiency": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "trade_steering": 0.25
         },
         
@@ -5652,7 +5652,7 @@
             "possible_condottieri": 0.5,
             "global_autonomy": -0.05
         },
-        "bonus": {
+        "Ambition": {
             "legitimacy": 1,
             "republican_tradition": 0.5,
             "devotion": 1
@@ -5688,7 +5688,7 @@
             "hostile_attrition": 1,
             "land_morale": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "global_unrest": -1
         },
         
@@ -5723,7 +5723,7 @@
             "trade_steering": 0.2,
             "defensiveness": 0.25
         },
-        "bonus": {
+        "Ambition": {
             "war_exhaustion": -0.02
         },
         
@@ -5756,7 +5756,7 @@
             "advisor_pool": 1,
             "yearly_corruption": -0.05
         },
-        "bonus": {
+        "Ambition": {
             "monarch_admin_power": 1
         },
         
@@ -5791,7 +5791,7 @@
             "cavalry_power": 0.2,
             "cavalry_cost": -0.15
         },
-        "bonus": {
+        "Ambition": {
             "global_manpower_modifier": 0.25
         },
         
@@ -5824,7 +5824,7 @@
             "cavalry_power": 0.2,
             "cavalry_cost": -0.15
         },
-        "bonus": {
+        "Ambition": {
             "ae_impact": -0.1
         },
         
@@ -5859,7 +5859,7 @@
             "cavalry_power": 0.2,
             "cavalry_cost": -0.15
         },
-        "bonus": {
+        "Ambition": {
             "governing_capacity_modifier": 0.1
         },
         
@@ -5892,7 +5892,7 @@
             "cavalry_power": 0.2,
             "cavalry_cost": -0.15
         },
-        "bonus": {
+        "Ambition": {
             "colonists": 1
         },
         
@@ -5925,7 +5925,7 @@
             "cavalry_power": 0.2,
             "cavalry_cost": -0.15
         },
-        "bonus": {
+        "Ambition": {
             "leader_land_fire": 1
         },
         
@@ -5959,7 +5959,7 @@
             "cavalry_power": 0.2,
             "cavalry_cost": -0.15
         },
-        "bonus": {
+        "Ambition": {
             "leader_land_shock": 1
         },
         
@@ -5991,7 +5991,7 @@
             "cavalry_power": 0.2,
             "cavalry_cost": -0.15
         },
-        "bonus": {
+        "Ambition": {
             "manpower_recovery_speed": 0.1
         },
         
@@ -6023,7 +6023,7 @@
             "cavalry_power": 0.2,
             "cavalry_cost": -0.15
         },
-        "bonus": {
+        "Ambition": {
             "land_forcelimit_modifier": 0.25
         },
         
@@ -6056,7 +6056,7 @@
             "hostile_attrition": 1,
             "diplomatic_reputation": 1
         },
-        "bonus": {
+        "Ambition": {
             "colonists": 1
         },
         
@@ -6089,7 +6089,7 @@
             "cavalry_power": 0.2,
             "cavalry_cost": -0.15
         },
-        "bonus": {
+        "Ambition": {
             "global_regiment_cost": -0.1
         },
         
@@ -6122,7 +6122,7 @@
             "cavalry_power": 0.1,
             "cavalry_cost": -0.2
         },
-        "bonus": {
+        "Ambition": {
             "infantry_power": 0.1
         },
         
@@ -6157,7 +6157,7 @@
             "production_efficiency": 0.1,
             "mercenary_cost": -0.15
         },
-        "bonus": {
+        "Ambition": {
             "manpower_recovery_speed": 0.2
         },
         
@@ -6191,7 +6191,7 @@
             "global_unrest": -1,
             "manpower_recovery_speed": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "war_exhaustion": -0.02
         },
         
@@ -6225,7 +6225,7 @@
             "mercenary_cost": -0.1,
             "land_attrition": -0.15
         },
-        "bonus": {
+        "Ambition": {
             "cav_to_inf_ratio": 0.3
         },
         
@@ -6260,7 +6260,7 @@
             "general_cost": -0.25,
             "diplomats": 1
         },
-        "bonus": {
+        "Ambition": {
             "improve_relation_modifier": 0.3
         },
         
@@ -6295,7 +6295,7 @@
             "improve_relation_modifier": 0.25,
             "num_accepted_cultures": 1
         },
-        "bonus": {
+        "Ambition": {
             "diplomatic_reputation": 1
         },
         
@@ -6330,7 +6330,7 @@
             "years_of_nationalism": -5,
             "diplomats": 1
         },
-        "bonus": {
+        "Ambition": {
             "land_maintenance_modifier": -0.1
         },
         
@@ -6365,7 +6365,7 @@
             "prestige_decay": -0.01,
             "global_unrest": -1
         },
-        "bonus": {
+        "Ambition": {
             "manpower_recovery_speed": 0.15
         },
         
@@ -6400,7 +6400,7 @@
             "movement_speed": 0.1,
             "army_tradition_decay": -0.01
         },
-        "bonus": {
+        "Ambition": {
             "war_exhaustion": -0.02
         },
         
@@ -6435,7 +6435,7 @@
             "prestige": 1,
             "land_forcelimit_modifier": 0.2
         },
-        "bonus": {
+        "Ambition": {
             "global_regiment_cost": -0.15
         },
         
@@ -6469,7 +6469,7 @@
             "infantry_cost": -0.1,
             "global_regiment_recruit_speed": -0.2
         },
-        "bonus": {
+        "Ambition": {
             "global_manpower_modifier": 0.2
         },
         
@@ -6504,7 +6504,7 @@
             "trade_efficiency": 0.1,
             "global_unrest": -1
         },
-        "bonus": {
+        "Ambition": {
             "ae_impact": -0.2
         },
         
@@ -6538,7 +6538,7 @@
             "state_maintenance_modifier": -0.25,
             "manpower_recovery_speed": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "global_unrest": -2
         },
         
@@ -6573,7 +6573,7 @@
             "movement_speed": 0.1,
             "infantry_cost": -0.2
         },
-        "bonus": {
+        "Ambition": {
             "global_trade_power": 0.2
         },
         
@@ -6607,7 +6607,7 @@
             "movement_speed": 0.1,
             "trade_steering": 0.15
         },
-        "bonus": {
+        "Ambition": {
             "leader_land_fire": 1
         },
         
@@ -6641,7 +6641,7 @@
             "trade_efficiency": 0.15,
             "trade_steering": 0.15
         },
-        "bonus": {
+        "Ambition": {
             "global_trade_goods_size_modifier": 0.1
         },
         
@@ -6674,7 +6674,7 @@
             "ae_impact": -0.1,
             "army_tradition_decay": -0.01
         },
-        "bonus": {
+        "Ambition": {
             "shock_damage_received": -0.1
         },
         
@@ -6708,7 +6708,7 @@
             "manpower_recovery_speed": 0.1,
             "placed_merchant_power": 10
         },
-        "bonus": {
+        "Ambition": {
             "global_prov_trade_power_modifier": 0.2
         },
         
@@ -6742,7 +6742,7 @@
             "global_manpower_modifier": 0.2,
             "legitimacy": 1
         },
-        "bonus": {
+        "Ambition": {
             "land_forcelimit_modifier": 0.25
         },
         
@@ -6776,7 +6776,7 @@
             "free_leader_pool": 1,
             "land_morale": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "legitimacy": 1
         },
         
@@ -6809,7 +6809,7 @@
             "production_efficiency": 0.1,
             "hostile_attrition": 1
         },
-        "bonus": {
+        "Ambition": {
             "trade_efficiency": 0.2
         },
         
@@ -6842,7 +6842,7 @@
             "diplomatic_reputation": 1,
             "global_prov_trade_power_modifier": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "state_maintenance_modifier": -0.25
         },
         
@@ -6875,7 +6875,7 @@
             "diplomatic_upkeep": 2,
             "legitimacy": 1
         },
-        "bonus": {
+        "Ambition": {
             "num_accepted_cultures": 1
         },
         
@@ -6908,7 +6908,7 @@
             "land_attrition": -0.1,
             "global_regiment_recruit_speed": -0.1
         },
-        "bonus": {
+        "Ambition": {
             "num_accepted_cultures": 1
         },
         
@@ -6942,7 +6942,7 @@
             "mercenary_cost": -0.1,
             "infantry_power": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "global_manpower_modifier": 0.25
         },
         
@@ -6975,7 +6975,7 @@
             "global_unrest": -1,
             "hostile_attrition": 1
         },
-        "bonus": {
+        "Ambition": {
             "defensiveness": 0.2
         },
         
@@ -7009,7 +7009,7 @@
             "trade_efficiency": 0.15,
             "reinforce_cost_modifier": -0.33
         },
-        "bonus": {
+        "Ambition": {
             "development_cost": -0.1
         },
         
@@ -7042,7 +7042,7 @@
             "loot_amount": 0.25,
             "movement_speed": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "land_maintenance_modifier": -0.1
         },
         
@@ -7076,7 +7076,7 @@
             "loot_amount": 0.25,
             "movement_speed": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "land_maintenance_modifier": -0.1
         },
         
@@ -7110,7 +7110,7 @@
             "legitimacy": 1,
             "global_regiment_cost": -0.1
         },
-        "bonus": {
+        "Ambition": {
             "army_tradition": 0.75
         },
         
@@ -7144,7 +7144,7 @@
             "production_efficiency": 0.15,
             "global_supply_limit_modifier": 0.25
         },
-        "bonus": {
+        "Ambition": {
             "development_cost": -0.1
         },
         
@@ -7178,7 +7178,7 @@
             "production_efficiency": 0.15,
             "global_supply_limit_modifier": 0.25
         },
-        "bonus": {
+        "Ambition": {
             "global_trade_goods_size_modifier": 0.1
         },
         
@@ -7213,7 +7213,7 @@
             "production_efficiency": 0.15,
             "global_supply_limit_modifier": 0.25
         },
-        "bonus": {
+        "Ambition": {
             "army_tradition": 0.5
         },
         
@@ -7248,7 +7248,7 @@
             "global_prov_trade_power_modifier": 0.1,
             "drill_gain_modifier": 0.33
         },
-        "bonus": {
+        "Ambition": {
             "global_manpower_modifier": 0.25
         },
         
@@ -7283,7 +7283,7 @@
             "years_of_nationalism": -5,
             "war_exhaustion": -0.02
         },
-        "bonus": {
+        "Ambition": {
             "land_maintenance_modifier": -0.1
         },
         
@@ -7318,7 +7318,7 @@
             "years_of_nationalism": -5,
             "war_exhaustion": -0.02
         },
-        "bonus": {
+        "Ambition": {
             "core_creation": -0.15
         },
         
@@ -7352,7 +7352,7 @@
             "core_creation": -0.1,
             "global_unrest": -1
         },
-        "bonus": {
+        "Ambition": {
             "governing_capacity_modifier": 0.1
         },
         
@@ -7386,7 +7386,7 @@
             "prestige_decay": -0.01,
             "movement_speed": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "legitimacy": 1
         },
         
@@ -7419,7 +7419,7 @@
             "hostile_attrition": 1,
             "leader_land_manuever": 1
         },
-        "bonus": {
+        "Ambition": {
             "culture_conversion_cost": -0.2
         },
         
@@ -7453,7 +7453,7 @@
             "build_cost": -0.2,
             "production_efficiency": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "diplomats": 1
         },
         
@@ -7487,7 +7487,7 @@
             "land_attrition": -0.15,
             "diplomatic_upkeep": 1
         },
-        "bonus": {
+        "Ambition": {
             "num_accepted_cultures": 2
         },
         
@@ -7520,7 +7520,7 @@
             "land_attrition": -0.1,
             "infantry_power": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "advisor_cost": -0.15
         },
         
@@ -7553,7 +7553,7 @@
             "prestige": 1,
             "infantry_power": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "global_manpower_modifier": 0.25
         },
         
@@ -7586,7 +7586,7 @@
             "shock_damage_received": -0.1,
             "defensiveness": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "years_of_nationalism": -5
         },
         
@@ -7621,7 +7621,7 @@
             "global_autonomy": -0.05,
             "inflation_reduction": 0.05
         },
-        "bonus": {
+        "Ambition": {
             "years_of_nationalism": -5
         },
         
@@ -7655,7 +7655,7 @@
             "movement_speed": 0.1,
             "merc_maintenance_modifier": -0.1
         },
-        "bonus": {
+        "Ambition": {
             "years_of_nationalism": -5
         },
         
@@ -7688,7 +7688,7 @@
             "war_exhaustion": -0.02,
             "production_efficiency": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "legitimacy": 1
         },
         
@@ -7722,7 +7722,7 @@
             "war_exhaustion": -0.02,
             "land_maintenance_modifier": -0.1
         },
-        "bonus": {
+        "Ambition": {
             "land_attrition": -0.1
         },
         
@@ -7757,7 +7757,7 @@
             "legitimacy": 1,
             "production_efficiency": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "global_autonomy": -0.05
         },
         
@@ -7791,7 +7791,7 @@
             "legitimacy": 1,
             "war_exhaustion": -0.02
         },
-        "bonus": {
+        "Ambition": {
             "infantry_power": 0.1
         },
         
@@ -7823,7 +7823,7 @@
             "core_creation": -0.1,
             "improve_relation_modifier": 0.25
         },
-        "bonus": {
+        "Ambition": {
             "global_regiment_cost": -0.1
         },
         
@@ -7856,7 +7856,7 @@
             "years_of_nationalism": -5,
             "war_exhaustion": -0.02
         },
-        "bonus": {
+        "Ambition": {
             "global_trade_goods_size_modifier": 0.1
         },
         
@@ -7890,7 +7890,7 @@
             "years_of_nationalism": -5,
             "war_exhaustion": -0.02
         },
-        "bonus": {
+        "Ambition": {
             "diplomats": 1
         },
         
@@ -7924,7 +7924,7 @@
             "years_of_nationalism": -5,
             "war_exhaustion": -0.02
         },
-        "bonus": {
+        "Ambition": {
             "core_creation": -0.15
         },
         
@@ -7958,7 +7958,7 @@
             "years_of_nationalism": -5,
             "war_exhaustion": -0.02
         },
-        "bonus": {
+        "Ambition": {
             "unjustified_demands": -0.25
         },
         
@@ -7992,7 +7992,7 @@
             "years_of_nationalism": -5,
             "war_exhaustion": -0.02
         },
-        "bonus": {
+        "Ambition": {
             "trade_steering": 0.25
         },
         
@@ -8026,7 +8026,7 @@
             "years_of_nationalism": -5,
             "war_exhaustion": -0.02
         },
-        "bonus": {
+        "Ambition": {
             "siege_ability": 0.1
         },
         
@@ -8060,7 +8060,7 @@
             "years_of_nationalism": -5,
             "war_exhaustion": -0.02
         },
-        "bonus": {
+        "Ambition": {
             "trade_steering": 0.2
         },
         
@@ -8094,7 +8094,7 @@
             "hostile_attrition": 1,
             "defensiveness": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "global_regiment_cost": -0.1
         },
         
@@ -8129,7 +8129,7 @@
             "naval_forcelimit_modifier": 0.2,
             "naval_maintenance_modifier": -0.2
         },
-        "bonus": {
+        "Ambition": {
             "colonists": 1
         },
         
@@ -8165,7 +8165,7 @@
             "legitimacy": 1,
             "defensiveness": 0.2
         },
-        "bonus": {
+        "Ambition": {
             "ae_impact": -0.15
         },
         
@@ -8199,7 +8199,7 @@
             "land_forcelimit_modifier": 0.25,
             "diplomatic_upkeep": 1
         },
-        "bonus": {
+        "Ambition": {
             "free_leader_pool": 1
         },
         
@@ -8233,7 +8233,7 @@
             "free_leader_pool": 1,
             "army_tradition_decay": -0.01
         },
-        "bonus": {
+        "Ambition": {
             "monarch_military_power": 1
         },
         
@@ -8268,7 +8268,7 @@
             "global_prov_trade_power_modifier": 0.1,
             "ship_durability": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "naval_morale": 0.15
         },
         
@@ -8303,7 +8303,7 @@
             "global_prov_trade_power_modifier": 0.1,
             "global_manpower_modifier": 0.2
         },
-        "bonus": {
+        "Ambition": {
             "placed_merchant_power": 5
         },
         
@@ -8337,7 +8337,7 @@
             "hostile_attrition": 1,
             "legitimacy": 1
         },
-        "bonus": {
+        "Ambition": {
             "core_creation": -0.1
         },
         
@@ -8372,7 +8372,7 @@
             "hostile_attrition": 1,
             "legitimacy": 1
         },
-        "bonus": {
+        "Ambition": {
             "core_creation": -0.1
         },
         
@@ -8407,7 +8407,7 @@
             "global_prov_trade_power_modifier": 0.15,
             "trade_efficiency": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "trade_steering": 0.25
         },
         
@@ -8442,7 +8442,7 @@
             "global_prov_trade_power_modifier": 0.15,
             "global_trade_goods_size_modifier": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "global_ship_cost": -0.1
         },
         
@@ -8476,7 +8476,7 @@
             "global_prov_trade_power_modifier": 0.15,
             "naval_morale": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "yearly_absolutism": 0.25
         },
         
@@ -8511,7 +8511,7 @@
             "global_prov_trade_power_modifier": 0.15,
             "legitimacy": 1
         },
-        "bonus": {
+        "Ambition": {
             "colonists": 1
         },
         
@@ -8545,7 +8545,7 @@
             "global_prov_trade_power_modifier": 0.15,
             "naval_forcelimit_modifier": 0.25
         },
-        "bonus": {
+        "Ambition": {
             "global_trade_goods_size_modifier": 0.1
         },
         
@@ -8578,7 +8578,7 @@
             "production_efficiency": 0.15,
             "diplomatic_upkeep": 1
         },
-        "bonus": {
+        "Ambition": {
             "colonists": 1
         },
         
@@ -8612,7 +8612,7 @@
             "light_ship_power": 0.1,
             "naval_forcelimit_modifier": 0.25
         },
-        "bonus": {
+        "Ambition": {
             "colonists": 1
         },
         
@@ -8646,7 +8646,7 @@
             "navy_tradition": 1,
             "trade_efficiency": 0.15
         },
-        "bonus": {
+        "Ambition": {
             "production_efficiency": 0.15
         },
         
@@ -8680,7 +8680,7 @@
             "naval_forcelimit_modifier": 0.25,
             "shock_damage": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "colonists": 1
         },
         
@@ -8713,7 +8713,7 @@
             "naval_forcelimit_modifier": 0.25,
             "global_manpower_modifier": 0.2
         },
-        "bonus": {
+        "Ambition": {
             "colonists": 1
         },
         
@@ -8746,7 +8746,7 @@
             "naval_forcelimit_modifier": 0.25,
             "naval_morale": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "colonists": 1
         },
         
@@ -8781,7 +8781,7 @@
             "legitimacy": 1,
             "republican_tradition": 0.5
         },
-        "bonus": {
+        "Ambition": {
             "global_manpower_modifier": 0.2
         },
         
@@ -8816,7 +8816,7 @@
             "trade_steering": 0.15,
             "cavalry_power": 0.2
         },
-        "bonus": {
+        "Ambition": {
             "advisor_cost": -0.15
         },
         
@@ -8850,7 +8850,7 @@
             "global_missionary_strength": 0.02,
             "global_manpower_modifier": 0.25
         },
-        "bonus": {
+        "Ambition": {
             "warscore_cost_vs_other_religion": -0.1
         },
         
@@ -8889,7 +8889,7 @@
             "galley_power": 0.25,
             "warscore_cost_vs_other_religion": -0.15
         },
-        "bonus": {
+        "Ambition": {
             "free_dip_policy": 1
         },
         
@@ -8924,7 +8924,7 @@
             "yearly_corruption": -0.1,
             "years_of_nationalism": -5
         },
-        "bonus": {
+        "Ambition": {
             "manpower_recovery_speed": 0.2
         },
         
@@ -8961,7 +8961,7 @@
             "trade_efficiency": 0.2,
             "navy_tradition": 1
         },
-        "bonus": {
+        "Ambition": {
             "colonists": 1
         },
         
@@ -8997,7 +8997,7 @@
             "placed_merchant_power": 10,
             "may_perform_slave_raid": true
         },
-        "bonus": {
+        "Ambition": {
             "defensiveness": 0.2
         },
         
@@ -9033,7 +9033,7 @@
             "navy_tradition": 1,
             "infantry_power": 0.15
         },
-        "bonus": {
+        "Ambition": {
             "core_creation": -0.2
         },
         
@@ -9068,7 +9068,7 @@
             "war_exhaustion": -0.02,
             "governing_capacity_modifier": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "monarch_military_power": 1
         },
         
@@ -9103,7 +9103,7 @@
             "discipline": 0.05,
             "core_creation": -0.15
         },
-        "bonus": {
+        "Ambition": {
             "land_forcelimit_modifier": 0.25
         },
 
@@ -9138,7 +9138,7 @@
             "navy_tradition_decay": -0.01,
             "global_naval_engagement_modifier": 0.2
         },
-        "bonus": {
+        "Ambition": {
             "land_forcelimit_modifier": 0.25
         },
 
@@ -9175,7 +9175,7 @@
             "diplomatic_reputation": 1,
             "global_trade_power": 0.2
         },
-        "bonus": {
+        "Ambition": {
             "land_forcelimit_modifier": 0.25
         },
         
@@ -9209,7 +9209,7 @@
             "hostile_attrition": 1,
             "discipline": 0.05
         },
-        "bonus": {
+        "Ambition": {
             "land_forcelimit_modifier": 0.25},
         
         "sca_dockyards_of_scandinavia": {
@@ -9241,7 +9241,7 @@
             "hostile_attrition": 1,
             "land_attrition": -0.2
         },
-        "bonus": {
+        "Ambition": {
             "land_forcelimit_modifier": 0.25},
         
         "sca_dockyards_of_scandinavia": {
@@ -9273,7 +9273,7 @@
             "may_perform_slave_raid": true,
             "heavy_ship_power": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "land_forcelimit_modifier": 0.25},
         
         "sca_dockyards_of_scandinavia": {
@@ -9306,7 +9306,7 @@
             "hostile_attrition": 1,
             "land_attrition": -0.2
         },
-        "bonus": {
+        "Ambition": {
             "global_trade_goods_size_modifier": 0.1
         },
         
@@ -9339,7 +9339,7 @@
             "development_cost": -0.1,
             "global_manpower_modifier": 0.2
         },
-        "bonus": {
+        "Ambition": {
             "years_of_nationalism": -5
         },
         
@@ -9372,7 +9372,7 @@
             "hostile_attrition": 1,
             "trade_efficiency": 0.15
         },
-        "bonus": {
+        "Ambition": {
             "global_trade_goods_size_modifier": 0.1
         },
         
@@ -9404,7 +9404,7 @@
             "development_cost": -0.1,
             "years_of_nationalism": -5
         },
-        "bonus": {
+        "Ambition": {
             "movement_speed": 0.15
         },
         
@@ -9437,7 +9437,7 @@
             "development_cost": -0.1,
             "land_attrition": -0.2
         },
-        "bonus": {
+        "Ambition": {
             "inflation_reduction": 0.1
         },
         
@@ -9470,7 +9470,7 @@
             "trade_efficiency": 0.15,
             "global_prov_trade_power_modifier": 0.15
         },
-        "bonus": {
+        "Ambition": {
             "development_cost": -0.1
         },
         
@@ -9503,7 +9503,7 @@
             "hostile_attrition": 1,
             "defensiveness": 0.15
         },
-        "bonus": {
+        "Ambition": {
             "movement_speed": 0.15
         },
         
@@ -9537,7 +9537,7 @@
             "infantry_power": 0.1,
             "global_autonomy": -0.05
         },
-        "bonus": {
+        "Ambition": {
             "legitimacy": 1,
             "republican_tradition": 0.5
         },
@@ -9570,7 +9570,7 @@
             "defensiveness": 0.25,
             "movement_speed": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "land_attrition": -0.2
         },
         
@@ -9604,7 +9604,7 @@
             "production_efficiency": 0.1,
             "hostile_attrition": 1
         },
-        "bonus": {
+        "Ambition": {
             "diplomatic_reputation": 1
         },
         
@@ -9637,7 +9637,7 @@
             "global_manpower_modifier": 0.2,
             "defensiveness": 0.25
         },
-        "bonus": {
+        "Ambition": {
             "naval_forcelimit_modifier": 0.25
         },
         
@@ -9671,7 +9671,7 @@
             "land_forcelimit_modifier": 0.25,
             "manpower_recovery_speed": 0.15
         },
-        "bonus": {
+        "Ambition": {
             "discipline": 0.05
         },
         
@@ -9705,7 +9705,7 @@
             "may_perform_slave_raid": true,
             "naval_morale": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "infantry_power": 0.1
         },
         
@@ -9740,7 +9740,7 @@
             "heavy_ship_power": 0.1,
             "trade_efficiency": 0.15
         },
-        "bonus": {
+        "Ambition": {
             "global_tariffs": 0.2
         },
         
@@ -9775,7 +9775,7 @@
             "missionaries": 1,
             "defensiveness": 0.25
         },
-        "bonus": {
+        "Ambition": {
             "fort_maintenance_modifier": -0.2
         },
         
@@ -9808,7 +9808,7 @@
             "galley_power": 0.15,
             "tolerance_own": 2
         },
-        "bonus": {
+        "Ambition": {
             "naval_morale": 0.15
         },
         
@@ -9843,7 +9843,7 @@
             "global_prov_trade_power_modifier": 0.25,
             "naval_morale": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "ship_durability": 0.1
         },
         
@@ -9880,7 +9880,7 @@
             "religious_unity": 0.25,
             "diplomatic_upkeep": 1
         },
-        "bonus": {
+        "Ambition": {
             "global_trade_power": 0.2
         },
         
@@ -9914,7 +9914,7 @@
             "cavalry_power": 0.2,
             "hostile_attrition": 1
         },
-        "bonus": {
+        "Ambition": {
             "legitimacy": 1
         },
         
@@ -9947,7 +9947,7 @@
             "cav_to_inf_ratio": 0.3,
             "cavalry_power": 0.2
         },
-        "bonus": {
+        "Ambition": {
             "core_creation": -0.15
         },
         
@@ -9983,7 +9983,7 @@
             "hostile_attrition": 1,
             "promote_culture_cost": -0.75
         },
-        "bonus": {
+        "Ambition": {
             "land_maintenance_modifier": -0.1
         },
         
@@ -10016,7 +10016,7 @@
             "no_religion_penalty": true,
             "land_morale": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "trade_efficiency": 0.15
         },
         
@@ -10051,7 +10051,7 @@
             "land_attrition": -0.2,
             "movement_speed": 0.1
         },
-        "bonus": {
+        "Ambition": {
             "years_of_nationalism": -5
         },
         
@@ -10085,7 +10085,7 @@
             "hostile_attrition": 1,
             "navy_tradition": 1
         },
-        "bonus": {
+        "Ambition": {
             "shock_damage_received": -0.1
         },
         
@@ -10119,7 +10119,7 @@
             "trade_efficiency": 0.15,
             "movement_speed": 0.15
         },
-        "bonus": {
+        "Ambition": {
             "global_unrest": -2
         },
         
@@ -10152,7 +10152,7 @@
             "production_efficiency": 0.1,
             "navy_tradition": 1
         },
-        "bonus": {
+        "Ambition": {
             "land_morale": 0.1
         },
         
