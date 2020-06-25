@@ -8,7 +8,7 @@
             "land_maintenance_modifier": -0.1
         },
         
-        "free": true,
+        
         "picking_up_the_pieces": {
             "land_morale": 0.1
         },
@@ -43,7 +43,7 @@
             "state_maintenance_modifier": -0.25
         },
         
-        "free": true,
+        
         "confederation_of_turkic_and_mongols": {
             "core_creation": -0.25
         },
@@ -78,7 +78,7 @@
             "governing_capacity_modifier": 0.1
         },
         
-        "free": true,
+        
         "four_major_tribes": {
             "land_maintenance_modifier": -0.05
         },
@@ -113,7 +113,7 @@
             "land_forcelimit_modifier": 0.25
         },
         
-        "free": true,
+        
         "reign_over_many_tribes": {
             "legitimacy": 1,
             "horde_unity": 1
@@ -147,7 +147,7 @@
             "army_tradition": 1
         },
         
-        "free": true,
+        
         "legacy_of_livonian_brothers_sword": {
             "devotion": 1,
             "legitimacy": 1,
@@ -182,7 +182,7 @@
             "colonists": 1
         },
         
-        "free": true,
+        
         "heir_to_srivijaya": {
             "prestige": 1,
             "core_creation": -0.1
@@ -216,7 +216,7 @@
             "global_manpower_modifier": 0.25
         },
         
-        "free": true,
+        
         "history_with_pueblo_people": {
             "same_culture_advisor_cost": -0.2
         },
@@ -251,7 +251,7 @@
             "fire_damage": 0.1
         },
         
-        "free": true,
+        
         "founded_in_fire": {
             "land_morale": 0.1
         },
@@ -284,7 +284,7 @@
             "manpower_recovery_speed": 0.15
         },
         
-        "free": true,
+        
         "marrakesh_the_red": {
             "global_unrest": -1
         },
@@ -317,7 +317,7 @@
             "religious_unity": 0.25
         },
         
-        "free": true,
+        
         "shattered_empire": {
             "ae_impact": -0.15
         },
@@ -350,7 +350,7 @@
             "merchants": 1
         },
         
-        "free": true,
+        
         "contested_north": {
             "land_morale": 0.05,
             "infantry_power": 0.05
@@ -385,7 +385,7 @@
             "global_missionary_strength": 0.02
         },
         
-        "free": true,
+        
         "roman_history": {
             "prestige": 1
         },
@@ -418,7 +418,7 @@
             "development_cost": -0.1
         },
         
-        "free": true,
+        
         "extensive_history_in_arabia": {
             "movement_speed": 0.15
         },
@@ -454,7 +454,7 @@
             "defensiveness": 0.2
         },
         
-        "free": true,
+        
         "glory_of_the_taruma_kingdom": {
             "land_morale": 0.1
         },
@@ -488,7 +488,7 @@
             "land_forcelimit_modifier": 0.25
         },
         
-        "free": true,
+        
         "the_nakota": {
             "manpower_recovery_speed": 0.1
         },
@@ -521,7 +521,7 @@
             "discipline": 0.05
         },
         
-        "free": true,
+        
         "broke_away_from_the_shoshone": {
             "legitimacy": 1,
             "prestige": 1
@@ -558,7 +558,7 @@
             "global_unrest": -2
         },
         
-        "free": true,
+        
         "confluence_between_three_religions": {
             "religious_unity": 0.25
         },
@@ -592,7 +592,7 @@
             "possible_policy": 1
         },
         
-        "free": true,
+        
         "bands_and_clans": {
             "improve_relation_modifier": 0.2
         },
@@ -625,7 +625,7 @@
             "diplomats": 1
         },
         
-        "free": true,
+        
         "thanks_be_to_otto_i": {
             "diplomatic_reputation": 1
         },
@@ -660,7 +660,7 @@
             "missionary_maintenance_cost": -0.2
         },
         
-        "free": true,
+        
         "primas_germinae": {
             "diplomats": 1
         },
@@ -693,7 +693,7 @@
             "global_prov_trade_power_modifier": 0.2
         },
         
-        "free": true,
+        
         "legacy_of_imperial_papal_sidings": {
             "improve_relation_modifier": 0.25
         },
@@ -727,7 +727,7 @@
             "province_warscore_cost": -0.1
         },
         
-        "free": true,
+        
         "hotly_contested_land": {
             "land_morale": 0.1
         },
@@ -762,7 +762,7 @@
             "yearly_absolutism": 0.25
         },
         
-        "free": true,
+        
         "first_of_the_sea_sultanates": {
             "tolerance_heathen": 3
         },
@@ -796,7 +796,7 @@
             "land_maintenance_modifier": -0.1
         },
         
-        "free": true,
+        
         "keep_castellans": {
             "fort_maintenance_modifier": -0.2,
             "global_garrison_growth": 0.1
@@ -830,7 +830,7 @@
             "global_unrest": -1
         },
         
-        "free": true,
+        
         "constitution_of_1179": {
             "republican_tradition": 0.5
         },
@@ -863,7 +863,7 @@
             "defensiveness": 0.15
         },
         
-        "free": true,
+        
         "maintain_the_house_of_este": {
             "legitimacy": 1,
             "republican_tradition": 0.5
@@ -897,7 +897,7 @@
             "manpower_recovery_speed": 0.1
         },
         
-        "free": true,
+        
         "hre_border_state": {
             "global_institution_spread": 0.1
         },
@@ -931,7 +931,7 @@
             "trade_steering": 0.1
         },
         
-        "free": true,
+        
         "former_hindu_center": {
             "religious_unity": 0.2
         },
@@ -965,7 +965,7 @@
             "mercenary_discipline": 0.025
         },
         
-        "free": true,
+        
         "legacy_of_the_investiture_controversy": {
             "prestige": 1,
             "advisor_pool": 1
@@ -1000,7 +1000,7 @@
             "global_manpower_modifier": 0.25
         },
         
-        "free": true,
+        
         "remember_the_sarir_dynasty": {
             "legitimacy": 1
         },
@@ -1033,7 +1033,7 @@
             "global_manpower_modifier": 0.25
         },
         
-        "free": true,
+        
         "age_of_mercenaries": {
             "merc_maintenance_modifier": -0.1,
             "mercenary_discipline": 0.025
@@ -1067,7 +1067,7 @@
             "manpower_recovery_speed": 0.15
         },
         
-        "free": true,
+        
         "treaty_of_verdun": {
             "core_creation": -0.1
         },
@@ -1100,7 +1100,7 @@
             "fire_damage_received": -0.1
         },
         
-        "free": true,
+        
         "revenge_against_livonian_order": {
             "land_morale": 0.1
         },
@@ -1134,7 +1134,7 @@
             "war_exhaustion": -0.02
         },
         
-        "free": true,
+        
         "ancient_history": {
             "land_attrition": -0.1,
             "prestige": 1
@@ -1167,7 +1167,7 @@
             "num_accepted_cultures": 1
         },
         
-        "free": true,
+        
         "defense_of_mesopotamia": {
             "land_morale": 0.1
         },
@@ -1201,7 +1201,7 @@
             "naval_maintenance_modifier": -0.2
         },
         
-        "free": true,
+        
         "naval_power_of_anatolia": {
             "navy_tradition": 0.5,
             "galley_power": 0.1
@@ -1235,7 +1235,7 @@
             "infantry_power": 0.1
         },
         
-        "free": true,
+        
         "eastern_beylik": {
             "mercenary_cost": -0.1,
             "merc_maintenance_modifier": -0.1
@@ -1270,7 +1270,7 @@
             "free_leader_pool": 1
         },
         
-        "free": true,
+        
         "after_the_decline_of_rum": {
             "land_morale": 0.1,
             "prestige": 1
@@ -1304,7 +1304,7 @@
             "global_unrest": -2
         },
         
-        "free": true,
+        
         "beyond_anatolia": {
             "diplomatic_upkeep": 1,
             "diplomatic_reputation": 1
@@ -1338,7 +1338,7 @@
             "global_trade_goods_size_modifier": 0.1
         },
         
-        "free": true,
+        
         "core_at_adana": {
             "defensiveness": 0.1,
             "production_efficiency": 0.1
@@ -1372,7 +1372,7 @@
             "naval_maintenance_modifier": -0.2
         },
         
-        "free": true,
+        
         "raids_at_sea": {
             "may_perform_slave_raid": true,
             "navy_tradition": 1
@@ -1406,7 +1406,7 @@
             "possible_policy": 1
         },
         
-        "free": true,
+        
         "sarukhan_bey": {
             "legitimacy": 1,
             "global_unrest": -1
@@ -1440,7 +1440,7 @@
             "years_of_nationalism": -5
         },
         
-        "free": true,
+        
         "zoroastrian_legacy": {
             "global_unrest": -2
         },
@@ -1472,7 +1472,7 @@
             "technology_cost": -0.1
         },
         
-        "free": true,
+        
         "nassau_castle": {
             "defensiveness": 0.2
         },
@@ -1506,7 +1506,7 @@
             "cavalry_cost": -0.15
         },
         
-        "free": true,
+        
         "janibek_and_kerei_khan": {
             "leader_land_shock": 1
         },
@@ -1538,7 +1538,7 @@
             "years_of_nationalism": -5
         },
         
-        "free": true,
+        
         "spanish_ties": {
             "trade_efficiency": 0.15
         },
@@ -1572,7 +1572,7 @@
             "global_autonomy": -0.05
         },
         
-        "free": true,
+        
         "islam_and_berber_society": {
             "legitimacy": 1,
             "republican_tradition": 0.5,
@@ -1608,7 +1608,7 @@
             "heavy_ship_power": 0.1
         },
         
-        "free": true,
+        
         "viking_roots": {
             "may_perform_slave_raid": true,
             "may_explore": true
@@ -1646,7 +1646,7 @@
             "global_prov_trade_power_modifier": 0.1
         },
         
-        "free": true,
+        
         "what_may_have_been_vijayapura_and_po_ni": {
             "same_culture_advisor_cost": -0.2
         },
@@ -1680,7 +1680,7 @@
             "global_prov_trade_power_modifier": 0.2
         },
         
-        "free": true,
+        
         "religious_tolerance_of_the_past": {
             "tolerance_heathen": 3
         },
@@ -1715,7 +1715,7 @@
             "num_accepted_cultures": 1
         },
         
-        "free": true,
+        
         "carpet_and_rug_industry": {
             "production_efficiency": 0.1
         },
@@ -1747,7 +1747,7 @@
             "artillery_power": 0.1
         },
         
-        "free": true,
+        
         "cohesion_in_the_deccan": {
             "num_accepted_cultures": 2
         },
@@ -1780,7 +1780,7 @@
             "religious_unity": 0.25
         },
         
-        "free": true,
+        
         "persian_origins": {
             "idea_cost": -0.1
         },
@@ -1813,7 +1813,7 @@
             "num_accepted_cultures": 2
         },
         
-        "free": true,
+        
         "sufis_of_bijapur": {
             "religious_unity": 0.15,
             "monthly_piety": -0.001
@@ -1847,7 +1847,7 @@
             "global_autonomy": -0.05
         },
         
-        "free": true,
+        
         "fall_of_bahmanis": {
             "land_forcelimit_modifier": 0.25
         },
@@ -1879,7 +1879,7 @@
             "same_culture_advisor_cost": -0.2
         },
         
-        "free": true,
+        
         "battle_of_toulouse_721": {
             "land_morale": 0.1,
             "prestige": 1
@@ -1913,7 +1913,7 @@
             "same_culture_advisor_cost": -0.2
         },
         
-        "free": true,
+        
         "successor_to_the_visigoths": {
             "global_autonomy": -0.05,
             "legitimacy": 1
@@ -1947,7 +1947,7 @@
             "same_culture_advisor_cost": -0.2
         },
         
-        "free": true,
+        
         "ancient_memories": {
             "stability_cost_modifier": -0.1,
             "army_tradition_decay": -0.01
@@ -1981,7 +1981,7 @@
             "war_exhaustion": -0.02
         },
         
-        "free": true,
+        
         "seat_of_the_avignon_papacy": {
             "land_morale": 0.1,
             "years_of_nationalism": -5
@@ -2017,7 +2017,7 @@
             "same_culture_advisor_cost": -0.2
         },
         
-        "free": true,
+        
         "siegneur_de_bourbon": {
             "prestige": 1,
             "legitimacy": 1
@@ -2051,7 +2051,7 @@
             "same_culture_advisor_cost": -0.2
         },
         
-        "free": true,
+        
         "ancient_contention": {
             "drill_gain_modifier": 0.25,
             "defensiveness": 0.1
@@ -2085,7 +2085,7 @@
             "same_culture_advisor_cost": -0.2
         },
         
-        "free": true,
+        
         "from_the_crusades": {
             "infantry_power": 0.1,
             "army_tradition": 0.5
@@ -2119,7 +2119,7 @@
             "same_culture_advisor_cost": -0.2
         },
         
-        "free": true,
+        
         "grand_aristocracy": {
             "advisor_pool": 1,
             "army_tradition": 0.5
@@ -2154,7 +2154,7 @@
             "same_culture_advisor_cost": -0.2
         },
         
-        "free": true,
+        
         "feudal_and_hre_roots": {
             "global_manpower_modifier": 0.1,
             "mercenary_cost": -0.1
@@ -2188,7 +2188,7 @@
             "same_culture_advisor_cost": -0.2
         },
         
-        "free": true,
+        
         "marriage_and_purchase": {
             "diplomatic_reputation": 1,
             "global_tax_modifier": 0.1
@@ -2222,7 +2222,7 @@
             "same_culture_advisor_cost": -0.2
         },
         
-        "free": true,
+        
         "sophias_power": {
             "diplomatic_reputation": 1,
             "spy_offence": 0.1
@@ -2256,7 +2256,7 @@
             "same_culture_advisor_cost": -0.2
         },
         
-        "free": true,
+        
         "at_the_confluence_of_three": {
             "diplomatic_reputation": 1,
             "navy_tradition": 1
@@ -2290,7 +2290,7 @@
             "same_culture_advisor_cost": -0.2
         },
         
-        "free": true,
+        
         "duekdom_of_the_royal_family": {
             "state_maintenance_modifier": -0.2,
             "global_autonomy": -0.05
@@ -2324,7 +2324,7 @@
             "same_culture_advisor_cost": -0.2
         },
         
-        "free": true,
+        
         "proximity_to_paris": {
             "global_tax_modifier": 0.1,
             "global_autonomy": -0.05
@@ -2358,7 +2358,7 @@
             "governing_capacity_modifier": 0.1
         },
         
-        "free": true,
+        
         "winners_of_the_three_kingdoms": {
             "army_tradition_decay": -0.01,
             "harsh_treatment_cost": -0.25
@@ -2392,7 +2392,7 @@
             "war_exhaustion": -0.02
         },
         
-        "free": true,
+        
         "ancient_shu_state": {
             "prestige": 1,
             "diplomatic_reputation": 1
@@ -2426,7 +2426,7 @@
             "colonists": 1
         },
         
-        "free": true,
+        
         "history_of_independence": {
             "core_creation": -0.1,
             "army_tradition": 0.5
@@ -2460,7 +2460,7 @@
             "manpower_recovery_speed": 0.15
         },
         
-        "free": true,
+        
         "foundation_in_myths": {
             "prestige": 1,
             "ae_impact": -0.1
@@ -2494,7 +2494,7 @@
             "discipline": 0.05
         },
         
-        "free": true,
+        
         "one_of_the_four_ancient_powers": {
             "core_creation": -0.1,
             "ae_impact": -0.1
@@ -2528,7 +2528,7 @@
             "manpower_recovery_speed": 0.15
         },
         
-        "free": true,
+        
         "proclaim_daxi": {
             "core_creation": -0.1,
             "army_tradition": 0.5
@@ -2562,7 +2562,7 @@
             "same_culture_advisor_cost": -0.2
         },
         
-        "free": true,
+        
         "great_shun": {
             "ae_impact": -0.1,
             "global_manpower_modifier": 0.25
@@ -2597,7 +2597,7 @@
             "global_autonomy": -0.05
         },
         
-        "free": true,
+        
         "the_question_of_ming_succession": {
             "legitimacy": 1,
             "global_unrest": -1
@@ -2632,7 +2632,7 @@
             "governing_capacity_modifier": 0.1
         },
         
-        "free": true,
+        
         "golden_age_of_zhongguo": {
             "prestige": 1,
             "land_morale": 0.1
@@ -2668,7 +2668,7 @@
             "global_prov_trade_power_modifier": 0.1
         },
         
-        "free": true,
+        
         "minister_of_the_south": {
             "defensiveness": 0.15,
             "navy_tradition": 1
@@ -2702,7 +2702,7 @@
             "advisor_cost": -0.15
         },
         
-        "free": true,
+        
         "an_lushan_rebellion": {
             "infantry_cost": -0.1,
             "cavalry_cost": -0.1
@@ -2737,7 +2737,7 @@
             "global_manpower_modifier": 0.15
         },
         
-        "free": true,
+        
         "after_the_tang_dynasty": {
             "prestige": 1,
             "province_warscore_cost": -0.05
@@ -2772,7 +2772,7 @@
             "development_cost": -0.1
         },
         
-        "free": true,
+        
         "original_people_of_guangxi": {
             "hostile_attrition": 1,
             "land_attrition": -0.15
@@ -2808,7 +2808,7 @@
             "core_creation": -0.2
         },
         
-        "free": true,
+        
         "foundations_from_the_zhou": {
             "prestige": 1,
             "cavalry_cost": -0.1
@@ -2842,7 +2842,7 @@
             "fort_maintenance_modifier": -0.2
         },
         
-        "free": true,
+        
         "migrations_of_the_hakka": {
             "movement_speed": 0.1,
             "leader_land_manuever": 1
@@ -2876,7 +2876,7 @@
             "navy_tradition": 1
         },
         
-        "free": true,
+        
         "resisting_central_chinese_authority": {
             "hostile_attrition": 1,
             "may_perform_slave_raid_on_same_religion": true
@@ -2910,7 +2910,7 @@
             "land_forcelimit_modifier": 0.25
         },
         
-        "free": true,
+        
         "field_experience_of_wu_sangui": {
             "mil_tech_cost_modifier": -0.05,
             "land_maintenance_modifier": -0.1
@@ -2944,7 +2944,7 @@
             "development_cost": -0.1
         },
         
-        "free": true,
+        
         "rivals_of_the_chola": {
             "land_morale": 0.1
         },
@@ -2978,7 +2978,7 @@
             "global_trade_goods_size_modifier": 0.1
         },
         
-        "free": true,
+        
         "descendants_of_the_ay_dynasty": {
             "prestige_decay": -0.01
         },
@@ -3012,7 +3012,7 @@
             "legitimacy": 1
         },
         
-        "free": true,
+        
         "we_are_the_mushika_dynasty": {
             "prestige_decay": -0.01
         },
@@ -3044,7 +3044,7 @@
             "land_forcelimit_modifier": 0.25
         },
         
-        "free": true,
+        
         "partition_of_the_second_cheras": {
             "legitimacy": 1
         },
@@ -3078,7 +3078,7 @@
             "fire_damage": 0.1
         },
         
-        "free": true,
+        
         "revenge_against_the_zamorin_of_calicut": {
             "land_morale": 0.1
         },
@@ -3112,7 +3112,7 @@
             "religious_unity": 0.25
         },
         
-        "free": true,
+        
         "ties_to_vijayanagar": {
             "legitimacy": 1
         },
@@ -3145,7 +3145,7 @@
             "free_dip_policy": 1
         },
         
-        "free": true,
+        
         "aided_by_vijayanagar": {
             "land_forcelimit_modifier": 0.25
         },
@@ -3178,7 +3178,7 @@
             "tolerance_heathen": 3
         },
         
-        "free": true,
+        
         "taking_advantage_of_vijayanagar_decline": {
             "unjustified_demands": -0.2
         },
@@ -3212,7 +3212,7 @@
             "global_institution_spread": 0.1
         },
         
-        "free": true,
+        
         "against_the_marathas": {
             "army_tradition": 0.5
         },
@@ -3245,7 +3245,7 @@
             "navy_tradition": 1
         },
         
-        "free": true,
+        
         "memory_of_koimala": {
             "legitimacy": 1,
             "navy_tradition_decay": -0.01
@@ -3281,7 +3281,7 @@
             "development_cost": -0.1
         },
         
-        "free": true,
+        
         "memory_of_magha_the_tyrant": {
             "prestige": 0.5,
             "harsh_treatment_cost": -0.2
@@ -3317,7 +3317,7 @@
             "global_trade_goods_size_modifier": 0.1
         },
         
-        "free": true,
+        
         "tribes_of_chandrapur": {
             "manpower_recovery_speed": 0.1
         },
@@ -3350,7 +3350,7 @@
             "land_forcelimit_modifier": 0.25
         },
         
-        "free": true,
+        
         "mythical_kings": {
             "prestige": 1
         },
@@ -3384,7 +3384,7 @@
             "free_leader_pool": 1
         },
         
-        "free": true,
+        
         "rajput_caste_heritage": {
             "army_tradition_decay": -0.01
         },
@@ -3418,7 +3418,7 @@
             "diplomats": 1
         },
         
-        "free": true,
+        
         "former_fuedatory_of_delhi": {
             "global_tax_modifier": 0.15
         },
@@ -3452,7 +3452,7 @@
             "ae_impact": -0.15
         },
         
-        "free": true,
+        
         "rao_underneath_the_sisodias": {
             "global_regiment_cost": -0.1
         },
@@ -3486,7 +3486,7 @@
             "trade_efficiency": 0.15
         },
         
-        "free": true,
+        
         "siege_after_siege_after_siege": {
             "siege_ability": 0.1,
             "defensiveness": 0.1
@@ -3521,7 +3521,7 @@
             "global_autonomy": -0.05
         },
         
-        "free": true,
+        
         "keepers_from_centuries_before": {
             "prestige_decay": -0.01,
             "land_morale": 0.05
@@ -3555,7 +3555,7 @@
             "merc_maintenance_modifier": -0.15
         },
         
-        "free": true,
+        
         "rajput_and_malvi_influences": {
             "army_tradition": 0.5
         },
@@ -3589,7 +3589,7 @@
             "num_accepted_cultures": 1
         },
         
-        "free": true,
+        
         "sufi_shrines_rebuilt": {
             "religious_unity": 0.25
         },
@@ -3622,7 +3622,7 @@
             "fire_damage": 0.1
         },
         
-        "free": true,
+        
         "succeed_the_gangas": {
             "prestige": 1,
             "heir_chance": 0.5
@@ -3656,7 +3656,7 @@
             "manpower_recovery_speed": 0.1
         },
         
-        "free": true,
+        
         "founded_under_the_protection_of_danteshwari": {
             "prestige": 1,
             "tolerance_own": 1
@@ -3690,7 +3690,7 @@
             "state_maintenance_modifier": -0.25
         },
         
-        "free": true,
+        
         "nagavanshi_and_nagvanshi": {
             "legitimacy": 1
         },
@@ -3722,7 +3722,7 @@
             "development_cost": -0.1
         },
         
-        "free": true,
+        
         "building_up_ratnapura": {
             "build_cost": -0.2
         },
@@ -3756,7 +3756,7 @@
             "shock_damage": 0.1
         },
         
-        "free": true,
+        
         "feudatory_of_the_gajapati_kingdom": {
             "development_cost": -0.1
         },
@@ -3789,7 +3789,7 @@
             "ae_impact": -0.1
         },
         
-        "free": true,
+        
         "devotion_via_temples": {
             "global_autonomy": -0.05
         },
@@ -3821,7 +3821,7 @@
             "global_manpower_modifier": 0.2
         },
         
-        "free": true,
+        
         "outside_relations_mayurbhanj_rajputana": {
             "diplomatic_reputation": 1
         },
@@ -3853,7 +3853,7 @@
             "land_maintenance_modifier": -0.1
         },
         
-        "free": true,
+        
         "confluence_of_past_powers": {
             "build_cost": -0.1,
             "prestige": 1
@@ -3886,7 +3886,7 @@
             "manpower_recovery_speed": 0.15
         },
         
-        "free": true,
+        
         "relations_to_patna_chauhans": {
             "advisor_pool": 1,
             "prestige": 0.5
@@ -3919,7 +3919,7 @@
             "army_tradition": 0.5
         },
         
-        "free": true,
+        
         "legendary_9_year_siege_from_delhi": {
             "prestige": 1,
             "fort_maintenance_modifier": -0.1
@@ -3953,7 +3953,7 @@
             "land_maintenance_modifier": -0.1
         },
         
-        "free": true,
+        
         "rajput_lands": {
             "global_supply_limit_modifier": 0.25,
             "army_tradition": 0.25
@@ -3987,7 +3987,7 @@
             "legitimacy": 1
         },
         
-        "free": true,
+        
         "assamese_literary_influences": {
             "global_institution_spread": 0.1
         },
@@ -4019,7 +4019,7 @@
             "defensiveness": 0.2
         },
         
-        "free": true,
+        
         "the_land_of_jungle_kingdoms": {
             "fabricate_claims_cost": -0.25
         },
@@ -4052,7 +4052,7 @@
             "global_manpower_modifier": 0.2
         },
         
-        "free": true,
+        
         "descendants_of_the_solar_dynasty": {
             "prestige": 1
         },
@@ -4085,7 +4085,7 @@
             "global_manpower_modifier": 0.2
         },
         
-        "free": true,
+        
         "past_raids_against_us": {
             "defensiveness": 0.15
         },
@@ -4118,7 +4118,7 @@
             "land_forcelimit_modifier": 0.2
         },
         
-        "free": true,
+        
         "gujuarti_connections": {
             "trade_steering": 0.15
         },
@@ -4150,7 +4150,7 @@
             "manpower_recovery_speed": 0.15
         },
         
-        "free": true,
+        
         "afghan_tensions": {
             "fabricate_claims_cost": -0.25
         },
@@ -4183,7 +4183,7 @@
             "fire_damage_received": -0.1
         },
         
-        "free": true,
+        
         "prosperous_land_of_oudh": {
             "global_trade_goods_size_modifier": 0.1
         },
@@ -4215,7 +4215,7 @@
             "global_regiment_cost": -0.1
         },
         
-        "free": true,
+        
         "afghan_connections": {
             "merc_maintenance_modifier": -0.1
         },
@@ -4247,7 +4247,7 @@
             "religious_unity": 0.25
         },
         
-        "free": true,
+        
         "muslim_rajputs": {
             "army_tradition": 0.5
         },
@@ -4279,7 +4279,7 @@
             "diplomatic_upkeep": 1
         },
         
-        "free": true,
+        
         "suppression_of_rebellions": {
             "harsh_treatment_cost": -0.25
         },
@@ -4313,7 +4313,7 @@
             "infantry_power": 0.1
         },
         
-        "free": true,
+        
         "the_rathore_clan": {
             "army_tradition_decay": -0.01
         },
@@ -4347,7 +4347,7 @@
             "merchants": 1
         },
         
-        "free": true,
+        
         "rajput_divisions_in_cutch": {
             "army_tradition": 0.5,
             "land_forcelimit_modifier": 0.2
@@ -4381,7 +4381,7 @@
             "merchants": 1
         },
         
-        "free": true,
+        
         "working_as_a_vassal": {
             "diplomats": 1
         },
@@ -4415,7 +4415,7 @@
             "merchants": 1
         },
         
-        "free": true,
+        
         "against_the_sultans": {
             "army_tradition_decay": -0.01
         },
@@ -4449,7 +4449,7 @@
             "merchants": 1
         },
         
-        "free": true,
+        
         "former_controllers_of_kathiawar": {
             "fabricate_claims_cost": -0.25
         },
@@ -4483,7 +4483,7 @@
             "merchants": 1
         },
         
-        "free": true,
+        
         "robust_tax_based_administration": {
             "global_tax_modifier": 0.15
         },
@@ -4518,7 +4518,7 @@
             "navy_tradition_decay": -0.01
         },
         
-        "free": true,
+        
         "modernizing_trade_networks": {
             "trade_efficiency": 0.15
         },
@@ -4552,7 +4552,7 @@
             "colonists": 1
         },
         
-        "free": true,
+        
         "descendants_of_ismail_bin_ibrahim_al_jabarti": {
             "monthly_piety": 0.001,
             "global_missionary_strength": 0.01
@@ -4588,7 +4588,7 @@
             "global_manpower_modifier": 0.2
         },
         
-        "free": true,
+        
         "rise_from_the_ashes": {
             "manpower_recovery_speed": 0.1
         },
@@ -4622,7 +4622,7 @@
             "merc_maintenance_modifier": -0.1
         },
         
-        "free": true,
+        
         "penal_code_of_sultan_dali": {
             "prestige_decay": -0.01,
             "harsh_treatment_cost": -0.2
@@ -4655,7 +4655,7 @@
             "global_trade_power": 0.1
         },
         
-        "free": true,
+        
         "extensive_trade_dominance": {
             "trade_steering": 0.1,
             "global_prov_trade_power_modifier": 0.1
@@ -4689,7 +4689,7 @@
             "navy_tradition": 1
         },
         
-        "free": true,
+        
         "expertly_built_structures_and_mosques": {
             "build_cost": -0.15,
             "tolerance_own": 1
@@ -4723,7 +4723,7 @@
             "trade_efficiency": 0.1
         },
         
-        "free": true,
+        
         "against_damot": {
             "land_morale": 0.1
         },
@@ -4755,7 +4755,7 @@
             "trade_steering": 0.2
         },
         
-        "free": true,
+        
         "connections_along_east_africa": {
             "improve_relation_modifier": 0.3
         },
@@ -4788,7 +4788,7 @@
             "land_maintenance_modifier": -0.1
         },
         
-        "free": true,
+        
         "break_down_of_ajuran": {
             "army_tradition": 0.5
         },
@@ -4821,7 +4821,7 @@
             "global_unrest": -2
         },
         
-        "free": true,
+        
         "aksumite_heritage": {
             "prestige_decay": -0.01
         },
@@ -4855,7 +4855,7 @@
             "shock_damage": 0.1
         },
         
-        "free": true,
+        
         "ethiopian_connections": {
             "advisor_cost": -0.1
         },
@@ -4888,7 +4888,7 @@
             "hostile_attrition": 1
         },
         
-        "free": true,
+        
         "stability_of_welayta": {
             "global_unrest": -2
         },
@@ -4921,7 +4921,7 @@
             "manpower_recovery_speed": 0.15
         },
         
-        "free": true,
+        
         "horses_of_hadiya": {
             "cav_to_inf_ratio": 0.25,
             "cavalry_cost": -0.1
@@ -4954,7 +4954,7 @@
             "land_attrition": -0.25
         },
         
-        "free": true,
+        
         "horses_to_ethiopia": {
             "cavalry_cost": -0.15
         },
@@ -4987,7 +4987,7 @@
         },
         
 
-        "free": true,
+        
         "after_the_fall_of_adal": {
             "land_morale": 0.1
         },
@@ -5019,7 +5019,7 @@
             "global_trade_goods_size_modifier": 0.1
         },
         
-        "free": true,
+        
         "monsoon_trade_complex": {
             "trade_efficiency": 0.15
         },
@@ -5053,7 +5053,7 @@
             "global_manpower_modifier": 0.25
         },
         
-        "free": true,
+        
         "the_only_oromo_confederation": {
             "global_regiment_cost": -0.1
         },
@@ -5087,7 +5087,7 @@
             "yearly_corruption": -0.05
         },
         
-        "free": true,
+        
         "learning_from_managing_rival_berber_groups": {
             "years_of_nationalism": -5
         },
@@ -5121,7 +5121,7 @@
             "global_manpower_modifier": 0.2
         },
         
-        "free": true,
+        
         "the_masmuda_berbers": {
             "land_forcelimit_modifier": 0.2
         },
@@ -5155,7 +5155,7 @@
             "warscore_cost_vs_other_religion": -0.2
         },
         
-        "free": true,
+        
         "cordoba_and_fatimid_memories": {
             "tolerance_heretic": 2,
             "tolerance_heathen": 2
@@ -5188,7 +5188,7 @@
             "global_manpower_modifier": 0.25
         },
         
-        "free": true,
+        
         "saadi_dynastic_sharifs": {
             "global_autonomy": -0.05
         },
@@ -5221,7 +5221,7 @@
             "yearly_corruption": -0.05
         },
         
-        "free": true,
+        
         "metropolitan_oyo_ile": {
             "global_autonomy": -0.05
         },
@@ -5254,7 +5254,7 @@
             "manpower_recovery_speed": 0.15
         },
         
-        "free": true,
+        
         "jolof_societal_structure": {
             "global_unrest": -1
         },
@@ -5288,7 +5288,7 @@
             "discipline": 0.05
         },
         
-        "free": true,
+        
         "malian_legacy": {
             "global_manpower_modifier": 0.15,
             "cav_to_inf_ratio": 0.2
@@ -5321,7 +5321,7 @@
             "war_exhaustion": -0.02
         },
         
-        "free": true,
+        
         "violent_migrations": {
             "unjustified_demands": -0.2
         },
@@ -5355,7 +5355,7 @@
             "global_manpower_modifier": 0.25
         },
         
-        "free": true,
+        
         "descended_from_bayajidda": {
             "legitimacy": 1
         },
@@ -5389,7 +5389,7 @@
             "global_manpower_modifier": 0.25
         },
         
-        "free": true,
+        
         "descended_from_bayajidda": {
             "legitimacy": 1
         },
@@ -5422,7 +5422,7 @@
             "global_manpower_modifier": 0.25
         },
         
-        "free": true,
+        
         "descended_from_bayajidda": {
             "legitimacy": 1
         },
@@ -5455,7 +5455,7 @@
             "global_manpower_modifier": 0.25
         },
         
-        "free": true,
+        
         "descended_from_bayajidda": {
             "legitimacy": 1
         },
@@ -5489,7 +5489,7 @@
             "global_prov_trade_power_modifier": 0.2
         },
         
-        "free": true,
+        
         "migrants_from_mali": {
             "global_manpower_modifier": 0.15
         },
@@ -5521,7 +5521,7 @@
             "placed_merchant_power": 10
         },
         
-        "free": true,
+        
         "historical_trade_center": {
             "center_of_trade_upgrade_cost": -0.2,
             "global_trade_power": 0.1
@@ -5555,7 +5555,7 @@
             "free_dip_policy": 1
         },
         
-        "free": true,
+        
         "long_range_trading": {
             "trade_range_modifier": 0.5,
             "caravan_power": 0.2
@@ -5589,7 +5589,7 @@
             "legitimacy": 1
         },
         
-        "free": true,
+        
         "drum_chant_histories": {
             "prestige": 1
         },
@@ -5622,7 +5622,7 @@
             "trade_steering": 0.25
         },
         
-        "free": true,
+        
         "linked_with_timbuktu": {
             "diplomatic_upkeep": 1,
             "center_of_trade_upgrade_cost": -0.2
@@ -5658,7 +5658,7 @@
             "devotion": 1
         },
         
-        "free": true,
+        
         "reaching_out_to_others": {
             "diplomatic_reputation": 1
         },
@@ -5692,7 +5692,7 @@
             "global_unrest": -1
         },
         
-        "free": true,
+        
         "catholic_orthodox_tensions": {
             "tolerance_heretic": 3
         },
@@ -5727,7 +5727,7 @@
             "war_exhaustion": -0.02
         },
         
-        "free": true,
+        
         "confluence_of_faiths": {
             "no_religion_penalty": true
         },
@@ -5760,7 +5760,7 @@
             "monarch_admin_power": 1
         },
         
-        "free": true,
+        
         "imperial_memory_in_administration": {
             "legitimacy": 1,
             "republican_tradition": 0.5
@@ -5795,7 +5795,7 @@
             "global_manpower_modifier": 0.25
         },
         
-        "free": true,
+        
         "mongol_remnants": {
             "core_creation": -0.25
         },
@@ -5828,7 +5828,7 @@
             "ae_impact": -0.1
         },
         
-        "free": true,
+        
         "golden_horde_remnant": {
             "core_creation": -0.25
         },
@@ -5863,7 +5863,7 @@
             "governing_capacity_modifier": 0.1
         },
         
-        "free": true,
+        
         "northern_retreat": {
             "manpower_recovery_speed": 0.1
         },
@@ -5896,7 +5896,7 @@
             "colonists": 1
         },
         
-        "free": true,
+        
         "shaybanid_contestment": {
             "core_creation": -0.25
         },
@@ -5929,7 +5929,7 @@
             "leader_land_fire": 1
         },
         
-        "free": true,
+        
         "dzungaria": {
             "core_creation": -0.25
         },
@@ -5963,7 +5963,7 @@
             "leader_land_shock": 1
         },
         
-        "free": true,
+        
         "from_the_tiele": {
             "prestige_decay": -0.01
         },
@@ -5995,7 +5995,7 @@
             "manpower_recovery_speed": 0.1
         },
         
-        "free": true,
+        
         "mongol_estate_heritage": {
             "core_creation": -0.25
         },
@@ -6027,7 +6027,7 @@
             "land_forcelimit_modifier": 0.25
         },
         
-        "free": true,
+        
         "the_great_journey_westward": {
             "leader_land_manuever": 1
         },
@@ -6060,7 +6060,7 @@
             "colonists": 1
         },
         
-        "free": true,
+        
         "mongol_subjects": {
             "global_regiment_cost": -0.1
         },
@@ -6093,7 +6093,7 @@
             "global_regiment_cost": -0.1
         },
         
-        "free": true,
+        
         "against_the_golden_horde": {
             "core_creation": -0.25
         },
@@ -6126,7 +6126,7 @@
             "infantry_power": 0.1
         },
         
-        "free": true,
+        
         "muscovite_influences": {
             "reform_progress_growth": 0.1,
             "legitimacy": 0.5,
@@ -6161,7 +6161,7 @@
             "manpower_recovery_speed": 0.2
         },
         
-        "free": true,
+        
         "widespread_wichita_people": {
             "land_forcelimit_modifier": 0.25
         },
@@ -6195,7 +6195,7 @@
             "war_exhaustion": -0.02
         },
         
-        "free": true,
+        
         "tribal_connections": {
             "mercenary_cost": -0.15
         },
@@ -6229,7 +6229,7 @@
             "cav_to_inf_ratio": 0.3
         },
         
-        "free": true,
+        
         "six_major_apache_speaking_groups": {
             "global_manpower_modifier": 0.2
         },
@@ -6264,7 +6264,7 @@
             "improve_relation_modifier": 0.3
         },
         
-        "free": true,
+        
         "commit_to_agricultural_life": {
             "production_efficiency": 0.1
         },
@@ -6299,7 +6299,7 @@
             "diplomatic_reputation": 1
         },
         
-        "free": true,
+        
         "rivals_of_the_ojibwe": {
             "shock_damage": 0.1
         },
@@ -6334,7 +6334,7 @@
             "land_maintenance_modifier": -0.1
         },
         
-        "free": true,
+        
         "the_original_three_peoples": {
             "global_manpower_modifier": 0.25
         },
@@ -6369,7 +6369,7 @@
             "manpower_recovery_speed": 0.15
         },
         
-        "free": true,
+        
         "ancestral_grounds_and_burials": {
             "development_cost": -0.1
         },
@@ -6404,7 +6404,7 @@
             "war_exhaustion": -0.02
         },
         
-        "free": true,
+        
         "rival_after_rival_around_us": {
             "land_morale": 0.1
         },
@@ -6439,7 +6439,7 @@
             "global_regiment_cost": -0.15
         },
         
-        "free": true,
+        
         "the_meskwaki_and_sauk_people": {
             "global_manpower_modifier": 0.2
         },
@@ -6473,7 +6473,7 @@
             "global_manpower_modifier": 0.2
         },
         
-        "free": true,
+        
         "kaskaskia_village": {
             "development_cost": -0.1
         },
@@ -6508,7 +6508,7 @@
             "ae_impact": -0.2
         },
         
-        "free": true,
+        
         "three_dialect_clans": {
             "global_manpower_modifier": 0.2
         },
@@ -6542,7 +6542,7 @@
             "global_unrest": -2
         },
         
-        "free": true,
+        
         "large_villages": {
             "global_manpower_modifier": 0.2
         },
@@ -6577,7 +6577,7 @@
             "global_trade_power": 0.2
         },
         
-        "free": true,
+        
         "lead_on_the_move": {
             "leader_land_manuever": 1
         },
@@ -6611,7 +6611,7 @@
             "leader_land_fire": 1
         },
         
-        "free": true,
+        
         "the_nature_of_migrations": {
             "leader_land_manuever": 1
         },
@@ -6645,7 +6645,7 @@
             "global_trade_goods_size_modifier": 0.1
         },
         
-        "free": true,
+        
         "trade_along_the_great_lakes": {
             "caravan_power": 0.2
         },
@@ -6678,7 +6678,7 @@
             "shock_damage_received": -0.1
         },
         
-        "free": true,
+        
         "touch_and_go_relations": {
             "spy_offence": 0.1,
             "global_spy_defence": 0.1
@@ -6712,7 +6712,7 @@
             "global_prov_trade_power_modifier": 0.2
         },
         
-        "free": true,
+        
         "trading_specialty": {
             "trade_efficiency": 0.1,
             "trade_range_modifier": 0.5
@@ -6746,7 +6746,7 @@
             "land_forcelimit_modifier": 0.25
         },
         
-        "free": true,
+        
         "pawnee_cosmolgy": {
             "tolerance_own": 2
         },
@@ -6780,7 +6780,7 @@
             "legitimacy": 1
         },
         
-        "free": true,
+        
         "fight_for_the_home": {
             "province_warscore_cost": -0.1
         },
@@ -6813,7 +6813,7 @@
             "trade_efficiency": 0.2
         },
         
-        "free": true,
+        
         "arid_land": {
             "land_attrition": -0.2
         },
@@ -6846,7 +6846,7 @@
             "state_maintenance_modifier": -0.25
         },
         
-        "free": true,
+        
         "seven_grandfather_teachings": {
             "global_unrest": -2
         },
@@ -6879,7 +6879,7 @@
             "num_accepted_cultures": 1
         },
         
-        "free": true,
+        
         "system_of_chiefdoms": {
             "global_regiment_cost": -0.1
         },
@@ -6912,7 +6912,7 @@
             "num_accepted_cultures": 1
         },
         
-        "free": true,
+        
         "constant_pressure": {
             "army_tradition_decay": -0.01
         },
@@ -6946,7 +6946,7 @@
             "global_manpower_modifier": 0.25
         },
         
-        "free": true,
+        
         "against_the_iroquois": {
             "land_forcelimit_modifier": 0.2
         },
@@ -6979,7 +6979,7 @@
             "defensiveness": 0.2
         },
         
-        "free": true,
+        
         "home_field_advantage": {
             "land_attrition": -0.2
         },
@@ -7013,7 +7013,7 @@
             "development_cost": -0.1
         },
         
-        "free": true,
+        
         "productive_hunting_and_gathering": {
             "production_efficiency": 0.1
         },
@@ -7046,7 +7046,7 @@
             "land_maintenance_modifier": -0.1
         },
         
-        "free": true,
+        
         "we_are_apaches": {
             "mercenary_cost": -0.1
         },
@@ -7080,7 +7080,7 @@
             "land_maintenance_modifier": -0.1
         },
         
-        "free": true,
+        
         "we_are_apaches": {
             "mercenary_cost": -0.1
         },
@@ -7114,7 +7114,7 @@
             "army_tradition": 0.75
         },
         
-        "free": true,
+        
         "structured_life": {
             "manpower_recovery_speed": 0.1
         },
@@ -7148,7 +7148,7 @@
             "development_cost": -0.1
         },
         
-        "free": true,
+        
         "art_of_the_northwest": {
             "prestige_decay": -0.01
         },
@@ -7182,7 +7182,7 @@
             "global_trade_goods_size_modifier": 0.1
         },
         
-        "free": true,
+        
         "art_of_the_northwest": {
             "prestige_decay": -0.01
         },
@@ -7217,7 +7217,7 @@
             "army_tradition": 0.5
         },
         
-        "free": true,
+        
         "art_of_the_northwest": {
             "prestige_decay": -0.01
         },
@@ -7252,7 +7252,7 @@
             "global_manpower_modifier": 0.25
         },
         
-        "free": true,
+        
         "legacy_of_the_moundbuilders": {
             "prestige_decay": -0.01
         },
@@ -7287,7 +7287,7 @@
             "land_maintenance_modifier": -0.1
         },
         
-        "free": true,
+        
         "mayan_population_division": {
             "global_manpower_modifier": 0.15
         },
@@ -7322,7 +7322,7 @@
             "core_creation": -0.15
         },
         
-        "free": true,
+        
         "mayan_population_division": {
             "global_manpower_modifier": 0.15
         },
@@ -7356,7 +7356,7 @@
             "governing_capacity_modifier": 0.1
         },
         
-        "free": true,
+        
         "meomries_of_our_old_empire": {
             "army_tradition_decay": -0.01
         },
@@ -7390,7 +7390,7 @@
             "legitimacy": 1
         },
         
-        "free": true,
+        
         "influences_from_teotihuacan": {
             "build_time": -0.2,
             "global_manpower_modifier": 0.1
@@ -7423,7 +7423,7 @@
             "culture_conversion_cost": -0.2
         },
         
-        "free": true,
+        
         "nagualism_in_our_religion": {
             "tolerance_own": 2,
             "tolerance_heretic": 2
@@ -7457,7 +7457,7 @@
             "diplomats": 1
         },
         
-        "free": true,
+        
         "three_hearts_three_cities": {
             "global_unrest": -1,
             "global_tax_modifier": 0.1
@@ -7491,7 +7491,7 @@
             "num_accepted_cultures": 2
         },
         
-        "free": true,
+        
         "speakers_of_four_languages": {
             "diplomatic_reputation": 1
         },
@@ -7524,7 +7524,7 @@
             "advisor_cost": -0.15
         },
         
-        "free": true,
+        
         "shadow_of_the_aztecs": {
             "global_manpower_modifier": 0.15
         },
@@ -7557,7 +7557,7 @@
             "global_manpower_modifier": 0.25
         },
         
-        "free": true,
+        
         "land_of_the_gods": {
             "tolerance_own": 2,
             "missionary_maintenance_cost": -0.15
@@ -7590,7 +7590,7 @@
             "years_of_nationalism": -5
         },
         
-        "free": true,
+        
         "shaft_tomb_tradition": {
             "prestige_decay": -0.01
         },
@@ -7625,7 +7625,7 @@
             "years_of_nationalism": -5
         },
         
-        "free": true,
+        
         "remember_eight_dear_jaguar_claw": {
             "legitimacy": 1
         },
@@ -7659,7 +7659,7 @@
             "years_of_nationalism": -5
         },
         
-        "free": true,
+        
         "brutal_warfare_against_others": {
             "land_morale": 0.1,
             "infantry_power": 0.1
@@ -7692,7 +7692,7 @@
             "legitimacy": 1
         },
         
-        "free": true,
+        
         "copper_alloys": {
             "trade_goods_size_modifier": 0.1
         },
@@ -7726,7 +7726,7 @@
             "land_attrition": -0.1
         },
         
-        "free": true,
+        
         "semi_nomadic_traditions_of_chichemecans": {
             "leader_land_manuever": 1
         },
@@ -7761,7 +7761,7 @@
             "global_autonomy": -0.05
         },
         
-        "free": true,
+        
         "blacksmiths_of_mesoamerica": {
             "shock_damage": 0.1,
             "global_prov_trade_power_modifier": 0.05
@@ -7795,7 +7795,7 @@
             "infantry_power": 0.1
         },
         
-        "free": true,
+        
         "flower_wars_versus_the_aztecs": {
             "ae_impact": -0.1
         },
@@ -7827,7 +7827,7 @@
             "global_regiment_cost": -0.1
         },
         
-        "free": true,
+        
         "nomads_leaving_their_mark": {
             "num_accepted_cultures": 1
         },
@@ -7860,7 +7860,7 @@
             "global_trade_goods_size_modifier": 0.1
         },
         
-        "free": true,
+        
         "mayan_population_division": {
             "global_manpower_modifier": 0.15
         },
@@ -7894,7 +7894,7 @@
             "diplomats": 1
         },
         
-        "free": true,
+        
         "mayan_population_division": {
             "global_manpower_modifier": 0.15
         },
@@ -7928,7 +7928,7 @@
             "core_creation": -0.15
         },
         
-        "free": true,
+        
         "mayan_population_division": {
             "global_manpower_modifier": 0.15
         },
@@ -7962,7 +7962,7 @@
             "unjustified_demands": -0.25
         },
         
-        "free": true,
+        
         "mayan_population_division": {
             "global_manpower_modifier": 0.15
         },
@@ -7996,7 +7996,7 @@
             "trade_steering": 0.25
         },
         
-        "free": true,
+        
         "mayan_population_division": {
             "global_manpower_modifier": 0.15
         },
@@ -8030,7 +8030,7 @@
             "siege_ability": 0.1
         },
         
-        "free": true,
+        
         "mayan_population_division": {
             "global_manpower_modifier": 0.15
         },
@@ -8064,7 +8064,7 @@
             "trade_steering": 0.2
         },
         
-        "free": true,
+        
         "mayan_population_division": {
             "global_manpower_modifier": 0.15
         },
@@ -8098,7 +8098,7 @@
             "global_regiment_cost": -0.1
         },
         
-        "free": true,
+        
         "entrenched_populace": {
             "garrison_size": 0.2,
             "global_garrison_growth": 0.2
@@ -8133,7 +8133,7 @@
             "colonists": 1
         },
         
-        "free": true,
+        
         "dismantle_coastal_forts": {
             "global_naval_barrage_cost": -0.5,
             "privateer_efficiency": 0.25
@@ -8169,7 +8169,7 @@
             "ae_impact": -0.15
         },
         
-        "free": true,
+        
         "generals_with_the_hosokawa": {
             "army_tradition": 0.5
         },
@@ -8203,7 +8203,7 @@
             "free_leader_pool": 1
         },
         
-        "free": true,
+        
         "general_and_captain_experience": {
             "army_tradition": 0.5
         },
@@ -8237,7 +8237,7 @@
             "monarch_military_power": 1
         },
         
-        "free": true,
+        
         "descedants_of_seiwa_genji": {
             "prestige": 1
         },
@@ -8272,7 +8272,7 @@
             "naval_morale": 0.15
         },
         
-        "free": true,
+        
         "heir_to_malacca": {
             "land_morale": 0.1
         },
@@ -8307,7 +8307,7 @@
             "placed_merchant_power": 5
         },
         
-        "free": true,
+        
         "heir_to_malacca": {
             "land_morale": 0.1
         },
@@ -8341,7 +8341,7 @@
             "core_creation": -0.1
         },
         
-        "free": true,
+        
         "against_the_pretenders": {
             "land_morale": 0.1
         },
@@ -8376,7 +8376,7 @@
             "core_creation": -0.1
         },
         
-        "free": true,
+        
         "against_the_pretenders": {
             "land_morale": 0.1
         },
@@ -8411,7 +8411,7 @@
             "trade_steering": 0.25
         },
         
-        "free": true,
+        
         "attraction_of_merchants": {
             "diplomatic_reputation": 1
         },
@@ -8446,7 +8446,7 @@
             "global_ship_cost": -0.1
         },
         
-        "free": true,
+        
         "from_the_fall_of_majapahit": {
             "ae_impact": -0.1
         },
@@ -8480,7 +8480,7 @@
             "yearly_absolutism": 0.25
         },
         
-        "free": true,
+        
         "alongside_majapahit": {
             "development_cost": -0.1
         },
@@ -8515,7 +8515,7 @@
             "colonists": 1
         },
         
-        "free": true,
+        
         "destroyers_of_the_pajang_kingdom": {
             "global_autonomy": -0.05
         },
@@ -8549,7 +8549,7 @@
             "global_trade_goods_size_modifier": 0.1
         },
         
-        "free": true,
+        
         "black_pepper_trading": {
             "trade_efficiency": 0.15
         },
@@ -8582,7 +8582,7 @@
             "colonists": 1
         },
         
-        "free": true,
+        
         "unify_south_kalimantan": {
             "global_manpower_modifier": 0.1,
             "global_sailors_modifier": 0.25
@@ -8616,7 +8616,7 @@
             "colonists": 1
         },
         
-        "free": true,
+        
         "candi_shrines_of_bali": {
             "tolerance_own": 1,
             "tolerance_heretic": 2
@@ -8650,7 +8650,7 @@
             "production_efficiency": 0.15
         },
         
-        "free": true,
+        
         "consolidate_sumtatran_land": {
             "land_forcelimit_modifier": 0.25
         },
@@ -8684,7 +8684,7 @@
             "colonists": 1
         },
         
-        "free": true,
+        
         "cultivate_iron_production": {
             "production_efficiency": 0.1
         },
@@ -8717,7 +8717,7 @@
             "colonists": 1
         },
         
-        "free": true,
+        
         "majapahit_influences": {
             "development_cost": -0.1
         },
@@ -8750,7 +8750,7 @@
             "colonists": 1
         },
         
-        "free": true,
+        
         "consolidate_the_island_chain": {
             "manpower_recovery_speed": 0.1,
             "sailor_maintenance_modifer": -0.1
@@ -8785,7 +8785,7 @@
             "global_manpower_modifier": 0.2
         },
         
-        "free": true,
+        
         "the_two_domains": {
             "land_forcelimit_modifier": 0.2,
             "land_morale": 0.1
@@ -8820,7 +8820,7 @@
             "advisor_cost": -0.15
         },
         
-        "free": true,
+        
         "recovery_from_the_mongol_invasion": {
             "development_cost": -0.1
         },
@@ -8854,7 +8854,7 @@
             "warscore_cost_vs_other_religion": -0.1
         },
         
-        "free": true,
+        
         "home_of_islam_mecca_medina": {
             "missionaries": 1,
             "missionary_maintenance_cost": -0.25
@@ -8893,7 +8893,7 @@
             "free_dip_policy": 1
         },
         
-        "free": true,
+        
         "pacify_the_berbers": {
             "global_manpower_modifier": 0.2,
             "global_sailors_modifier": 0.2
@@ -8928,7 +8928,7 @@
             "manpower_recovery_speed": 0.2
         },
         
-        "free": true,
+        
         "representation_of_russian_people": {
             "global_manpower_modifier": 0.25,
             "global_unrest": -1
@@ -8965,7 +8965,7 @@
             "colonists": 1
         },
         
-        "free": true,
+        
         "south_east_asian_thalassocracy": {
             "naval_forcelimit_modifier": 0.25,
             "naval_morale": 0.15
@@ -9001,7 +9001,7 @@
             "defensiveness": 0.2
         },
         
-        "free": true,
+        
         "barbary_influences": {
             "galley_power": 0.1,
             "privateer_efficiency": 0.2
@@ -9037,7 +9037,7 @@
             "core_creation": -0.2
         },
         
-        "free": true,
+        
         "cnut_the_greats_empire": {
             "global_manpower_modifier": 0.25
         },
@@ -9072,7 +9072,7 @@
             "monarch_military_power": 1
         },
         
-        "free": true,
+        
         "foundations_of_a_nation": {
             "colonists": 1,
             "auto_explore_adjacent_to_colony": true,
@@ -9107,7 +9107,7 @@
             "land_forcelimit_modifier": 0.25
         },
 
-        "free": true,
+        
         "sca_dockyards_of_scandinavia": {
             "naval_forcelimit_modifier": 0.25
         },
@@ -9142,7 +9142,7 @@
             "land_forcelimit_modifier": 0.25
         },
 
-        "free": true,
+        
         "sca_dockyards_of_scandinavia": {
             "naval_forcelimit_modifier": 0.25
         },
@@ -9179,7 +9179,7 @@
             "land_forcelimit_modifier": 0.25
         },
         
-        "free": true,
+        
         "sca_dockyards_of_scandinavia": {
             "naval_forcelimit_modifier": 0.25
         },
@@ -9211,7 +9211,7 @@
         },
         "bonus": {
             "land_forcelimit_modifier": 0.25},
-        "free": true,
+        
         "sca_dockyards_of_scandinavia": {
             "naval_forcelimit_modifier": 0.25
         },
@@ -9243,7 +9243,7 @@
         },
         "bonus": {
             "land_forcelimit_modifier": 0.25},
-        "free": true,
+        
         "sca_dockyards_of_scandinavia": {
             "naval_forcelimit_modifier": 0.25
         },
@@ -9275,7 +9275,7 @@
         },
         "bonus": {
             "land_forcelimit_modifier": 0.25},
-        "free": true,
+        
         "sca_dockyards_of_scandinavia": {
             "naval_forcelimit_modifier": 0.25
         },
@@ -9310,7 +9310,7 @@
             "global_trade_goods_size_modifier": 0.1
         },
         
-        "free": true,
+        
         "the_island_continent": {
             "naval_maintenance_modifier": -0.1
         },
@@ -9343,7 +9343,7 @@
             "years_of_nationalism": -5
         },
         
-        "free": true,
+        
         "criollos": {
             "manpower_recovery_speed": 0.1
         },
@@ -9376,7 +9376,7 @@
             "global_trade_goods_size_modifier": 0.1
         },
         
-        "free": true,
+        
         "history_of_previous_rebel_sentiment": {
             "harsh_treatment_cost": -0.25
         },
@@ -9408,7 +9408,7 @@
             "movement_speed": 0.15
         },
         
-        "free": true,
+        
         "cattle_raising_tradition": {
             "production_efficiency": 0.1
         },
@@ -9441,7 +9441,7 @@
             "inflation_reduction": 0.1
         },
         
-        "free": true,
+        
         "mythical_past_of_california": {
             "prestige_decay": -0.01
         },
@@ -9474,7 +9474,7 @@
             "development_cost": -0.1
         },
         
-        "free": true,
+        
         "hostile_encounters_along_the_mississippi": {
             "infantry_power": 0.1
         },
@@ -9507,7 +9507,7 @@
             "movement_speed": 0.15
         },
         
-        "free": true,
+        
         "the_enemies_within_chile": {
             "harsh_treatment_cost": -0.25
         },
@@ -9542,7 +9542,7 @@
             "republican_tradition": 0.5
         },
         
-        "free": true,
+        
         "the_gran_chaco": {
             "production_efficiency": 0.1
         },
@@ -9574,7 +9574,7 @@
             "land_attrition": -0.2
         },
         
-        "free": true,
+        
         "backbone_of_the_andes": {
             "hostile_attrition": 1
         },
@@ -9608,7 +9608,7 @@
             "diplomatic_reputation": 1
         },
         
-        "free": true,
+        
         "utilize_the_venezuelan_coasts": {
             "naval_maintenance_modifier": -0.1,
             "global_ship_cost": -0.1
@@ -9641,7 +9641,7 @@
             "naval_forcelimit_modifier": 0.25
         },
         
-        "free": true,
+        
         "valued_exports_of_haiti": {
             "trade_efficiency": 0.15
         },
@@ -9675,7 +9675,7 @@
             "discipline": 0.05
         },
         
-        "free": true,
+        
         "blood_for_the_gods_above": {
             "global_missionary_strength": 0.02
         },
@@ -9709,7 +9709,7 @@
             "infantry_power": 0.1
         },
         
-        "free": true,
+        
         "al_qarawiyyin_university": {
             "idea_cost": -0.1
         },
@@ -9744,7 +9744,7 @@
             "global_tariffs": 0.2
         },
         
-        "free": true,
+        
         "dom_henry_the_navigator": {
             "range": 0.25,
             "navy_tradition_decay": -0.01
@@ -9779,7 +9779,7 @@
             "fort_maintenance_modifier": -0.2
         },
         
-        "free": true,
+        
         "santiago_de_compostela": {
             "global_missionary_strength": 0.01,
             "missionary_maintenance_cost": -0.25
@@ -9812,7 +9812,7 @@
             "naval_morale": 0.15
         },
         
-        "free": true,
+        
         "rememeber_the_strato_da_mar": {
             "trade_range_modifier": 0.5,
             "global_ship_cost": -0.1
@@ -9847,7 +9847,7 @@
             "ship_durability": 0.1
         },
         
-        "free": true,
+        
         "sound_toll_defense": {
             "naval_tradition_from_trade": 1,
             "heavy_ship_power": 0.1
@@ -9884,7 +9884,7 @@
             "global_trade_power": 0.2
         },
         
-        "free": true,
+        
         "mandala_system_ayu": {
             "global_autonomy": -0.05
         },
@@ -9918,7 +9918,7 @@
             "legitimacy": 1
         },
         
-        "free": true,
+        
         "order_of_the_dragon": {
             "land_morale": 0.1,
             "warscore_cost_vs_other_religion": -0.1
@@ -9951,7 +9951,7 @@
             "core_creation": -0.15
         },
         
-        "free": true,
+        
         "restoration_of_the_past": {
             "legitimacy": 1,
             "horde_unity": 1
@@ -9987,7 +9987,7 @@
             "land_maintenance_modifier": -0.1
         },
         
-        "free": true,
+        
         "languages_around_us": {
             "num_accepted_cultures": 1
         },
@@ -10020,7 +10020,7 @@
             "trade_efficiency": 0.15
         },
         
-        "free": true,
+        
         "integration_of_native_tribes": {
             "native_uprising_chance": -0.5,
             "native_assimilation": 0.5
@@ -10055,7 +10055,7 @@
             "years_of_nationalism": -5
         },
         
-        "free": true,
+        
         "logistics_of_sonoran_land": {
             "reinforce_cost_modifier": -0.33
         },
@@ -10089,7 +10089,7 @@
             "shock_damage_received": -0.1
         },
         
-        "free": true,
+        
         "haven_for_freed_slaves": {
             "global_manpower_modifier": 0.25
         },
@@ -10123,7 +10123,7 @@
             "global_unrest": -2
         },
         
-        "free": true,
+        
         "by_plains_and_by_water": {
             "production_efficiency": 0.1
         },
@@ -10156,7 +10156,7 @@
             "land_morale": 0.1
         },
         
-        "free": true,
+        
         "urbanize_further": {
             "development_cost": -0.1
         },
