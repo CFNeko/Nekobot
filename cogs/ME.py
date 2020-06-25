@@ -74,7 +74,7 @@ class ME(commands.Cog):
 
     @me.command()
     async def formables(self, ctx):
-        """Shows a list of all formable nations"""
+        """Shows a list of all formable nations in ME"""
         async with self.bot.db.acquire() as conn:
             message = '```'
             me_data = await conn.fetch('SELECT (tag, country) FROM tags WHERE me_tag')
