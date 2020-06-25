@@ -34,7 +34,17 @@ class NIE(commands.Cog):
             await ctx.send(nieBodyMessage)
         except:
             await ctx.send('Neko couldn\'t find it T~T')
-
+    @nie.command()
+    async def formables(self, ctx):
+        """Shows a list of all formable nations"""
+        async with self.bot.db.acquire() as conn:
+            message = '```'
+            me_data = await conn.fetch('SELECT (tag, country) FROM tags WHERE nie_tag')
+            for info in me_data:
+                for data in info:
+                    message = message + f'{str(data[0])} : {str(data[1])} \n'
+            message = message + '```'
+            await ctx.send(message)
 
 def setup(bot):
     bot.add_cog(NIE(bot))
