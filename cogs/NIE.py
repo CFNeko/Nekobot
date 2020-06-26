@@ -28,8 +28,8 @@ class NIE(commands.Cog):
         if len(country) != 3:
             async with self.bot.db.acquire() as conn:
                 print(f'NIE full name request received: {country}')
-                country = await conn.fetchval('SELECT (tag) FROM (tags) WHERE country=$1', country)
-                print(f'NIE request adapted to: {country}')
+                x = await conn.fetchval('SELECT (tag) FROM (tags) WHERE country=$1', country)
+                print(f'NIE request adapted to: {x}')
         try:
             print(f'NIE request received {country}')
             nieBodyMessage = f'```{nieDataDescription[country]} \n----------\n'
