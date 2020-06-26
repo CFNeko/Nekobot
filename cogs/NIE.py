@@ -29,7 +29,7 @@ class NIE(commands.Cog):
             async with self.bot.db.acquire() as conn:
                 x = country
                 print(f'NIE full name request received: {x}')
-                x = await conn.fetch('SELECT tag FROM tags WHERE country=$1', x)
+                x = await conn.fetchval('SELECT tag FROM tags WHERE country=$1', x)
                 print(x)
         try:
             print(f'NIE request received {country}')
