@@ -24,7 +24,7 @@ class NIE(commands.Cog):
     @nie.command()
     async def find(self, ctx, *, country: str):
         """!nie find [tag] Sends back the nation with NIE ideas"""
-        if len(country) != 3 and country.isUpper() is False:
+        if len(country) != 3:
             async with self.bot.db.acquire() as conn:
                 print(f'NIE request received: {country}')
                 country = await conn.fetch('SELECT tag FROM tags WHERE country=$1'. country)
