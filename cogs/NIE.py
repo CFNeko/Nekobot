@@ -2,6 +2,7 @@ import discord
 from discord.ext import commands
 import embedMaker
 import json
+import asyncpg
 
 with open('./expandedData/NIE_country_ideas.json', 'r') as f:
     fhand = f.read()
@@ -27,7 +28,7 @@ class NIE(commands.Cog):
         if len(country) != 3:
             async with self.bot.db.acquire() as conn:
                 print(f'NIE full name request received: {country}')
-                country = await conn.fetchval('SELECT tag FROM tags WHERE country=$1'. country)
+                country = await conn.fetchval('SELECT (tag) FROM (tags) WHERE country=$1'. country)
             print(f'NIE request adapted to: {country}')
         try:
             print(f'NIE request received {country}')
