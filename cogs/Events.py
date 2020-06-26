@@ -32,6 +32,7 @@ class Events(commands.Cog):
         if member.guild.id == 264445053596991498:
             x = True
         else:
+            print(f'Neko-chan tried to welcome a player in the guild + {member.guild.id}')
             welcomeMessage = ['Military master? Diplomatic Devil? Administrative assistant? No! He\'s none other than {}',
             '{} has a vision that spans far and wide, but since this is a 2D game, he can only view widely',
             'Legends say that {} has a father that smells of elder berries',
