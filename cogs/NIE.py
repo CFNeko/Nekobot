@@ -27,9 +27,9 @@ class NIE(commands.Cog):
         """+nie find [tag] Sends back the nation with NIE ideas"""
         if len(country) != 3:
             async with self.bot.db.acquire() as conn:
-                country = country.title()
-                print(f'NIE full name request received: {country}')
-                x = await conn.fetch('SELECT tag FROM (tags) WHERE country=$1', country)
+                x = country
+                print(f'NIE full name request received: {x}')
+                x = await conn.fetch('SELECT tag FROM tags WHERE country=$1', x)
                 print(x)
         try:
             print(f'NIE request received {country}')
