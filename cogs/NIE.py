@@ -29,25 +29,16 @@ class NIE(commands.Cog):
             async with self.bot.db.acquire() as conn:
                 print(f'NIE full name request received: {country}')
                 country = await conn.fetchval('SELECT (tag) FROM (tags) WHERE country=$1'. country)
-                try:
-                    print(f'NIE request received {country}')
-                    nieBodyMessage = f'```{nieDataDescription[country]} \n----------\n'
-                    for key, value in nieData[country].items():
-                        nieBodyMessage = nieBodyMessage + f'{key.title()}: {value} \n'
-                    nieBodyMessage = nieBodyMessage + '```'
-                    await ctx.send(nieBodyMessage)
-                except:
-                    await ctx.send('Neko couldn\'t find it T~T')
-        else:
-            try:
-                print(f'NIE request received {country}')
-                nieBodyMessage = f'```{nieDataDescription[country]} \n----------\n'
-                for key, value in nieData[country].items():
-                    nieBodyMessage = nieBodyMessage + f'{key.title()}: {value} \n'
-                nieBodyMessage = nieBodyMessage + '```'
-                await ctx.send(nieBodyMessage)
-            except:
-                await ctx.send('Neko couldn\'t find it T~T')
+            print(f'NIE request adapted to: {country}')
+        try:
+            print(f'NIE request received {country}')
+            nieBodyMessage = f'```{nieDataDescription[country]} \n----------\n'
+            for key, value in nieData[country].items():
+                nieBodyMessage = nieBodyMessage + f'{key.title()}: {value} \n'
+            nieBodyMessage = nieBodyMessage + '```'
+            await ctx.send(nieBodyMessage)
+        except:
+            await ctx.send('Neko couldn\'t find it T~T')
     @nie.command()
     async def formables(self, ctx):
         """Shows a list of all formable nations"""
