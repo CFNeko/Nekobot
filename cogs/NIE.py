@@ -24,11 +24,12 @@ class NIE(commands.Cog):
             await ctx.send(embed=nieEmbed.t)
     @nie.command()
     async def find(self, ctx, *, country: str):
-        """!nie find [tag] Sends back the nation with NIE ideas"""
+        """+nie find [tag] Sends back the nation with NIE ideas"""
         if len(country) != 3:
             async with self.bot.db.acquire() as conn:
+                country = country.title()
                 print(f'NIE full name request received: {country}')
-                x = await conn.fetchval('SELECT (tag) FROM (tags) WHERE country=$1', country)
+                x = await conn.fetch('SELECT tag FROM (tags) WHERE country=$1', country)
                 print(f'NIE request adapted to: {x}')
         try:
             print(f'NIE request received {country}')
