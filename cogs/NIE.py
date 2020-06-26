@@ -30,8 +30,9 @@ class NIE(commands.Cog):
                 x = country
                 print(f'NIE full name request received: {x}')
                 country = await conn.fetchval('SELECT tag FROM tags WHERE country=$1', x)
-        try:
+        else:
             print(f'NIE request received {country}')
+        try:
             nieBodyMessage = f'```{nieDataDescription[country]} \n----------\n'
             for key, value in nieData[country].items():
                 nieBodyMessage = nieBodyMessage + f'{key.title()}: {value} \n'
