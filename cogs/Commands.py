@@ -75,7 +75,7 @@ class Commands(commands.Cog):
 
     @commands.command(case_insensitive=True)
     async def country(self, ctx, *, tag: str):
-        tag.Upper()
+        tag.upper()
         async with self.bot.db.acquire() as conn:
             country = await conn.fetchval('SELECT country FROM tags WHERE tag=$1', tag)
             await ctx.send(str(country))
