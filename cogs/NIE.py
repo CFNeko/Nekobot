@@ -52,6 +52,7 @@ class NIE(commands.Cog):
             message = message + '```'
             await ctx.send(message)
 
+    @nie.command()
     async def countries(self, ctx):
         """Shows a list of all nations with NIE ideas"""
         await ctx.send('Here\'s a list of all NIE coubtries: https://pastebin.com/XTu65Rdn')
