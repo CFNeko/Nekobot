@@ -46,7 +46,7 @@ def decode(file_path, save_intermediate, no_json):
     data = '{' + data + '}'
 
     file_name = os.path.basename(file_path)
-
+    print(data)
     if save_intermediate:
         with open(file_name + '.intermediate', 'w') as output:
             output.write(data)

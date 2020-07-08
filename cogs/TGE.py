@@ -60,6 +60,15 @@ class TGE(commands.Cog):
                 await conn.execute('''INSERT INTO  tge_goods (good, price, province_bonus, leader_bonus)
                 VALUES ($1, $2, $3, $4)''', line.contents[0], price, pBonus.contents[0], pBonus.contents[1].contents[0])
             await asyncio.sleep(60)
+    @tge.command()
+    async def map(self, ctx):
+        """Shows a map of all starting trade goods"""
+        await ctx.send("https://media.discordapp.net/attachments/606478244346069002/720807522411479070/eu4_map_trade_goods.png?width=1080&height=393")
+
+    @tge.command()
+    async def wiki(self, ctx):
+        """Gives a link to the TGE wiki"""
+        await ctx.send("https://eu4.paradoxwikis.com/Trade_Goods_Expanded")
 
 
 def setup(bot):
