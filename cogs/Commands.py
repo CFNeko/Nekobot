@@ -71,7 +71,7 @@ class Commands(commands.Cog):
         nation = nation.title()
         async with self.bot.db.acquire() as conn:
             tag = await conn.fetchval('SELECT tag FROM tags WHERE country=$1', nation)
-            if tag is None:
+            if tag == None:
                 await ctx.send('Your tag is imaginary oAo')
             else:
                 await ctx.send(str(tag))
@@ -81,7 +81,7 @@ class Commands(commands.Cog):
         tag = tag.upper()
         async with self.bot.db.acquire() as conn:
             country = await conn.fetchval('SELECT country FROM tags WHERE tag=$1', tag)
-            if tag is None:
+            if tag == None:
                 await ctx.send('Your country is imaginary oAo')
             else:
                 await ctx.send(str(country))
