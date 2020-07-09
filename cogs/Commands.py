@@ -70,21 +70,21 @@ class Commands(commands.Cog):
     async def tag(self, ctx, *, nation: str):
         nation = nation.title()
         async with self.bot.db.acquire() as conn:
-            try:
-                tag = await conn.fetchval('SELECT tag FROM tags WHERE country=$1', nation)
+            tag = await conn.fetchval('SELECT tag FROM tags WHERE country=$1', nation)
+            if tag is None:
+                await ctx.send('Your tag is imaginary oAo')
+            else:
                 await ctx.send(str(tag))
-            except:
-                await ctx.send('The db doesn\'t seem to have this! Or your country doesn\'t exist oAo')
 
     @commands.command(case_insensitive=True)
     async def country(self, ctx, *, tag: str):
         tag = tag.upper()
         async with self.bot.db.acquire() as conn:
-            try:
-                country = await conn.fetchval('SELECT country FROM tags WHERE tag=$1', tag)
+            country = await conn.fetchval('SELECT country FROM tags WHERE tag=$1', tag)
+            if tag is None:
+                await ctx.send('Your country is imaginary oAo')
+            else:
                 await ctx.send(str(country))
-            except:
-                await ctx.send('The db doesn\'t seem to have this! Or your country doesn\'t exist oAo')
 
 
 def setup(bot):
