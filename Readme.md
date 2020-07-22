@@ -10,6 +10,7 @@ Have postgresQL installed on your computer.
 - `pip install -r requirements.txt`  
 - Setup a postgresQL database, and import into it the data from `expanded_data.sql`
 - rename the `.env.example` to `.env` and fill it with data needed to connect to your db.  
+You'll also need to fill the BOT_ADMIN_CHAN and BOT_ADMIN_SERVER with the name of your admin server and admin chan.
 ( Concerning the DISCORD_TOKEN key, fill it using your bot admin interface.)
 
 ## run
