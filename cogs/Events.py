@@ -49,10 +49,15 @@ class Events(commands.Cog):
                 await guild.system_channel.send(welcomeMessage[self.bot.index].format(str(member.mention)))
             self.bot.index = (self.bot.index + 1) % 9
 
+    #ignores random '+'' signs that could be misinterpreted as commands
+    #ignores people blocking Neko-chan from sending welcome messages in other channels
     @commands.Cog.listener()
     async def on_command_error(self, ctx, error):
-        if type(error).__name__ == 'CommandNotFound':
-            x = True
-
+        ignored = (commands.CommandNotFound)
+        if isinstance(error, ignored):
+            return
+        if isinstance(error, commands.CommandInvokeError):
+            if isinstance(error.original, discord.errors.Forbidden):
+                return
 def setup(bot):
     bot.add_cog(Events(bot))
