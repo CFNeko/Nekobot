@@ -3,7 +3,7 @@ from discord.ext import commands
 import asyncpg
 
 
-class Commands(commands.Cog):
+class COMMANDS(commands.Cog):
     """A list of all non-mod commands"""
     def __init__(self, bot):
         self.bot = bot
@@ -21,11 +21,17 @@ class Commands(commands.Cog):
             await ctx.send('The know-it-all-retard')
 
     @commands.command(case_insensitive=True)
-    async def neko(self, ctx):
+    async def kofi(self, ctx):
         """Drinks Coffee"""
         if ctx.invoked_subcommand is None:
             await ctx.send('Neko prefers tea but oh well:')
             await ctx.send('https://ko-fi.com/B0B812IOW')
+
+    @commands.command(case_insensitive=True)
+    async def neko(self, ctx):
+        """Downloads a Neko"""
+        if ctx.invoked_subcommand is None:
+            await ctx.send('Personal Neko-chans for your home! https://top.gg/bot/612289879186997278\nPlease vote for Neko while at it~')
 
     @commands.command(case_insensitive=True)
     async def members(self, ctx):
@@ -88,4 +94,4 @@ class Commands(commands.Cog):
 
 
 def setup(bot):
-    bot.add_cog(Commands(bot))
+    bot.add_cog(COMMANDS(bot))
