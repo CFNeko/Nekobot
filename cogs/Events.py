@@ -53,8 +53,7 @@ class Events(commands.Cog):
     #ignores people blocking Neko-chan from sending welcome messages in other channels
     @commands.Cog.listener()
     async def on_command_error(self, ctx, error):
-        ignored = (commands.CommandNotFound)
-        if isinstance(error, ignored):
+        if isinstance(error, commands.CommandNotFound):
             return
         if isinstance(error, commands.CommandInvokeError):
             if isinstance(error.original, discord.errors.Forbidden):
