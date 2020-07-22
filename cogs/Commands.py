@@ -73,6 +73,7 @@ class COMMANDS(commands.Cog):
                 await ctx.send(embed=help_message)
 
     @commands.command(case_insensitive=True)
+    """Turns a country in a tag"""
     async def tag(self, ctx, *, nation: str):
         nation = nation.title()
         async with self.bot.db.acquire() as conn:
@@ -83,6 +84,7 @@ class COMMANDS(commands.Cog):
                 await ctx.send(str(tag))
 
     @commands.command(case_insensitive=True)
+    """Turns a tag into a country"""
     async def country(self, ctx, *, tag: str):
         tag = tag.upper()
         async with self.bot.db.acquire() as conn:
