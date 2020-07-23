@@ -29,7 +29,7 @@ class NIE(commands.Cog):
         if len(country) == 3 and x.isupper():
             print(f'NIE tag request received: {x}')
             async with self.bot.db.acquire() as conn:
-                country = await conn.fetchval('SELECT country FROM tags WHERE tag=$1', x)
+                country = await conn.fetchval('SELECT country FROM tags WHERE tag=$1', x.upper())
         else:
             print(f'NIE country request received {country}') 
             async with self.bot.db.acquire() as conn:
