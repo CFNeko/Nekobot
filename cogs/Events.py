@@ -45,18 +45,17 @@ class Events(commands.Cog):
             'Welcome to the rice tields {}',
             'Expanded Team now has a recruitment casus belli on {}',]
             guild = member.guild
-            if guild.system_channel is not None:
-                await guild.system_channel.send(welcomeMessage[self.bot.index].format(str(member.mention)))
-            self.bot.index = (self.bot.index + 1) % 9
+            try:
+                if guild.system_channel is not None:
+                    await guild.system_channel.send(welcomeMessage[self.bot.index].format(str(member.mention)))
+                self.bot.index = (self.bot.index + 1) % 9
+            except:
+                return
 
     #ignores random '+'' signs that could be misinterpreted as commands
-    #ignores people blocking Neko-chan from sending welcome messages in other channels
     @commands.Cog.listener()
     async def on_command_error(self, ctx, error):
         if isinstance(error, commands.CommandNotFound):
             return
-        if isinstance(error, commands.CommandInvokeError):
-            if isinstance(error.original, discord.errors.Forbidden):
-                return
 def setup(bot):
     bot.add_cog(Events(bot))
