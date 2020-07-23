@@ -25,13 +25,13 @@ class NIE(commands.Cog):
     @nie.command()
     async def find(self, ctx, *, country: str):
         """+nie find [tag] Sends back the nation with NIE ideas"""
+        x = country
         if len(country) != 3:
-            async with self.bot.db.acquire() as conn:
-                x = country
-                print(f'NIE full name request received: {x}')
+            print(f'NIE full name request received: {x}')
         else:
             print(f'NIE request received {country}')
-            tag = await conn.fetchval('SELECT tag FROM tags WHERE country=$1', x)
+            async with self.bot.db.acquire() as conn:
+                tag = await conn.fetchval('SELECT tag FROM tags WHERE country=$1', x)
         try:
             nieBodyMessage = f'```{nieDataDescription[tag]} \n----------\n'
             for key, value in nieData[country].items():
