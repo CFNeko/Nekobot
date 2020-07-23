@@ -8775,7 +8775,7 @@
             "Yearly Legitimacy": 1
         }
     },
-    "": {
+    "Angevin Empire": {
         "Tradition": {
             "Morale of Navies": 0.1,
             "Yearly Legitimacy": 1,
@@ -8919,7 +8919,7 @@
             "Governing Capacity Modifier": 0.1
         }
     },
-    "": {
+    "Great Russian Republic": {
         "Tradition": {
             "Yearly Corruption": -0.1,
             "Years of Separatism": -5
@@ -9525,7 +9525,7 @@
         "Who Needs a State Religion?": {
             "Religious Unity": 0.25
         },
-        "": {
+        "Spearhead Liberal Ideas": {
             "Idea Cost": -0.1
         },
         "Balance the Scales": {
