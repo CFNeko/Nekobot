@@ -37,8 +37,10 @@ class NIE(commands.Cog):
                 tag = await conn.fetchval('SELECT tag FROM tags WHERE country=$1', x)
         try:
             nieBodyMessage = f'```{nieDataDescription[tag]} \n----------\n'
-            for key, value in nieData[country].items():
-                nieBodyMessage = nieBodyMessage + f'{key.title()}: {value} \n'
+            for key, values in nieData[country].items():
+                for value in values:
+                    print(f'{value}\n')
+                nieBodyMessage = nieBodyMessage + f'{key.title()}: {values} \n'
             nieBodyMessage = nieBodyMessage + '```'
             await ctx.send(nieBodyMessage)
         except:
