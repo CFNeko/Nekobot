@@ -29,11 +29,11 @@ class NIE(commands.Cog):
             async with self.bot.db.acquire() as conn:
                 x = country
                 print(f'NIE full name request received: {x}')
-                country = await conn.fetchval('SELECT tag FROM tags WHERE country=$1', x)
         else:
             print(f'NIE request received {country}')
+            tag = await conn.fetchval('SELECT tag FROM tags WHERE country=$1', x)
         try:
-            nieBodyMessage = f'```{nieDataDescription[country]} \n----------\n'
+            nieBodyMessage = f'```{nieDataDescription[tag]} \n----------\n'
             for key, value in nieData[country].items():
                 nieBodyMessage = nieBodyMessage + f'{key.title()}: {value} \n'
             nieBodyMessage = nieBodyMessage + '```'
