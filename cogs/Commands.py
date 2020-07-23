@@ -49,7 +49,7 @@ class COMMANDS(commands.Cog):
                                                                                          'get further details')
             cogs_desc = ''
             for x in self.bot.cogs:
-                if x == 'Events':
+                if x in {'Events', 'ADM'}:
                     continue
                 cogs_desc += f'{x.title()} - {self.bot.cogs[x].__doc__}\n'
             help_message.add_field(name='Commands', value=cogs_desc[0:len(cogs_desc)-1], inline=False)
