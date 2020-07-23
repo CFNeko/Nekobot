@@ -576,7 +576,7 @@
             "Core-Creation Cost": -0.1
         },
         "Incorporate Surrounding Cultures": {
-            "num_accepted_cultures": 1
+            "Accepted Cultures": 1
         },
         "Defend Kashmir": {
             "National Garrison Growth": 0.1,
@@ -740,7 +740,7 @@
         },
         "Contention with the Danish": {
             "Fort Defense": 0.1,
-            "global_spy_defence": 0.2
+            "Spy Defense": 0.2
         },
         "Keep the House of Ascania": {
             "National Manpower Modifier": 0.2
@@ -891,7 +891,7 @@
     "Magdeburg": {
         "Tradition": {
             "Fort Defense": 0.2,
-            "num_accepted_cultures": 1
+            "Accepted Cultures": 1
         },
         "Ambition": {
             "Manpower Recovery Speed": 0.1
@@ -994,7 +994,7 @@
     "Avaria": {
         "Tradition": {
             "Attrition for Enemies": 1,
-            "shock_damage_received": -0.1
+            "Shock Damage Received": -0.1
         },
         "Ambition": {
             "National Manpower Modifier": 0.25
@@ -1021,7 +1021,7 @@
             "Fort Defense": 0.15
         },
         "Cultures of the Caucuses": {
-            "num_accepted_cultures": 1
+            "Accepted Cultures": 1
         }
     },
     "Lucca": {
@@ -1093,11 +1093,11 @@
     },
     "Livonia": {
         "Tradition": {
-            "shock_damage_received": -0.1,
+            "Shock Damage Received": -0.1,
             "National Manpower Modifier": 0.2
         },
         "Ambition": {
-            "fire_damage_received": -0.1
+            "Fire Damage Received": -0.1
         },
         
         
@@ -1109,7 +1109,7 @@
         },
         "The Remaining Baltic Tribes": {
             "Manpower Recovery Speed": 0.1,
-            "global_regiment_recruit_speed": -0.1
+            "Recruitment Time": -0.1
         },
         "Population Resurgence": {
             "Production Efficiency": 0.1
@@ -1152,7 +1152,7 @@
             "National Unrest": -1
         },
         "People Groups of Syria": {
-            "num_accepted_cultures": 2
+            "Accepted Cultures": 2
         },
         "The Nation of Syria": {
             "Land Force Limit Modifier": 0.2
@@ -1164,7 +1164,7 @@
             "Land Force Limit Modifier": 0.25
         },
         "Ambition": {
-            "num_accepted_cultures": 1
+            "Accepted Cultures": 1
         },
         
         
@@ -1319,7 +1319,7 @@
             "Mercenary Cost": -0.2
         },
         "Mamluk Ties": {
-            "global_regiment_cost": -0.1
+            "Regiment Costs": -0.1
         },
         "Extending our Influence": {
             "Years of Separatism": -5
@@ -1563,10 +1563,10 @@
             "Yearly Navy Tradition": 1
         }
     },
-    "": {
+    "Berber Minor": {
         "Tradition": {
             "Cavalry Combat Ability": 0.15,
-            "leader_land_manuever": 1
+            "Land Leader Maneuver": 1
         },
         "Ambition": {
             "Monthly Autonomy Change": -0.05
@@ -1652,7 +1652,7 @@
         },
         "Lessons from Srivijaya and Majapahit": {
             "Core-Creation Cost": -0.1,
-            "global_ship_cost": -0.1
+            "Ship Costs": -0.1
         },
         "Chinese Influences": {
             "Diplomatic Reputation": 1
@@ -1695,7 +1695,7 @@
             "Yearly Prestige": 1
         },
         "Cultural Understanding": {
-            "num_accepted_cultures": 1,
+            "Accepted Cultures": 1,
             "Promote Culture cost": -0.5
         },
         "Georgian Military Services": {
@@ -1712,7 +1712,7 @@
             "Attrition for Enemies": 1
         },
         "Ambition": {
-            "num_accepted_cultures": 1
+            "Accepted Cultures": 1
         },
         
         
@@ -1749,7 +1749,7 @@
         
         
         "Cohesion in the Deccan": {
-            "num_accepted_cultures": 2
+            "Accepted Cultures": 2
         },
         "Setup Forges and Foundries": {
             "Artillery Cost": -0.15
@@ -1795,7 +1795,7 @@
             "National Garrison Growth": 0.25
         },
         "Adopting Deccani Culture": {
-            "num_accepted_cultures": 2
+            "Accepted Cultures": 2
         },
         "Against the Vijayanagara Empire": {
             "Discipline": 0.05
@@ -1810,7 +1810,7 @@
             "Development Cost": -0.1
         },
         "Ambition": {
-            "num_accepted_cultures": 2
+            "Accepted Cultures": 2
         },
         
         
@@ -1867,7 +1867,7 @@
             "Garrison Size": 0.25
         },
         "Akin to the Persian World": {
-            "num_accepted_cultures": 2
+            "Accepted Cultures": 2
         }
     },
     "Toulouse": {
@@ -2010,7 +2010,7 @@
     },
     "Bourbonnais": {
         "Tradition": {
-            "global_spy_defence": 0.2,
+            "Spy Defense": 0.2,
             "Fort Maintenance": -0.1
         },
         "Ambition": {
@@ -2103,7 +2103,7 @@
             "Fort Maintenance": -0.1
         },
         "Ambitions from the Border": {
-            "fabricate_claims_cost": -0.25
+            "Cost to fabricate claims": -0.25
         },
         "All for France": {
             "Leader(s) without Upkeep": 1,
@@ -2160,7 +2160,7 @@
             "Mercenary Cost": -0.1
         },
         "The Savoy-Dauphine Conflicts": {
-            "fabricate_claims_cost": -0.25
+            "Cost to fabricate claims": -0.25
         },
         "French Military Service": {
             "Yearly Army Tradition": 0.5
@@ -2500,7 +2500,7 @@
             "Aggressive Expansion Impact": -0.1
         },
         "Cultural Works of Qi": {
-            "num_accepted_cultures": 1
+            "Accepted Cultures": 1
         },
         "Learn from the Northern Qi": {
             "National Unrest": -1
@@ -2765,7 +2765,7 @@
     },
     "Changsheng": {
         "Tradition": {
-            "shock_damage_received": -0.1,
+            "Shock Damage Received": -0.1,
             "Fort Defense": 0.1
         },
         "Ambition": {
@@ -2796,7 +2796,7 @@
         },
         "Peace for the Zhuang People": {
             "State Maintenance": -0.1,
-            "global_spy_defence": 0.2
+            "Spy Defense": 0.2
         }
     },
     "Qin": {
@@ -2845,7 +2845,7 @@
         
         "Migrations of the Hakka": {
             "Movement Speed": 0.1,
-            "leader_land_manuever": 1
+            "Land Leader Maneuver": 1
         },
         "Productive Potential": {
             "Production Efficiency": 0.1
@@ -3056,7 +3056,7 @@
             "Trade Efficiency": 0.1
         },
         "Lessons from Internal Struggles": {
-            "shock_damage_received": -0.05,
+            "Shock Damage Received": -0.05,
             "Shock Damage": 0.05
         },
         "Matrilinial Succession System": {
@@ -3221,7 +3221,7 @@
         },
         "Adaptation of Firearms": {
             "Land Fire Damage": 0.05,
-            "fire_damage_received": -0.05
+            "Fire Damage Received": -0.05
         },
         "Fortifications of Arcot": {
             "Fort Defense": 0.15
@@ -3259,7 +3259,7 @@
         },
         "Protecting the Atolls": {
             "Heavy Ship Combat Ability": 0.1,
-            "global_ship_cost": -0.1
+            "Ship Costs": -0.1
         },
         "The Arabic Language": {
             "Administrative Technology Cost": -0.1
@@ -3304,8 +3304,8 @@
             "Religious Unity": 0.25
         },
         "Organized Military Payment System": {
-            "global_regiment_cost": -0.1,
-            "global_regiment_recruit_speed": -0.1
+            "Regiment Costs": -0.1,
+            "Recruitment Time": -0.1
         }
     },
     "Chanda": {
@@ -3389,7 +3389,7 @@
             "Yearly Army Tradition Decay": -0.01
         },
         "Rebels Against Bahmanis": {
-            "global_regiment_recruit_speed": -0.1,
+            "Recruitment Time": -0.1,
             "National Manpower Modifier": 0.1
         },
         "'Land of the Khans'": {
@@ -3406,7 +3406,7 @@
             "Fort Defense": 0.1
         },
         "Satiate the Minorities": {
-            "num_accepted_cultures": 1
+            "Accepted Cultures": 1
         }
     },
     "Gwalior": {
@@ -3454,7 +3454,7 @@
         
         
         "Rao underneath the Sisodias": {
-            "global_regiment_cost": -0.1
+            "Regiment Costs": -0.1
         },
         "Legacy of the Meena Tribe": {
             "Possible Advisors": 1,
@@ -3583,10 +3583,10 @@
     "Nagaur": {
         "Tradition": {
             "Infantry Combat Ability": 0.1,
-            "global_regiment_recruit_speed": -0.1
+            "Recruitment Time": -0.1
         },
         "Ambition": {
-            "num_accepted_cultures": 1
+            "Accepted Cultures": 1
         },
         
         
@@ -3603,7 +3603,7 @@
             "Yearly Army Tradition": 0.5
         },
         "Against Delhi": {
-            "fabricate_claims_cost": -0.25,
+            "Cost to fabricate claims": -0.25,
             "Spy Network Construction": 0.15
         },
         "Fortify Nagaur": {
@@ -3640,7 +3640,7 @@
             "Province War Score Cost": -0.1
         },
         "Adoption of New Strategies": {
-            "shock_damage_received": -0.05,
+            "Shock Damage Received": -0.05,
             "Shock Damage": 0.05
         },
         "Soldify Kalahandi": {
@@ -3846,7 +3846,7 @@
     },
     "Jeypore": {
         "Tradition": {
-            "fabricate_claims_cost": -0.25,
+            "Cost to fabricate claims": -0.25,
             "Mercenary Maintenance": -0.1
         },
         "Ambition": {
@@ -3859,7 +3859,7 @@
             "Yearly Prestige": 1
         },
         "Various Outside Traditions": {
-            "num_accepted_cultures": 2
+            "Accepted Cultures": 2
         },
         "Fortress Control": {
             "Fort Maintenance": -0.15
@@ -4021,7 +4021,7 @@
         
         
         "Land of the Jungle Kingdoms": {
-            "fabricate_claims_cost": -0.25
+            "Cost to fabricate claims": -0.25
         },
         "Kechai Khaiti": {
             "Morale of Armies": 0.1
@@ -4034,7 +4034,7 @@
         },
         "Specialize the Five Royal Sengphongs": {
             "State Maintenance": -0.2,
-            "global_spy_defence": 0.2
+            "Spy Defense": 0.2
         },
         "Build up the Mel Mandap": {
             "Cost of Advisors with Ruler's Culture": -0.2
@@ -4063,7 +4063,7 @@
             "Yearly Army Tradition": 0.5
         },
         "Northern Invasions against the Vindhyan": {
-            "shock_damage_received": -0.1
+            "Shock Damage Received": -0.1
         },
         "Capital Fortress Town": {
             "Yearly Legitimacy": 1,
@@ -4152,7 +4152,7 @@
         
         
         "Afghan Tensions": {
-            "fabricate_claims_cost": -0.25
+            "Cost to fabricate claims": -0.25
         },
         "Temple Architecture": {
             "Construction Cost": -0.1,
@@ -4180,7 +4180,7 @@
             "Diplomatic Relations": 1
         },
         "Ambition": {
-            "fire_damage_received": -0.1
+            "Fire Damage Received": -0.1
         },
         
         
@@ -4212,7 +4212,7 @@
             "Diplomatic Reputation": 1
         },
         "Ambition": {
-            "global_regiment_cost": -0.1
+            "Regiment Costs": -0.1
         },
         
         
@@ -4229,7 +4229,7 @@
             "Aggressive Expansion Impact": -0.15
         },
         "Practice Guerrilla Warfare": {
-            "fire_damage_received": -0.1
+            "Fire Damage Received": -0.1
         },
         "Rohilla Resistance": {
             "Manpower Recovery Speed": 0.1
@@ -4264,7 +4264,7 @@
             "Fort Defense": 0.2
         },
         "Blending of Identities": {
-            "num_accepted_cultures": 1
+            "Accepted Cultures": 1
         },
         "Shah-e-Mewat": {
             "Yearly Legitimacy": 1
@@ -4287,7 +4287,7 @@
             "Monthly Autonomy Change": -0.05
         },
         "Rajput Order": {
-            "global_regiment_cost": -0.1
+            "Regiment Costs": -0.1
         },
         "Overlord Status": {
             "Income from Vassals": 0.25,
@@ -4451,7 +4451,7 @@
         
         
         "Memories of Kathiawar Control": {
-            "fabricate_claims_cost": -0.25
+            "Cost to fabricate claims": -0.25
         },
         "Defeated, by not Dead!": {
             "Recover Army Morale Speed": 0.1,
@@ -4492,14 +4492,14 @@
         },
         "The Horn of Africa": {
             "Diplomatic Reputation": 1,
-            "sailor_maintenance_modifer": -0.1
+            "Sailor Maintenance": -0.1
         },
         "Warsangali Trade Relations": {
             "Trade Efficiency": 0.1,
             "Trade Range": 0.33
         },
         "Tensions in the West": {
-            "fabricate_claims_cost": -0.25,
+            "Cost to fabricate claims": -0.25,
             "Privateer Efficiency": 0.25
         },
         "Questions in the North": {
@@ -4530,7 +4530,7 @@
             "Improve Relations": 0.2
         },
         "Naval Efforts of Majeerteen": {
-            "global_ship_cost": -0.1,
+            "Ship Costs": -0.1,
             "Morale of Navies": 0.1
         },
         "Centralized Authority in Majeerteen": {
@@ -4540,7 +4540,7 @@
             "Technology Cost": -0.075
         },
         "Establish the Majeerteen Military": {
-            "global_regiment_cost": -0.1
+            "Regiment Costs": -0.1
         }
     },
     "Marehan": {
@@ -4667,7 +4667,7 @@
             "Naval Force Limit Modifier": 0.2
         },
         "Melting Pot of East Africa": {
-            "num_accepted_cultures": 1
+            "Accepted Cultures": 1
         },
         "Centralization of Cities": {
             "Diplomatic Free Policies": 1
@@ -4773,7 +4773,7 @@
         },
         "Assimilate Inland": {
             "Manpower Recovery Speed": 0.1,
-            "sailor_maintenance_modifer": -0.1
+            "Sailor Maintenance": -0.1
         },
         "A Heart to the Region": {
             "Naval Force Limit Modifier": 0.25
@@ -4782,7 +4782,7 @@
     "Geledi": {
         "Tradition": {
             "Manpower Recovery Speed": 0.1,
-            "global_regiment_cost": -0.1
+            "Regiment Costs": -0.1
         },
         "Ambition": {
             "Land Maintenance Modifier": -0.1
@@ -4836,7 +4836,7 @@
             "Yearly Legitimacy": 1
         },
         "Tensions with the Oromo": {
-            "global_spy_defence": 0.25
+            "Spy Defense": 0.25
         },
         "Defense over Offense": {
             "Fort Defense": 0.1,
@@ -4863,7 +4863,7 @@
             "Yearly Army Tradition Decay": -0.01
         },
         "River & Mountain Warfare": {
-            "shock_damage_received": -0.1
+            "Shock Damage Received": -0.1
         },
         "Fighting the Oromo": {
             "Garrison Size": 0.2
@@ -4977,7 +4977,7 @@
             "Monthly War Exhaustion": -0.02
         }
     },
-    "": {
+    "Adal Successor": {
         "Tradition": {
             "Shock Damage": 0.1,
             "War Score Cost vs Other Religions": -0.1
@@ -5025,7 +5025,7 @@
         },
         "Kilwa's Good Side": {
             "Light Ship Combat Ability": 0.1,
-            "sailor_maintenance_modifer": -0.1
+            "Sailor Maintenance": -0.1
         },
         "Swahili and Mutapan People": {
             "Diplomatic Reputation": 1
@@ -5055,7 +5055,7 @@
         
         
         "The Only Oromo Confederation": {
-            "global_regiment_cost": -0.1
+            "Regiment Costs": -0.1
         },
         "The Gadaa System": {
             "Reform Progress Growth": 0.1,
@@ -5106,10 +5106,10 @@
             "Yearly Navy Tradition": 1
         },
         "Promote Cultural Unity": {
-            "num_accepted_cultures": 1
+            "Accepted Cultures": 1
         },
         "Relying on Ourselves": {
-            "global_regiment_cost": -0.1
+            "Regiment Costs": -0.1
         }
     },
     "Sus": {
@@ -5276,7 +5276,7 @@
             "Provincial Trade Power Modifier": 0.15
         },
         "A Future for Ourselves": {
-            "global_regiment_cost": -0.1
+            "Regiment Costs": -0.1
         }
     },
     "Kaabu": {
@@ -5416,7 +5416,7 @@
     "Zazzau": {
         "Tradition": {
             "Trade Steering": 0.25,
-            "fabricate_claims_cost": -0.25
+            "Cost to fabricate claims": -0.25
         },
         "Ambition": {
             "National Manpower Modifier": 0.25
@@ -5448,7 +5448,7 @@
     },
     "Hausa": {
         "Tradition": {
-            "global_regiment_cost": -0.1,
+            "Regiment Costs": -0.1,
             "Land Force Limit Modifier": 0.2
         },
         "Ambition": {
@@ -5574,7 +5574,7 @@
             "Merchant Trade Power": 10
         },
         "Bonoman Blacksmithing": {
-            "global_regiment_cost": -0.1
+            "Regiment Costs": -0.1
         },
         "Unify the Bonoman States": {
             "Yearly Legitimacy": 1
@@ -5704,7 +5704,7 @@
             "Fort Defense": 0.1
         },
         "Margrave Traditions": {
-            "global_regiment_cost": -0.1
+            "Regiment Costs": -0.1
         },
         "Defensive Positioning": {
             "Garrison Size": 0.2,
@@ -5813,10 +5813,10 @@
             "Diplomatic Reputation": 1
         },
         "Unite the Mongol Tribes": {
-            "num_accepted_cultures": 1
+            "Accepted Cultures": 1
         },
         "Organizing the Khalkhas": {
-            "global_regiment_cost": -0.1
+            "Regiment Costs": -0.1
         }
     },
     "Great Horde": {
@@ -5911,7 +5911,7 @@
             "Years of Separatism": -5
         },
         "Forest Fighting Methods": {
-            "shock_damage_received": -0.1
+            "Shock Damage Received": -0.1
         },
         "The Mirzas of Sibir": {
             "Manpower Recovery Speed": 0.1
@@ -5974,7 +5974,7 @@
             "Yearly Army Tradition Decay": -0.01
         },
         "Turkic Language Intelligibility": {
-            "num_accepted_cultures": 1
+            "Accepted Cultures": 1
         },
         "Bashkir Military Traditions": {
             "Military Free Policies": 1
@@ -6000,7 +6000,7 @@
             "Core-Creation Cost": -0.25
         },
         "Part of the Tumens": {
-            "global_regiment_recruit_speed": -0.1
+            "Recruitment Time": -0.1
         },
         "Fighting for Rightful Land": {
             "Yearly Army Tradition": 0.5
@@ -6029,7 +6029,7 @@
         
         
         "The Great Journey Westward": {
-            "leader_land_manuever": 1
+            "Land Leader Maneuver": 1
         },
         "Settle and Conquer": {
             "Core-Creation Cost": -0.25
@@ -6062,7 +6062,7 @@
         
         
         "Mongol Subjects": {
-            "global_regiment_cost": -0.1
+            "Regiment Costs": -0.1
         },
         "Ties to the Oirat": {
             "Mercenary Cost": -0.1
@@ -6077,8 +6077,8 @@
             "Movement Speed": 0.15
         },
         "Siberian Forest Combat": {
-            "shock_damage_received": -0.05,
-            "fire_damage_received": -0.05
+            "Shock Damage Received": -0.05,
+            "Fire Damage Received": -0.05
         },
         "Enduring Buryats": {
             "Monthly War Exhaustion": -0.02
@@ -6090,7 +6090,7 @@
             "Cavalry Cost": -0.15
         },
         "Ambition": {
-            "global_regiment_cost": -0.1
+            "Regiment Costs": -0.1
         },
         
         
@@ -6142,7 +6142,7 @@
             "Yearly Army Tradition": 0.5
         },
         "Lands of a Buffer State": {
-            "global_spy_defence": 0.2,
+            "Spy Defense": 0.2,
             "Diplomatic Reputation": 1
         },
         "Reformed Administrative Leadership": {
@@ -6269,7 +6269,7 @@
             "Production Efficiency": 0.1
         },
         "Holophrastic Language": {
-            "global_spy_defence": 0.25
+            "Spy Defense": 0.25
         },
         "Learning from the Iroquois": {
             "Colonists": 1,
@@ -6287,13 +6287,13 @@
         },
         "Continue the Stories": {
             "Yearly Prestige": 1,
-            "num_accepted_cultures": 1
+            "Accepted Cultures": 1
         }
     },
     "Assiniboine": {
         "Tradition": {
             "Improve Relations": 0.25,
-            "num_accepted_cultures": 1
+            "Accepted Cultures": 1
         },
         "Ambition": {
             "Diplomatic Reputation": 1
@@ -6385,7 +6385,7 @@
             "Morale of Armies": 0.1
         },
         "Forming Internal Confederacies": {
-            "global_colonial_growth": 15,
+            "Global Settler Increase": 15,
             "National Manpower Modifier": 0.15
         },
         "Great Plains Trade Hub": {
@@ -6423,7 +6423,7 @@
             "Shock Damage": 0.05
         },
         "Hit and Run!": {
-            "leader_land_manuever": 1,
+            "Land Leader Maneuver": 1,
             "Cavalry Combat Ability": 0.15
         },
         "The Sacred Arrows; The Sacred Buffalo Hat": {
@@ -6436,7 +6436,7 @@
             "Land Force Limit Modifier": 0.2
         },
         "Ambition": {
-            "global_regiment_cost": -0.15
+            "Regiment Costs": -0.15
         },
         
         
@@ -6467,7 +6467,7 @@
     "Illiniwek": {
         "Tradition": {
             "Infantry Cost": -0.1,
-            "global_regiment_recruit_speed": -0.2
+            "Recruitment Time": -0.2
         },
         "Ambition": {
             "National Manpower Modifier": 0.2
@@ -6491,12 +6491,12 @@
             "Morale of Armies": 0.1
         },
         "Assimilating Others": {
-            "global_colonial_growth": 10,
+            "Global Settler Increase": 10,
             "Settler Chance": 0.1
         },
         "The Illinois Confederacy": {
             "Years of Separatism": -5,
-            "num_accepted_cultures": 1
+            "Accepted Cultures": 1
         }
     },
     "Lenape": {
@@ -6527,10 +6527,10 @@
         },
         "Resist the Foreigners": {
             "Infantry Combat Ability": 0.1,
-            "global_spy_defence": 0.2
+            "Spy Defense": 0.2
         },
         "Unite with Others": {
-            "num_accepted_cultures": 1
+            "Accepted Cultures": 1
         }
     },
     "Mahican": {
@@ -6559,7 +6559,7 @@
         },
         "Mahican Phratries": {
             "Culture Conversion Cost": -0.1,
-            "num_accepted_cultures": 1
+            "Accepted Cultures": 1
         },
         "Fighting the Mohawk": {
             "Yearly Army Tradition Decay": -0.01
@@ -6579,7 +6579,7 @@
         
         
         "Lead on the Move": {
-            "leader_land_manuever": 1
+            "Land Leader Maneuver": 1
         },
         "Killing Moose": {
             "Yearly Prestige": 1
@@ -6613,7 +6613,7 @@
         
         
         "The Nature of Migrations": {
-            "leader_land_manuever": 1
+            "Land Leader Maneuver": 1
         },
         "The Iroquois Rivalry": {
             "Yearly Army Tradition": 0.5
@@ -6675,13 +6675,13 @@
             "Yearly Army Tradition Decay": -0.01
         },
         "Ambition": {
-            "shock_damage_received": -0.1
+            "Shock Damage Received": -0.1
         },
         
         
         "Touch-and-Go Relations": {
             "Spy Network Construction": 0.1,
-            "global_spy_defence": 0.1
+            "Spy Defense": 0.1
         },
         "Wars with the Iroquois": {
             "Morale of Armies": 0.1
@@ -6788,7 +6788,7 @@
             "Monthly War Exhaustion": -0.02
         },
         "By Ourselves": {
-            "global_spy_defence": 0.25
+            "Spy Defense": 0.25
         },
         "Calculated Expansion": {
             "Colonists": 1,
@@ -6821,7 +6821,7 @@
             "Provincial Trade Power Modifier": 0.1
         },
         "Defending the Pima": {
-            "shock_damage_received": -0.1
+            "Shock Damage Received": -0.1
         },
         "Steady Expansion": {
             "Colonists": 1,
@@ -6876,19 +6876,19 @@
             "Yearly Legitimacy": 1
         },
         "Ambition": {
-            "num_accepted_cultures": 1
+            "Accepted Cultures": 1
         },
         
         
         "System of Chiefdoms": {
-            "global_regiment_cost": -0.1
+            "Regiment Costs": -0.1
         },
         "Refinement and Expansion": {
             "Colonists": 1,
             "Automatically Discover Adjacent When a Colony is Built.": true
         },
         "Autonomous Cooperation": {
-            "global_colonial_growth": 20
+            "Global Settler Increase": 20
         },
         "Unified Militancy": {
             "Land Maintenance Modifier": -0.1
@@ -6906,10 +6906,10 @@
     "Shoshone": {
         "Tradition": {
             "Land Attrition": -0.1,
-            "global_regiment_recruit_speed": -0.1
+            "Recruitment Time": -0.1
         },
         "Ambition": {
-            "num_accepted_cultures": 1
+            "Accepted Cultures": 1
         },
         
         
@@ -7065,7 +7065,7 @@
             "Cavalry Cost": -0.1
         },
         "Developing an Identity": {
-            "global_spy_defence": 0.25
+            "Spy Defense": 0.25
         },
         "Small but Sharp": {
             "Discipline": 0.05
@@ -7099,7 +7099,7 @@
             "Cavalry Cost": -0.1
         },
         "Developing an Identity": {
-            "global_spy_defence": 0.25
+            "Spy Defense": 0.25
         },
         "Small but Sharp": {
             "Discipline": 0.05
@@ -7108,7 +7108,7 @@
     "Kiowa": {
         "Tradition": {
             "Yearly Legitimacy": 1,
-            "global_regiment_cost": -0.1
+            "Regiment Costs": -0.1
         },
         "Ambition": {
             "Yearly Army Tradition": 0.75
@@ -7187,7 +7187,7 @@
             "Prestige Decay": -0.01
         },
         "Decentralized People": {
-            "num_accepted_cultures": 2
+            "Accepted Cultures": 2
         },
         "Defensive Posturing": {
             "Diplomatic Reputation": 1
@@ -7197,7 +7197,7 @@
             "Automatically Discover Adjacent When a Colony is Built.": true
         },
         "Hand Combat Experience": {
-            "shock_damage_received": -0.05,
+            "Shock Damage Received": -0.05,
             "Shock Damage": 0.05
         },
         "Rock Wall Defense": {
@@ -7378,7 +7378,7 @@
         },
         "Rise of the Zapotec Empire": {
             "Land Force Limit Modifier": 0.2,
-            "global_regiment_cost": -0.1
+            "Regiment Costs": -0.1
         }
     },
     "Colima": {
@@ -7417,7 +7417,7 @@
     "Tlapanec": {
         "Tradition": {
             "Attrition for Enemies": 1,
-            "leader_land_manuever": 1
+            "Land Leader Maneuver": 1
         },
         "Ambition": {
             "Culture Conversion Cost": -0.2
@@ -7429,11 +7429,11 @@
             "Tolerance of Heretics": 2
         },
         "Surrounding Cultural Influences": {
-            "num_accepted_cultures": 1
+            "Accepted Cultures": 1
         },
         "Cotton Garments": {
             "Production Efficiency": 0.05,
-            "shock_damage_received": -0.05
+            "Shock Damage Received": -0.05
         },
         "Fighting the Aztecs": {
             "Infantry Combat Ability": 0.1
@@ -7488,7 +7488,7 @@
             "Diplomatic Relations": 1
         },
         "Ambition": {
-            "num_accepted_cultures": 2
+            "Accepted Cultures": 2
         },
         
         
@@ -7529,7 +7529,7 @@
             "National Manpower Modifier": 0.15
         },
         "Multiple Cultures": {
-            "num_accepted_cultures": 1
+            "Accepted Cultures": 1
         },
         "'Plain of Snakes'": {
             "Attrition for Enemies": 1
@@ -7583,7 +7583,7 @@
     },
     "Xalisco": {
         "Tradition": {
-            "shock_damage_received": -0.1,
+            "Shock Damage Received": -0.1,
             "Fort Defense": 0.1
         },
         "Ambition": {
@@ -7674,7 +7674,7 @@
             "Spy Network Construction": 0.2
         },
         "Chichimecan Traditions": {
-            "leader_land_manuever": 1
+            "Land Leader Maneuver": 1
         },
         "Survival in Arid Lands": {
             "Land Attrition": -0.15
@@ -7728,7 +7728,7 @@
         
         
         "Chichimecan Traditions": {
-            "leader_land_manuever": 1
+            "Land Leader Maneuver": 1
         },
         "Raiding Foreign Lands": {
             "Looting Speed": 0.2,
@@ -7824,12 +7824,12 @@
             "Improve Relations": 0.25
         },
         "Ambition": {
-            "global_regiment_cost": -0.1
+            "Regiment Costs": -0.1
         },
         
         
         "Nomadic Marks": {
-            "num_accepted_cultures": 1
+            "Accepted Cultures": 1
         },
         "Fighting against the Purepechas": {
             "Yearly Army Tradition Decay": -0.01
@@ -8095,7 +8095,7 @@
             "Fort Defense": 0.1
         },
         "Ambition": {
-            "global_regiment_cost": -0.1
+            "Regiment Costs": -0.1
         },
         
         
@@ -8154,7 +8154,7 @@
             "Land Leader Fire": 1
         },
         "The Many Wokou": {
-            "num_accepted_cultures": 2
+            "Accepted Cultures": 2
         },
         "The Age of the Wokou": {
             "Yearly Navy Tradition": 1
@@ -8251,7 +8251,7 @@
         },
         "Political Maneuvers around Kyoto": {
             "Diplomatic Reputation": 1,
-            "fabricate_claims_cost": -0.25
+            "Cost to fabricate claims": -0.25
         },
         "Reconnecting Ikeda Domains": {
             "National Manpower Modifier": 0.25
@@ -8285,7 +8285,7 @@
         },
         "Struggles for Unification": {
             "Land Force Limit Modifier": 0.25,
-            "fabricate_claims_cost": -0.25
+            "Cost to fabricate claims": -0.25
         },
         "Sailors of the Strait of Malacca": {
             "Yearly Navy Tradition": 1
@@ -8320,7 +8320,7 @@
         },
         "Struggles for Unification": {
             "Land Force Limit Modifier": 0.25,
-            "fabricate_claims_cost": -0.25
+            "Cost to fabricate claims": -0.25
         },
         "Nusantara Friends": {
             "Diplomatic Relations": 1
@@ -8361,7 +8361,7 @@
             "Tolerance of Heathens": -1
         },
         "Coin for Weapons": {
-            "global_regiment_cost": -0.1
+            "Regiment Costs": -0.1
         },
         "Reunite the Remnants": {
             "National Manpower Modifier": 0.25
@@ -8420,7 +8420,7 @@
         },
         "Muslim-Hindu Tensions": {
             "Spy Network Construction": 0.1,
-            "global_spy_defence": 0.1
+            "Spy Defense": 0.1
         },
         "Dawah Efforts": {
             "Missionary Strength": 0.02
@@ -8443,7 +8443,7 @@
             "Goods Produced Modifier": 0.1
         },
         "Ambition": {
-            "global_ship_cost": -0.1
+            "Ship Costs": -0.1
         },
         
         
@@ -8699,10 +8699,10 @@
             "Fort Defense": 0.1
         },
         "Learning to Cooperate": {
-            "num_accepted_cultures": 1
+            "Accepted Cultures": 1
         },
         "Gunpowder Influx": {
-            "global_regiment_cost": -0.1
+            "Regiment Costs": -0.1
         },
         "Structuring Luwu Society": {
             "Provincial Trade Power Modifier": 0.1
@@ -8735,7 +8735,7 @@
             "Institution Spread": 0.15
         },
         "Gunpowder Influx": {
-            "global_regiment_cost": -0.1
+            "Regiment Costs": -0.1
         },
         "Centralize Makassar's Power": {
             "National Unrest": -1
@@ -8753,7 +8753,7 @@
         
         "Consolidation of the Island Chain": {
             "Manpower Recovery Speed": 0.1,
-            "sailor_maintenance_modifer": -0.1
+            "Sailor Maintenance": -0.1
         },
         "Key Trade Links": {
             "Trade Efficiency": 0.15
@@ -8766,10 +8766,10 @@
             "Fort Defense": 0.1
         },
         "Harbors and Docks": {
-            "global_ship_recruit_speed": -0.25
+            "Shipbuilding Time": -0.25
         },
         "Gunpowder Influx": {
-            "global_regiment_cost": -0.1
+            "Regiment Costs": -0.1
         },
         "Enforce Political Cohesion": {
             "Yearly Legitimacy": 1
@@ -8941,7 +8941,7 @@
             "Reelection Cost": -0.1
         },
         "Beyond the Urals": {
-            "may_establish_frontier": true,
+            "May Establish Siberian Frontiers": true,
             "Automatically Discover Adjacent When a Colony is Built.": true
         },
         "Promote Russian Art": {
@@ -8950,7 +8950,7 @@
         },
         "Baltic Dominance": {
             "Trade Efficiency": 0.1,
-            "global_ship_cost": -0.1
+            "Ship Costs": -0.1
         },
         "Reformed Military Standards": {
             "Discipline": 0.05
@@ -8984,8 +8984,8 @@
             "Governing Capacity Modifier": 0.1
         },
         "Iron Deposits of Sulawesi": {
-            "shock_damage_received": -0.1,
-            "global_regiment_cost": -0.1
+            "Shock Damage Received": -0.1,
+            "Regiment Costs": -0.1
         },
         "The Spice Must Flow": {
             "Global Trade Power": 0.2,
@@ -9025,7 +9025,7 @@
         },
         "Construct Naval Bases": {
             "Global Ship Repair": 0.2,
-            "global_ship_recruit_speed": -0.2
+            "Shipbuilding Time": -0.2
         }
     },
     "North Sea Empire": {
@@ -9076,7 +9076,7 @@
         "Founding the Seven Council Fires": {
             "Colonists": 1,
             "Automatically Discover Adjacent When a Colony is Built.": true,
-            "global_colonial_growth": 10
+            "Global Settler Increase": 10
         },
         "The Wichiyena Councils": {
             "Advisor Costs": -0.15
@@ -9092,13 +9092,13 @@
             "Land Fire Damage": 0.05
         },
         "The Santee Councils": {
-            "num_accepted_cultures": 1
+            "Accepted Cultures": 1
         },
         "Seven Fires Light the Way": {
             "National Manpower Modifier": 0.33
         }
     },
-    "": {
+    "Scandinavia (Sweden)": {
         "Tradition": {
             "Discipline": 0.05,
             "Core-Creation Cost": -0.15
@@ -9133,7 +9133,7 @@
             "Governing Capacity Modifier": 0.1
         }
     },
-    "": {
+    "Scandinavia (Norway)": {
         "Tradition": {
             "Yearly Navy Tradition Decay": -0.01,
             "Global Naval Engagement": 0.2
@@ -9148,7 +9148,7 @@
         },
         "North Sea Sailors": {
             "Naval Maintenance Modifier": -0.2,
-            "leader_naval_manuever": 1
+            "Naval Leader Maneuver": 1
         },
         "Scandinavian Religiosity": {
             "Missionary Strength vs Heretics": 0.02,
@@ -9170,7 +9170,7 @@
             "Governing Capacity Modifier": 0.1
         }
     },
-    "": {
+    "Scandinavia (Denmark)": {
         "Tradition": {
             "Diplomatic Reputation": 1,
             "Global Trade Power": 0.2
@@ -9204,13 +9204,13 @@
             "Governing Capacity Modifier": 0.1
         }
     },
-    "": {
+    "Scandinavia (Finland)": {
         "Tradition": {
             "Attrition for Enemies": 1,
             "Discipline": 0.05
         },
         "Ambition": {
-            "land_forcelimit_modifier": 0.25},
+            "Land Forcelimit Modifier": 0.25},
         
         "Dockyards of Scandinavia": {
             "Naval Force Limit Modifier": 0.25
@@ -9236,13 +9236,13 @@
             "Governing Capacity Modifier": 0.1
         }
     },
-    "": {
+    "Scandinavia (Sapmi)": {
         "Tradition": {
             "Attrition for Enemies": 1,
             "Land Attrition": -0.2
         },
         "Ambition": {
-            "land_forcelimit_modifier": 0.25},
+            "Land Forcelimit Modifier": 0.25},
         
         "Dockyards of Scandinavia": {
             "Naval Force Limit Modifier": 0.25
@@ -9268,13 +9268,13 @@
             "Governing Capacity Modifier": 0.1
         }
     },
-    "": {
+    "Scandinavia (Iceland)": {
         "Tradition": {
             "May Raid Coasts": true,
             "Heavy Ship Combat Ability": 0.1
         },
         "Ambition": {
-            "land_forcelimit_modifier": 0.25},
+            "Land Forcelimit Modifier": 0.25},
         
         "Dockyards of Scandinavia": {
             "Naval Force Limit Modifier": 0.25
@@ -9319,7 +9319,7 @@
         },
         "Seafaring Ancestry": {
             "Yearly Navy Tradition": 1,
-            "sailor_maintenance_modifer": -0.2
+            "Sailor Maintenance": -0.2
         },
         "Valuable Northern Trade": {
             "Trade Efficiency": 0.15
@@ -9479,7 +9479,7 @@
             "Infantry Combat Ability": 0.1
         },
         "Regular River Crossings": {
-            "leader_land_manuever": 1
+            "Land Leader Maneuver": 1
         },
         "Plantations of Louisiana": {
             "Production Efficiency": 0.1
@@ -9525,7 +9525,7 @@
         "Who Needs a State Religion?": {
             "Religious Unity": 0.25
         },
-        "Spearhead Liberal Ideas": {
+        "Spearheading Liberal Ideas": {
             "Idea Cost": -0.1
         },
         "Balance the Scales": {
@@ -9611,7 +9611,7 @@
         
         "The Coasts of Venezuela": {
             "Naval Maintenance Modifier": -0.1,
-            "global_ship_cost": -0.1
+            "Ship Costs": -0.1
         },
         "Cocoa Plantations": {
             "Goods Produced Modifier": 0.1
@@ -9687,7 +9687,7 @@
             "Prestige Decay": -0.01
         },
         "Resurgence of the Nahua": {
-            "global_colonial_growth": 25
+            "Global Settler Increase": 25
         },
         "New Nahua Tributaries": {
             "Liberty Desire in Subjects": 10,
@@ -9741,12 +9741,12 @@
             "Trade Efficiency": 0.15
         },
         "Ambition": {
-            "global_tariffs": 0.2
+            "Tariffs": 0.2
         },
         
         
         "Infante D. Henrique of Portugal": {
-            "range": 0.25,
+            "Fleet Exploration Range": 0.25,
             "Yearly Navy Tradition Decay": -0.01
         },
         "Feitorias!": {
@@ -9788,7 +9788,7 @@
             "Land Maintenance Modifier": -0.1
         },
         "Claimant of Iberia": {
-            "fabricate_claims_cost": -0.25
+            "Cost to fabricate claims": -0.25
         },
         "Attracting Christian Pilgrims": {
             "Diplomatic Reputation": 1
@@ -9815,7 +9815,7 @@
         
         "Remember the 'Stato da Màr'": {
             "Trade Range": 0.5,
-            "global_ship_cost": -0.1
+            "Ship Costs": -0.1
         },
         "Protect Byzantine Art and Architecture": {
             "Yearly Prestige": 1
@@ -9989,7 +9989,7 @@
         
         
         "The Place of Many Languages": {
-            "num_accepted_cultures": 1
+            "Accepted Cultures": 1
         },
         "Centralize the Shan States": {
             "Diplomatic Relations": 1,
@@ -10040,7 +10040,7 @@
         },
         "Extensive Naval Matters": {
             "Yearly Navy Tradition": 1,
-            "global_ship_cost": -0.1
+            "Ship Costs": -0.1
         },
         "To Govern a Hinterland": {
             "Administrative Free Policies": 1
@@ -10086,7 +10086,7 @@
             "Yearly Navy Tradition": 1
         },
         "Ambition": {
-            "shock_damage_received": -0.1
+            "Shock Damage Received": -0.1
         },
         
         
@@ -10094,7 +10094,7 @@
             "National Manpower Modifier": 0.25
         },
         "Fighting in the Marshes": {
-            "fire_damage_received": -0.1
+            "Fire Damage Received": -0.1
         },
         "Insects... And Heat...": {
             "Land Attrition": -0.2
@@ -10108,7 +10108,7 @@
         },
         "Floridian Harbors": {
             "Naval Force Limit Modifier": 0.25,
-            "global_ship_cost": -0.1
+            "Ship Costs": -0.1
         },
         "Social Mobility": {
             "National Unrest": -1
