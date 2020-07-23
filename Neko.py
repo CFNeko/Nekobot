@@ -19,7 +19,7 @@ DB_HOST = os.getenv('DB_HOST')
 # load cogs
 bot = commands.Bot(command_prefix='+', description='A Neko Neko Bot', case_insensitive=True)
 bot.remove_command('help')
-startup_extensions = ['cogs.ME', 'cogs.GE', 'cogs.SE', 'cogs.NIE', 'cogs.TGE', 'cogs.Commands', 'cogs.ADM', 'cogs.Events', 'cogs.MCE', 'DiscordBotsAPi.py']
+startup_extensions = ['cogs.ME', 'cogs.GE', 'cogs.SE', 'cogs.NIE', 'cogs.TGE', 'cogs.Commands', 'cogs.ADM', 'cogs.Events', 'cogs.MCE', 'cogs.DiscordBotsAPi.py']
 for ext in startup_extensions:
     try:
         bot.load_extension(ext)
