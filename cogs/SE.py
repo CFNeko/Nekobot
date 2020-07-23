@@ -80,7 +80,8 @@ class SE(commands.Cog):
                 result = await conn.fetch('SELECT subject FROM se_subjects ORDER BY subject')
                 print('Creating new list')
                 self.bot.hasUpdated = True
-                # we put an ml code snippet because it allows for a more beautiful formatting, as per https://www.online-tech-tips.com/software-reviews/how-to-add-color-to-messages-on-discord/
+                # we put an ml code snippet because it allows for a more beautiful formatting,
+                # as per https://www.online-tech-tips.com/software-reviews/how-to-add-color-to-messages-on-discord/
                 subject_list = '```ml\n'
                 for subject in result:
                     subject_list = f'{subject_list} \u203B {subject["subject"]}'
