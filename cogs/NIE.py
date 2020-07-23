@@ -38,8 +38,8 @@ class NIE(commands.Cog):
         try:
             nieBodyMessage = f'```{nieDataDescription[tag]} \n----------\n'
             for key, values in nieData[country].items():
-                for value in values:
-                    print(f'{value}\n')
+                for k,v in values:
+                    print(f'{k}:{v}\n')
                 nieBodyMessage = nieBodyMessage + f'{key.title()}: {values} \n'
             nieBodyMessage = nieBodyMessage + '```'
             await ctx.send(nieBodyMessage)
